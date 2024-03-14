@@ -1,0 +1,4 @@
+10) Busca em listas, catálogos, clusters ou elencações indexadas
+- Listas de Pokemon, Episódio de One Piece (se tem um número aleatório na pista, procurar pelo Pokemon desse número)
+- Número do Curso no Manual da Fuvest
+- Listas de Ponto de Ônibus
