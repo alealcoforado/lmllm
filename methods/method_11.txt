@@ -1,3 +1,4 @@
-11) Links no site da CO ou referências a eventos ou itens específicos daquele ano da gincana IntegraPoli
-- links que precisam ser acessados através de encurtadores
-- Interação com determinadas interfaces específicas do IntegraPoli em curso
+Referências a itens da Lista do IntegraPoli daquele ano específico
+- A pista não é papel, e no lugar de encontrar um papel deve ser realizada uma tarefa
+- Entregar miojo para CO
+- Latir na sala da CO

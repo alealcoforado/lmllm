@@ -1,3 +1,3 @@
-9) Manipulação de imagens
+Manipulação de imagens
 - Esteganografia
 - Colocar o mapa do metrô sobre o mapa da USP

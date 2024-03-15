@@ -1,2 +1,2 @@
-8) Caminhos ou Trajetória
+Caminhos ou Trajetória
 - Quando a pista descreve um caminho "descendo do circular 3, olhando a direita…"

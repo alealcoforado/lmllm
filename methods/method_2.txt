@@ -1,0 +1,5 @@
+Código, Cifra, outros tipos de criptografia
+- Criptografia de texto
+- Criptografia de imagem
+- Padrões, sequências ou ordens
+- Alfabetos não usuais

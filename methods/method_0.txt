@@ -1,6 +1,4 @@
-Structure this txt in a JSON, with each number being a key of the JSON (1:..., 2:...)
-
-1) Manipulação de caracteres, sons ou palavras
+Manipulação de caracteres, sons ou palavras
 - "Jogo de palavras" (ex.: trocadilho)
 - Manipulação de caracteres (anagrama, acrônimo, formatação como negrito, maiúsculas etc)
 - Desambiguação de siglas

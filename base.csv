@@ -1,0 +1,3384 @@
+ml_dataset_index,pista_raw,1-jogo-de-palavras-anagrama-cacofonia,2-ref-visual-observavel-team-rua,3-criptografia,4-ref-historica-mitologia,5-cultura-pop-conhecimento-geral,6-ref-interna-cidade-universitaria,7-ref-externa-campus,8-caminho-trajetória-roteiro,9-manipular-imagens,10-busca-listas-elencaçoes-clusters,11-links-site-integra-daquele-ano,12-tarefa-não-papel,Método_agregado,autor_raw,macro_raw,micro_raw,explicação_raw,prompt,prompt_pista
+ML_2022_00198,"- Alô? Sérgio?
+ - Oi, não posso falar agora. 
+ - Por quê?
+ - O coordenador do biênio está andando a cavalo comigo",1,,,,1,,,,,,,,,,IEE,Interfone,"Sérgio Neiva Cavalcanti é o Sergio Mallandro, conhecido pelo GluGlu IEE. A pista é um telefonema, levando ao micro","||Pista: - Alô? Sérgio?
+ - Oi, não posso falar agora. 
+ - Por quê?
+ - O coordenador do biênio está andando a cavalo comigo | Explicação: Sérgio Neiva Cavalcanti é o Sergio Mallandro, conhecido pelo GluGlu IEE. A pista é um telefonema, levando ao micro | Macro: IEE | Micro: Interfone","||Pista: - Alô? Sérgio?
+ - Oi, não posso falar agora. 
+ - Por quê?
+ - O coordenador do biênio está andando a cavalo comigo"
+ML_2016_00276,"- Alpha Crucis, meu PC deu pau.
+ - E agora, Alpha Delphini, como vamos jogar CS?
+ - Ah! Eu tenho uma idéia...",,,1,,,1,,,,1,,,,Massa,IAG,"Laboratório de 
+ Astroinformática","Alpha Crucis e Alpha Delphini são duas estrelas, 
+ o que por si remete ao IAG.
+ A pista remete a estrelas querendo utilizar
+ computador.
+ Dentro do IAG, existe o Laboratório 
+ de Astroinformática, no qual um dos
+ computadores se chama Alphacrucis.","||Pista: - Alpha Crucis, meu PC deu pau.
+ - E agora, Alpha Delphini, como vamos jogar CS?
+ - Ah! Eu tenho uma idéia... | Explicação: Alpha Crucis e Alpha Delphini são duas estrelas, 
+ o que por si remete ao IAG.
+ A pista remete a estrelas querendo utilizar
+ computador.
+ Dentro do IAG, existe o Laboratório 
+ de Astroinformática, no qual um dos
+ computadores se chama Alphacrucis. | Macro: IAG | Micro: Laboratório de 
+ Astroinformática","||Pista: - Alpha Crucis, meu PC deu pau.
+ - E agora, Alpha Delphini, como vamos jogar CS?
+ - Ah! Eu tenho uma idéia..."
+ML_2016_00188,"- Com licença. Qual seria a sua operadora?
+ - Ah, eu uso chip da Telesp.",,,1,,,1,,,1,,,,,Massa,CENTRO DE VISITANTES,"Placa de fiação
+ telefônica","A primeira frase é alguém fazendo uma pergunta,
+ pedindo uma informação, o que remete ao Centro 
+ de Informações no P1.
+ Telesp remete ao símbolo da empresa
+ contido na caixa de fiação telefônica no chão.","||Pista: - Com licença. Qual seria a sua operadora?
+ - Ah, eu uso chip da Telesp. | Explicação: A primeira frase é alguém fazendo uma pergunta,
+ pedindo uma informação, o que remete ao Centro 
+ de Informações no P1.
+ Telesp remete ao símbolo da empresa
+ contido na caixa de fiação telefônica no chão. | Macro: CENTRO DE VISITANTES | Micro: Placa de fiação
+ telefônica","||Pista: - Com licença. Qual seria a sua operadora?
+ - Ah, eu uso chip da Telesp."
+ML_2015_00015,"- É aqui que passa o riozinho?- Se pá, hmm... não! Do outro lado!",,,,1,,,,1,,,,,,Bracco,CEPAM,Ponto de ônibus (outro lado da avenida),"Rio Pequeno (Riozinho) é uma linha de ônibus que passa pela USP.
+ ""Se pá, hmm"" é cacofonia de CEPAM, mas a linha de ônibus no ponto do CEPAM vai pro sentido contrário, então tem que pegar o ônibus do outro lado da avenida, no ponto da biblioteca da química.","||Pista: - É aqui que passa o riozinho?- Se pá, hmm... não! Do outro lado! | Explicação: Rio Pequeno (Riozinho) é uma linha de ônibus que passa pela USP.
+ ""Se pá, hmm"" é cacofonia de CEPAM, mas a linha de ônibus no ponto do CEPAM vai pro sentido contrário, então tem que pegar o ônibus do outro lado da avenida, no ponto da biblioteca da química. | Macro: CEPAM | Micro: Ponto de ônibus (outro lado da avenida)","||Pista: - É aqui que passa o riozinho?- Se pá, hmm... não! Do outro lado!"
+ML_2017_00183,"- Eu não quero aqui, prefiro uma poltrona
+ - Vida, você pede tanta coisa...",,1,,,,,1,,,,,,,Rossi,Bancos,Caixa - banco,"poltrona=banco. Slogan da caixa ""A vida pede mais que um banco""","||Pista: - Eu não quero aqui, prefiro uma poltrona
+ - Vida, você pede tanta coisa... | Explicação: poltrona=banco. Slogan da caixa ""A vida pede mais que um banco"" | Macro: Bancos | Micro: Caixa - banco","||Pista: - Eu não quero aqui, prefiro uma poltrona
+ - Vida, você pede tanta coisa..."
+ML_2019_00365,"- Não adianta discutir Reforma da Previdência sem ver os números
+ - Eu já pedi, mas quem faz as análises é a Dé
+ - Mas essa francesa não faz nada... Por isso que eu prego o Estado mínimo",,,1,,,,,,1,,,,,,SEADE,-,"Dé em francês é dado, levando para ""análises de dados"". Estado mínimo faz referência a ser análise de dados do estado, levando para o SEADE","||Pista: - Não adianta discutir Reforma da Previdência sem ver os números
+ - Eu já pedi, mas quem faz as análises é a Dé
+ - Mas essa francesa não faz nada... Por isso que eu prego o Estado mínimo | Explicação: Dé em francês é dado, levando para ""análises de dados"". Estado mínimo faz referência a ser análise de dados do estado, levando para o SEADE | Macro: SEADE | Micro: -","||Pista: - Não adianta discutir Reforma da Previdência sem ver os números
+ - Eu já pedi, mas quem faz as análises é a Dé
+ - Mas essa francesa não faz nada... Por isso que eu prego o Estado mínimo"
+ML_2022_00231,"- Por que demorais, Isaac?
+ - Por sua causa, pai.",,,,,1,,,,,,,,,,IF,Auditorio Abrahão de Morais,Isaac é filho de Abrahão e demorais faz referência a de Moraes,"||Pista: - Por que demorais, Isaac?
+ - Por sua causa, pai. | Explicação: Isaac é filho de Abrahão e demorais faz referência a de Moraes | Macro: IF | Micro: Auditorio Abrahão de Morais","||Pista: - Por que demorais, Isaac?
+ - Por sua causa, pai."
+ML_2022_00021,"- Posso deixar a magrela aqui?
+ - Aqui não, tá em obras, Eliana.",1,,,,,,,1,,,,,,,Brasiliana,Placa de proibido moto,"Ta em obras, Eliana é sonoro pra brasiliana. Magrela é bicicleta e leva ao micro> placa de proibido moto da ponte","||Pista: - Posso deixar a magrela aqui?
+ - Aqui não, tá em obras, Eliana. | Explicação: Ta em obras, Eliana é sonoro pra brasiliana. Magrela é bicicleta e leva ao micro> placa de proibido moto da ponte | Macro: Brasiliana | Micro: Placa de proibido moto","||Pista: - Posso deixar a magrela aqui?
+ - Aqui não, tá em obras, Eliana."
+ML_2017_00129,"- Quer um pão quentinho? 
+ - Não posso tô em cutting. 
+ - Mas eu fiz pra você!",,,,,,1,,,,1,,,,Corrupto,"Academia do 
+ Santander no CEPE",Placa do itau,"O simbolo do santander parece um pão quentinho. 
+ Slogan do Itau é feito pra você. No predio do lado da 
+ academia do santander no CEPE tem uma placa do itau sendo usada pra tampar um buraco","||Pista: - Quer um pão quentinho? 
+ - Não posso tô em cutting. 
+ - Mas eu fiz pra você! | Explicação: O simbolo do santander parece um pão quentinho. 
+ Slogan do Itau é feito pra você. No predio do lado da 
+ academia do santander no CEPE tem uma placa do itau sendo usada pra tampar um buraco | Macro: Academia do 
+ Santander no CEPE | Micro: Placa do itau","||Pista: - Quer um pão quentinho? 
+ - Não posso tô em cutting. 
+ - Mas eu fiz pra você!"
+ML_2022_00137,"-(23562406 + 23560291), -( 46715324 + 46734917), (212153154)",,1,,,1,,,,,,,,,,EEFE,bloco d eefe,"Os pares -23.562406, -46.715324 e -23.560291, -46.734917 resultam na Faculdade de Educação e Instituto de Física, respectivamente. Os sinais de soma indicam Educação + Física -> Educação Física -> EEFE. O segundo bloco de números deve ser separado como: 2 12 15 3 15 4, onde utilizando-se uma cifra ""a1z26"" tem-se B L O C O D.","||Pista: -(23562406 + 23560291), -( 46715324 + 46734917), (212153154) | Explicação: Os pares -23.562406, -46.715324 e -23.560291, -46.734917 resultam na Faculdade de Educação e Instituto de Física, respectivamente. Os sinais de soma indicam Educação + Física -> Educação Física -> EEFE. O segundo bloco de números deve ser separado como: 2 12 15 3 15 4, onde utilizando-se uma cifra ""a1z26"" tem-se B L O C O D. | Macro: EEFE | Micro: bloco d eefe","||Pista: -(23562406 + 23560291), -( 46715324 + 46734917), (212153154)"
+ML_2015_00040,-ad.jdjtdpt -gm.mtp1,,,,,,,,,,,1,,,Mari,ICB,Barracas de lanche,"Traduzindo as letras para numeros (usando teclado alfanumerico) chegamos em coordenadas que levam a uma rua de SP com o nome de um professor que estudou no ICB. Usando o Street View, no local indicado tem uma barraca de lanche, como no ICB3","||Pista: -ad.jdjtdpt -gm.mtp1 | Explicação: Traduzindo as letras para numeros (usando teclado alfanumerico) chegamos em coordenadas que levam a uma rua de SP com o nome de um professor que estudou no ICB. Usando o Street View, no local indicado tem uma barraca de lanche, como no ICB3 | Macro: ICB | Micro: Barracas de lanche",||Pista: -ad.jdjtdpt -gm.mtp1
+ML_2023_00013,,,,,,,,,,,,,,,Maua,Bandeco Central,Entrada,Separa RGB e morse,||Pista:  | Explicação: Separa RGB e morse | Macro: Bandeco Central | Micro: Entrada,
+ML_2019_00179,"-Esse bixe chate, alá rabetania, indo pra saída fechada.
+ -Li que a 3 fechava, como eu ia saber que a 4 e a 5 fechavam juntas?
+ -Pera lá, Tânia não, é a mãe dele. 
+ -Essa geração, até faz jus ante bixos. No meu ano, a primeira palavra bastava pra mandar no bixo, lá em 14.",,,,,,,,,,,,1,,,POLI,Golf 14,"3 fechava = terceira palavra = chate. 4 e a 5 fechavam juntas = Ala + rabetania = Alarabetania. ""Tania não"" = alarabe. Chate Alárabe é um rio. Faz ""jus ante"" = jusante = onde o rio desemboca, e ele desemboca no Golfo Pérsico. ""Primeira palavra bastava"" = Golfo. ""la em 14"" = golf(o) 14, portão da POLI que dá na raia. ""Po,li"" e ""saída fechada"" são para confirmação de referência","||Pista: -Esse bixe chate, alá rabetania, indo pra saída fechada.
+ -Li que a 3 fechava, como eu ia saber que a 4 e a 5 fechavam juntas?
+ -Pera lá, Tânia não, é a mãe dele. 
+ -Essa geração, até faz jus ante bixos. No meu ano, a primeira palavra bastava pra mandar no bixo, lá em 14. | Explicação: 3 fechava = terceira palavra = chate. 4 e a 5 fechavam juntas = Ala + rabetania = Alarabetania. ""Tania não"" = alarabe. Chate Alárabe é um rio. Faz ""jus ante"" = jusante = onde o rio desemboca, e ele desemboca no Golfo Pérsico. ""Primeira palavra bastava"" = Golfo. ""la em 14"" = golf(o) 14, portão da POLI que dá na raia. ""Po,li"" e ""saída fechada"" são para confirmação de referência | Macro: POLI | Micro: Golf 14","||Pista: -Esse bixe chate, alá rabetania, indo pra saída fechada.
+ -Li que a 3 fechava, como eu ia saber que a 4 e a 5 fechavam juntas?
+ -Pera lá, Tânia não, é a mãe dele. 
+ -Essa geração, até faz jus ante bixos. No meu ano, a primeira palavra bastava pra mandar no bixo, lá em 14."
+ML_2023_00015,,,,,,,,,,,,,,,Maua,HU,Semaforo,"transformar as letras com a1z26, somar e voltar a letras","||Pista:  | Explicação: transformar as letras com a1z26, somar e voltar a letras | Macro: HU | Micro: Semaforo",
+ML_2019_00048,"-Quando nos vimos, ele parecia um pouco diferente...
+ Foi o que disse ao entrevistador pois não queria falar a verdade completa. Pensei, ponderei, e depois contei o que realmente presenciei.
+ - Tá, ele estava MUITO estranho, andava de um lado para o outro, com a cabeça abaixada, balbuciando alguma coisa, eu não sei!
+ - Se você olhar para essa foto, você consegue se lembrar melhor?
+ - I SCREAM MAN!",,,,,,,,,,,,,,,BIO,CARRINHO DE SORVETE,"Ice cream man - o sorveteiro- ""carrinho de sorvete"" no estacionas da bio , na parte de baixo do bolsão, perto da ADM. Morse para BIO.","||Pista: -Quando nos vimos, ele parecia um pouco diferente...
+ Foi o que disse ao entrevistador pois não queria falar a verdade completa. Pensei, ponderei, e depois contei o que realmente presenciei.
+ - Tá, ele estava MUITO estranho, andava de um lado para o outro, com a cabeça abaixada, balbuciando alguma coisa, eu não sei!
+ - Se você olhar para essa foto, você consegue se lembrar melhor?
+ - I SCREAM MAN! | Explicação: Ice cream man - o sorveteiro- ""carrinho de sorvete"" no estacionas da bio , na parte de baixo do bolsão, perto da ADM. Morse para BIO. | Macro: BIO | Micro: CARRINHO DE SORVETE","||Pista: -Quando nos vimos, ele parecia um pouco diferente...
+ Foi o que disse ao entrevistador pois não queria falar a verdade completa. Pensei, ponderei, e depois contei o que realmente presenciei.
+ - Tá, ele estava MUITO estranho, andava de um lado para o outro, com a cabeça abaixada, balbuciando alguma coisa, eu não sei!
+ - Se você olhar para essa foto, você consegue se lembrar melhor?
+ - I SCREAM MAN!"
+ML_2017_00104,.mov.mpeg.mkv.mp4.wmv.asf.flv.m4v.qt.avi,,,,,,,,,,,,,,Rossi,IP,Sala de computadores,As extensões estão presentes em cada um dos nomes dos episódios da 1ª temporada da série Mr. Robot. O protagonista é engenheiro de cibersegurança com transtornos psicológicos -> IP + computadores,||Pista: .mov.mpeg.mkv.mp4.wmv.asf.flv.m4v.qt.avi | Explicação: As extensões estão presentes em cada um dos nomes dos episódios da 1ª temporada da série Mr. Robot. O protagonista é engenheiro de cibersegurança com transtornos psicológicos -> IP + computadores | Macro: IP | Micro: Sala de computadores,||Pista: .mov.mpeg.mkv.mp4.wmv.asf.flv.m4v.qt.avi
+ML_2015_00050,"""- Dilma, Lula! Aonde vocês vão?
+ - Você já sabe a resposta, companheiro...""",,,,,,,,,,,,,,Bracco,BIÊNIO,Porta do Anfiteatro Vermelho,A própria pista diz exatamente o local onde a próxima se encontra: no vão. Dilma e Lula associam à vermelho.,"||Pista: ""- Dilma, Lula! Aonde vocês vão?
+ - Você já sabe a resposta, companheiro..."" | Explicação: A própria pista diz exatamente o local onde a próxima se encontra: no vão. Dilma e Lula associam à vermelho. | Macro: BIÊNIO | Micro: Porta do Anfiteatro Vermelho","||Pista: ""- Dilma, Lula! Aonde vocês vão?
+ - Você já sabe a resposta, companheiro..."""
+ML_2015_00018,"""A turma de 62 largou daqui"" - Edward Mordake",,,,,,,,,,,,,,Duas,RUA DO MATÃO,"Placa ""Homenagem a turma de 62""","Edward Mordake = Duas Caras = CAM = GP
+ A pista está em uma placa escrito ""homenagem a turma de 62"", próxima a largada do GP.","||Pista: ""A turma de 62 largou daqui"" - Edward Mordake | Explicação: Edward Mordake = Duas Caras = CAM = GP
+ A pista está em uma placa escrito ""homenagem a turma de 62"", próxima a largada do GP. | Macro: RUA DO MATÃO | Micro: Placa ""Homenagem a turma de 62""","||Pista: ""A turma de 62 largou daqui"" - Edward Mordake"
+ML_2019_00058,"""dois tlipés, no difelente"" ""tá bom, cenourinha""",,,,,,,,,,,,,,,Psico,Placa de vaga de deficiente,"Tripé remete a placa de idoso (parece uma pessoa com 3 pernas), enquanto o diferente seria a placa a direita, de deficiente. A conversa faz referência a uma conversa entre o cebolinha e o louco, portanto psico","||Pista: ""dois tlipés, no difelente"" ""tá bom, cenourinha"" | Explicação: Tripé remete a placa de idoso (parece uma pessoa com 3 pernas), enquanto o diferente seria a placa a direita, de deficiente. A conversa faz referência a uma conversa entre o cebolinha e o louco, portanto psico | Macro: Psico | Micro: Placa de vaga de deficiente","||Pista: ""dois tlipés, no difelente"" ""tá bom, cenourinha"""
+ML_2023_00021,,,,,,,,,,,,,,,Mapa,CDI,Escada,Gráfico de escada da taxa Selic. Selic remete a CDI,||Pista:  | Explicação: Gráfico de escada da taxa Selic. Selic remete a CDI | Macro: CDI | Micro: Escada,
+ML_2019_00240,"""É a décima vez que o senhor apresenta essa atitude intotiente!"" disse Rhonda
+ ""Nunca foi minha intenção ser um ferrão no seu gasoduto professor...."" respondeu Príncipe Dakkar",,,,,,,,,,,,,,,Raia,"Ferro amarelo que marca canos de gás, ao lado do ponto de ônibus no número 122 da raia","Príncipe Dakkar é o Capitão Nemo do 20 mil leguas submarinas
+ Sting-Rhonda é o professor do Procurando Nemo, que é uma Raia
+ ferrão está na pista para confirmar até aqui
+ intotiente=não totiente que é uma série de Euler
+ o décimo número intotiente é o 122
+ gasoduto é referente a nano
+ Referências:
+ https://en.wikipedia.org/wiki/Noncototient
+ https://disney.fandom.com/wiki/Mr._Ray
+ https://pt.wikipedia.org/wiki/Capit%C3%A3o_Nemo
+ https://www.independent.co.uk/arts-entertainment/films/news/finding-dory-to-feature-disney-pixar-first-transgender-character-ellen-degeneres-stingray-a7081056.html
+ https://pt.wikipedia.org/wiki/N%C3%BAmero_n%C3%A3o_totiente","||Pista: ""É a décima vez que o senhor apresenta essa atitude intotiente!"" disse Rhonda
+ ""Nunca foi minha intenção ser um ferrão no seu gasoduto professor...."" respondeu Príncipe Dakkar | Explicação: Príncipe Dakkar é o Capitão Nemo do 20 mil leguas submarinas
+ Sting-Rhonda é o professor do Procurando Nemo, que é uma Raia
+ ferrão está na pista para confirmar até aqui
+ intotiente=não totiente que é uma série de Euler
+ o décimo número intotiente é o 122
+ gasoduto é referente a nano
+ Referências:
+ https://en.wikipedia.org/wiki/Noncototient
+ https://disney.fandom.com/wiki/Mr._Ray
+ https://pt.wikipedia.org/wiki/Capit%C3%A3o_Nemo
+ https://www.independent.co.uk/arts-entertainment/films/news/finding-dory-to-feature-disney-pixar-first-transgender-character-ellen-degeneres-stingray-a7081056.html
+ https://pt.wikipedia.org/wiki/N%C3%BAmero_n%C3%A3o_totiente | Macro: Raia | Micro: Ferro amarelo que marca canos de gás, ao lado do ponto de ônibus no número 122 da raia","||Pista: ""É a décima vez que o senhor apresenta essa atitude intotiente!"" disse Rhonda
+ ""Nunca foi minha intenção ser um ferrão no seu gasoduto professor...."" respondeu Príncipe Dakkar"
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00028,"Dele vem as fundações do sudoku, agora basta ir ao correio para a cadeira otomana",,,,,,,,,,,,,,Dinei,-,-,Fundações do sudoku -> jogo semelhante criado por Euler; correio é mail; cadeira otomana é CO -> e-mail pra CO,"||Pista: Dele vem as fundações do sudoku, agora basta ir ao correio para a cadeira otomana | Explicação: Fundações do sudoku -> jogo semelhante criado por Euler; correio é mail; cadeira otomana é CO -> e-mail pra CO | Macro: - | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00031,Tem que forçar muito para ir do E para o R,,,,,,,,,,,,,,Dinei,IF,Caixa de força entre travessa E e R,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00036,,,,,,,,,,,,,,,Maua,P3,Bicicletário Itaí,"O texto está na fonte Bill Cipher. Traduzindo chegam em vários textos que são sempre letras na ordem do alfabeto mas faltando letras (ex: ABCDIJKNO). Basta ""plotar"" as letras (ex: ABCEH = XXX X X). Resultará em um QR Code.","||Pista:  | Explicação: O texto está na fonte Bill Cipher. Traduzindo chegam em vários textos que são sempre letras na ordem do alfabeto mas faltando letras (ex: ABCDIJKNO). Basta ""plotar"" as letras (ex: ABCEH = XXX X X). Resultará em um QR Code. | Macro: P3 | Micro: Bicicletário Itaí",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00051,,,,,,,,,,,,,,,Mapa,IF,Lab. Criogenia,A pista é da evolução do feitiço de gelo no CoC. Para evoluir feitiços tem que usar o laboratório no jogo,||Pista:  | Explicação: A pista é da evolução do feitiço de gelo no CoC. Para evoluir feitiços tem que usar o laboratório no jogo | Macro: IF | Micro: Lab. Criogenia,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00053,O partido de Lenin teria evitado a crise se soubesse ler seu livro,,,,,,,,,,,,,,Mapa,-,-,O conteúdo da pista se refere à obra soviética: A crise no nosso partido: Um passo para frente e dois para trás. Para matar a pista bastava ir no mesmo lugar de duas pistas anteriores.,||Pista: O partido de Lenin teria evitado a crise se soubesse ler seu livro | Explicação: O conteúdo da pista se refere à obra soviética: A crise no nosso partido: Um passo para frente e dois para trás. Para matar a pista bastava ir no mesmo lugar de duas pistas anteriores. | Macro: - | Micro: -,
+ML_2023_00054,,,,,,,,,,,,,,,Mapa,GEO,Placa Ronaldo Mouth,Imagem da boca do cristiano ronaldo. Pista está na placa em homenagem à ronaldo mouth na geo,||Pista:  | Explicação: Imagem da boca do cristiano ronaldo. Pista está na placa em homenagem à ronaldo mouth na geo | Macro: GEO | Micro: Placa Ronaldo Mouth,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00072,"Se a garrafa te escolher, não fale a verdade, escolha o outro na sala",,,,,,,,,,,,,,Mapa,-,-,O gabarito da pista é desafiar na sala da CO,"||Pista: Se a garrafa te escolher, não fale a verdade, escolha o outro na sala | Explicação: O gabarito da pista é desafiar na sala da CO | Macro: - | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00096,"Filho, escuta seu pai, não senta aí que vai te dar azar",,,,,,,,,,,,,,Buchalla,Pais e Filhos,Banco embaixo da escada,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00108,,,,,,,,,,,,,,,Buchalla,Poli,Ponto de onibus Poli-Biênio,"dó com sétima - C7, ronaldo - R9, motorola - V3 (C7R9+V3 - google plus code) jogando no google da no ponto de onibus","||Pista:  | Explicação: dó com sétima - C7, ronaldo - R9, motorola - V3 (C7R9+V3 - google plus code) jogando no google da no ponto de onibus | Macro: Poli | Micro: Ponto de onibus Poli-Biênio",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00111,Momentos inesquecíveis são panamenhenos,,,,,,,,,,,,,,Kley,POLI,Laboratório de Mecânica Offshore,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00115,"Usar smoking é um elemento muito bem bolado, mas é melhor trazer o papel cru",,,,,,,,,,,,,,Mapa,-,-,"Levar uma seda RAW pra CO. smoking, elements, bem bolado e cru são referências à marcas de seda","||Pista: Usar smoking é um elemento muito bem bolado, mas é melhor trazer o papel cru | Explicação: Levar uma seda RAW pra CO. smoking, elements, bem bolado e cru são referências à marcas de seda | Macro: - | Micro: -",
+ML_2023_00116,,,,,,,,,,,,,,,Budinha,-,-,lixo reciclável de papel -> reutilizar última senha do caminho do CA,||Pista:  | Explicação: lixo reciclável de papel -> reutilizar última senha do caminho do CA | Macro: - | Micro: -,
+ML_2023_00117,Beto e Marcel se juntaram ao amigo das lojas,,,,,,,,,,,,,,Mapa,-,praça Jorge americano,"São amigo do Jorge Lemman, e os três são acionistas das Lojas Americanas.","||Pista: Beto e Marcel se juntaram ao amigo das lojas | Explicação: São amigo do Jorge Lemman, e os três são acionistas das Lojas Americanas. | Macro: - | Micro: praça Jorge americano",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00126,,,,,,,,,,,,,,,Budinha,Poli,Arquibancada,"imagem é um padrão de dobras de origami, forma um origami com o formato e proporções da arquibancada","||Pista:  | Explicação: imagem é um padrão de dobras de origami, forma um origami com o formato e proporções da arquibancada | Macro: Poli | Micro: Arquibancada",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00129,,,,,,,,,,,,,,,Cami,IF,Laboratório do Acelerador Linear,imagem -> formula de aceleração linear,||Pista:  | Explicação: imagem -> formula de aceleração linear | Macro: IF | Micro: Laboratório do Acelerador Linear,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00132,,,,,,,,,,,,,,,Cami,-,Totem IEE/IME,Equação (IME) da energia (IEE) em fundo laranja (totem IEE/IME laranja entre os institutos),||Pista:  | Explicação: Equação (IME) da energia (IEE) em fundo laranja (totem IEE/IME laranja entre os institutos) | Macro: - | Micro: Totem IEE/IME,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00135,,,,,,,,,,,,,,,Maua,Psico,Lugar que o chão parece tabuleiro de xadrez só q só 2 linhas de cada lado,Visual,||Pista:  | Explicação: Visual | Macro: Psico | Micro: Lugar que o chão parece tabuleiro de xadrez só q só 2 linhas de cada lado,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00142,,,,,,,,,,,,,,,Budinha,P linha,Porta da Engenheiro Teixeira Soares,"Mapa chama Guilherme Teixeira Soares, quando formou virou Engenheiro Teixeira Soares","||Pista:  | Explicação: Mapa chama Guilherme Teixeira Soares, quando formou virou Engenheiro Teixeira Soares | Macro: P linha | Micro: Porta da Engenheiro Teixeira Soares",
+ML_2023_00143,,,,,,,,,,,,,,,Budinha,MAC,Cubos de concreto no lado da rua,"são casos do último passo de solução do cubo (chamado de PLL), cada um tem o nome de uma letra e dizem ""R ANF"" (rua do anfiteatro)","||Pista:  | Explicação: são casos do último passo de solução do cubo (chamado de PLL), cada um tem o nome de uma letra e dizem ""R ANF"" (rua do anfiteatro) | Macro: MAC | Micro: Cubos de concreto no lado da rua",
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00145,,,,,,,,,,,,,,,Budinha,IO,navio do IO,Estrela destacada é a alpha crucis. alpha crucis também é o nome de um navio oceanográfico da USP,||Pista:  | Explicação: Estrela destacada é a alpha crucis. alpha crucis também é o nome de um navio oceanográfico da USP | Macro: IO | Micro: navio do IO,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00150,"Ou militarzinho carioca, tá perdido mano? Quer que eu desenhe?",,,,,,,,,,,,,,Maua,IME,Lousa,,,
+ML_2023_00151,,,,,,,,,,,,,,,Budinha,Ptrem,Bicicletario,"cores/números das linhas de metrô escrevem ""bike"" usando a1z26","||Pista:  | Explicação: cores/números das linhas de metrô escrevem ""bike"" usando a1z26 | Macro: Ptrem | Micro: Bicicletario",
+ML_2023_00152,,,,,,,,,,,,,,,Varanda,Psico,Casa de passaro,O Piu Piu maluco é um pássaro (casa de pássaro) e maluco (psico),||Pista:  | Explicação: O Piu Piu maluco é um pássaro (casa de pássaro) e maluco (psico) | Macro: Psico | Micro: Casa de passaro,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00156,WD3: fffiiiiggggghhhhgggiiiifffiijjmmllkkiikjkj,,,,,,,,,,,,,,Maua,--,--,"Transforma em wingdings e desenha. Vai formar CO e o logo do Bluetooth. Ir até a CO e tentar conectar bluetooth, o código vai estar lá","||Pista: WD3: fffiiiiggggghhhhgggiiiifffiijjmmllkkiikjkj | Explicação: Transforma em wingdings e desenha. Vai formar CO e o logo do Bluetooth. Ir até a CO e tentar conectar bluetooth, o código vai estar lá | Macro: -- | Micro: --",
+ML_2023_00157,,,,,,,,,,,,,,,Maua,IF,TICTAC,Números dos pokemons são sequência de Fibonacci. Pegando as letras referentes aos números da sequencia da TICTACIF,||Pista:  | Explicação: Números dos pokemons são sequência de Fibonacci. Pegando as letras referentes aos números da sequencia da TICTACIF | Macro: IF | Micro: TICTAC,
+ML_2023_00158,,,,,,,,,,,,,,,Maua,ECA,Turismo,"É a ação da CVC, empresa de turismo = turismo eca","||Pista:  | Explicação: É a ação da CVC, empresa de turismo = turismo eca | Macro: ECA | Micro: Turismo",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00178,Virou noticia o brasão do serviço de Sir Nils,,,,,,,,,,,,,,Espera,ECA,Outdoor jornalismo,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00197,"Para o gladiador entrar no raposão, ele sempre passava por aqui",,,,,,,,,,,,,,Kley,-,Túnel da Bio,"Arena da raposa= estádio do cruzeiro = Mineirão = Prédio Minas Gerias, gladiador = cléber gladiador (ex jogador do cruzeiro), jogador entra pelo túnel para o campo","||Pista: Para o gladiador entrar no raposão, ele sempre passava por aqui | Explicação: Arena da raposa= estádio do cruzeiro = Mineirão = Prédio Minas Gerias, gladiador = cléber gladiador (ex jogador do cruzeiro), jogador entra pelo túnel para o campo | Macro: - | Micro: Túnel da Bio",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00216,,,,,,,,,,,,,,,Buchalla,-,Torre de celular - Lineu Prestes,braile - torre de celular na Av. Prof. Lineu Prestes,||Pista:  | Explicação: braile - torre de celular na Av. Prof. Lineu Prestes | Macro: - | Micro: Torre de celular - Lineu Prestes,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00218,,,,,,,,,,,,,,,Budinha,espelho dágua,borda do espelho,"imagem é logo da Unesp sendo refletido. unesp -> júlio de mesquita filho, busto na praça do relógio solar.","||Pista:  | Explicação: imagem é logo da Unesp sendo refletido. unesp -> júlio de mesquita filho, busto na praça do relógio solar. | Macro: espelho dágua | Micro: borda do espelho",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00221,DV UZXR KOUFY ULYMJIMNU PARA NIXUM RJGVIXLEKRJ XI QJERANOK,,,,,,,,,,,,,,Maua,-,-,"Fazendo ceaser cipher palavra por palavra com os shifts: 996606964 chegamos na frase ME DIGA QUALE ARESPOSTA PARA TODAS ASPERGUNTAS DO UNIVERSO. Gabarito é ligar e falar 42, número do nosso integrapoli","||Pista: DV UZXR KOUFY ULYMJIMNU PARA NIXUM RJGVIXLEKRJ XI QJERANOK | Explicação: Fazendo ceaser cipher palavra por palavra com os shifts: 996606964 chegamos na frase ME DIGA QUALE ARESPOSTA PARA TODAS ASPERGUNTAS DO UNIVERSO. Gabarito é ligar e falar 42, número do nosso integrapoli | Macro: - | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00226,,,,,,,,,,,,,,,Kley,MAC,"Pintura na parede ""Reconhecer reconheSER","A forma como o texto está escrito, remete ao formato de um anfiteatro = Rua do Anfiteatro // Na parede do MAC virada para a Rua do Anfiteatro, tem a pintura que a construção do texto é semelhante a da pista","||Pista:  | Explicação: A forma como o texto está escrito, remete ao formato de um anfiteatro = Rua do Anfiteatro // Na parede do MAC virada para a Rua do Anfiteatro, tem a pintura que a construção do texto é semelhante a da pista | Macro: MAC | Micro: Pintura na parede ""Reconhecer reconheSER",
+ML_2023_00227,,,,,,,,,,,,,,,Budinha,Lago,Portão do lago,"imagem é parte do metrô de madrid, o ponto em destaque é uma estação que se chama ""lago""","||Pista:  | Explicação: imagem é parte do metrô de madrid, o ponto em destaque é uma estação que se chama ""lago"" | Macro: Lago | Micro: Portão do lago",
+ML_2023_00228,,,,,,,,,,,,,,,Budinha,Química,Escadaria,"se você contar a quantidade de átomos na molécula, pode chegar em C76H132N20O26. com isso, você acha que a molécula química é a Pstair, o que leva pra escadaria da química (perto da fflch, no fundo do bandeco)","||Pista:  | Explicação: se você contar a quantidade de átomos na molécula, pode chegar em C76H132N20O26. com isso, você acha que a molécula química é a Pstair, o que leva pra escadaria da química (perto da fflch, no fundo do bandeco) | Macro: Química | Micro: Escadaria",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00234,,,,,,,,,,,,,,,Budinha,Biblioteca das Químicas,Orelhão na Lineu Prestes,"mapa é dos DDDs brasileiros, regiões em baixo formam a coordenada -23.5665, -46.7271, que cai a alguns metros de um orelhão","||Pista:  | Explicação: mapa é dos DDDs brasileiros, regiões em baixo formam a coordenada -23.5665, -46.7271, que cai a alguns metros de um orelhão | Macro: Biblioteca das Químicas | Micro: Orelhão na Lineu Prestes",
+ML_2023_00235,,,,,,,,,,,,,,,Budinha,Travessa 4,Porta do Sweden,"the night sky é o nome do site usado pra gerar a imagem, que é um mapa do céu na meia noite da data escrita, visto da suécia","||Pista:  | Explicação: the night sky é o nome do site usado pra gerar a imagem, que é um mapa do céu na meia noite da data escrita, visto da suécia | Macro: Travessa 4 | Micro: Porta do Sweden",
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00237,,,,,,,,,,,,,,,Budinha,Bandejão Central,Grade na entrada,"esse qr e código de barras são os que aparecem como miniaturas no aplicativo do e-card, usado principalmente pra entrar no bandejão. O ponto no meio indica que é o bandeco central.","||Pista:  | Explicação: esse qr e código de barras são os que aparecem como miniaturas no aplicativo do e-card, usado principalmente pra entrar no bandejão. O ponto no meio indica que é o bandeco central. | Macro: Bandejão Central | Micro: Grade na entrada",
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00239,,,,,,,,,,,,,,,Kley,Hidráulica,Letreiro,Monte de lee = Monte lee = Letreiro hollywood. A água no fundo indica que é o da hidráulica,||Pista:  | Explicação: Monte de lee = Monte lee = Letreiro hollywood. A água no fundo indica que é o da hidráulica | Macro: Hidráulica | Micro: Letreiro,
+ML_2023_00240,,,,,,,,,,,,,,,Budinha,FFLCH - Letras,biblioteca Florestan Fernandes,"A ampulheta leva a FFLCH. a imagem é uma versão modificada da mensagem que o jiraya deixou pro naruto antes de morrer, que é um book cipher. ""タ"" leva ao livro, o primeiro caractere na página 31 é ""本"" (livro), levando a biblioteca.","||Pista:  | Explicação: A ampulheta leva a FFLCH. a imagem é uma versão modificada da mensagem que o jiraya deixou pro naruto antes de morrer, que é um book cipher. ""タ"" leva ao livro, o primeiro caractere na página 31 é ""本"" (livro), levando a biblioteca. | Macro: FFLCH - Letras | Micro: biblioteca Florestan Fernandes",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00253,"As arquitetas magrelas não tiveram dúvidas quando desceram a rua, o amarelo indicava claramente que o Beb era a solução",,,,,,,,,,,,,,Mapa,-,-,"A resposta é compartilhar a pista no Beb da Poli. A pista faz referência a uma placa de ""compartilhe a pista"" com ciclista na FAU","||Pista: As arquitetas magrelas não tiveram dúvidas quando desceram a rua, o amarelo indicava claramente que o Beb era a solução | Explicação: A resposta é compartilhar a pista no Beb da Poli. A pista faz referência a uma placa de ""compartilhe a pista"" com ciclista na FAU | Macro: - | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00256,,,,,,,,,,,,,,,Maua,Bancos,Pia,"Resolvendo a equação dá 7sin(s) - 7 sins
+ Fazendo vigenere com os 7 sins da o gabarito","||Pista:  | Explicação: Resolvendo a equação dá 7sin(s) - 7 sins
+ Fazendo vigenere com os 7 sins da o gabarito | Macro: Bancos | Micro: Pia",
+ML_2023_00257,,,,,,,,,,,,,,,Mapa,POli,Anfi Romeu Landi,Home lander - Romeu landi,||Pista:  | Explicação: Home lander - Romeu landi | Macro: POli | Micro: Anfi Romeu Landi,
+ML_2023_00258,Pra resolver a pista é melhor perguntar pro WWW da Marvel como ele teve sorte pra tirar o colar,,,,,,,,,,,,,,Mapa,-,-,o gabarito da pista é colocar o número 7 no campo do código de resposta. faz referência a uma cena do filme deadpool,||Pista: Pra resolver a pista é melhor perguntar pro WWW da Marvel como ele teve sorte pra tirar o colar | Explicação: o gabarito da pista é colocar o número 7 no campo do código de resposta. faz referência a uma cena do filme deadpool | Macro: - | Micro: -,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00267,,,,,,,,,,,,,,,Budinha,Praça da Torre do Relógio,Torre do Relógio,"o print é do jogo zelda majora's mask. é possível descobrir exatamente qual diálogo está acontecendo na imagem pela seta e pelo formato do texto censurado. a parte censurada em branco diz ""clock tower""","||Pista:  | Explicação: o print é do jogo zelda majora's mask. é possível descobrir exatamente qual diálogo está acontecendo na imagem pela seta e pelo formato do texto censurado. a parte censurada em branco diz ""clock tower"" | Macro: Praça da Torre do Relógio | Micro: Torre do Relógio",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00270,"Esse papo de Alexandria saiu do estábulo rumo ao meio dia, e parou emplacado entre a quarta e a sexta",,,,,,,,,,,,,,Espera,IME,Placa Travessa V,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00275,,,,,,,,,,,,,,,Piu Piu,Arquivo Geral da USP,Placa de Veículos de Segurança,.usp = arquivo geral da usp SafeCar = estacionamento de veículos de segurança,||Pista:  | Explicação: .usp = arquivo geral da usp SafeCar = estacionamento de veículos de segurança | Macro: Arquivo Geral da USP | Micro: Placa de Veículos de Segurança,
+ML_2023_00276,,,,,,,,,,,,,,,Buchalla,LaMP,Totem,"lampada de microondas, laboratório de microondas de potencia e fototonica (LaMP) - Av. Prof. Ernesto de Moraes Leme 66","||Pista:  | Explicação: lampada de microondas, laboratório de microondas de potencia e fototonica (LaMP) - Av. Prof. Ernesto de Moraes Leme 66 | Macro: LaMP | Micro: Totem",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00279,,,,,,,,,,,,,,,Budinha,LAME,Coliseu,"imagem é do coliseu de zelda breath of the wild. está cortado ao meio pra ficar só um semicírculo, como o coliseu do LAME","||Pista:  | Explicação: imagem é do coliseu de zelda breath of the wild. está cortado ao meio pra ficar só um semicírculo, como o coliseu do LAME | Macro: LAME | Micro: Coliseu",
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00281,,,,,,,,,,,,,,,Thomas,IME,CCSL,"As tags em cima do bicho são efeitos de CC (crowd control). O bicho embaixo é um SLIME. Juntando tudo, CCSLIME > CCSL IME","||Pista:  | Explicação: As tags em cima do bicho são efeitos de CC (crowd control). O bicho embaixo é um SLIME. Juntando tudo, CCSLIME > CCSL IME | Macro: IME | Micro: CCSL",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00285,,,,,,,,,,,,,,,Thomas,Psico,Ponto de Ônibus,"Trata-se da capa da música ""Girl from Rio"". Na capa aparece a Anitta e um Ônibus atrás. Anitta > Edifício Annita Castilho Cabral > Psico, Ônibus > Ponto de ônibus","||Pista:  | Explicação: Trata-se da capa da música ""Girl from Rio"". Na capa aparece a Anitta e um Ônibus atrás. Anitta > Edifício Annita Castilho Cabral > Psico, Ônibus > Ponto de ônibus | Macro: Psico | Micro: Ponto de Ônibus",
+ML_2023_00286,,,,,,,,,,,,,,,Maua,Cirquinho,Poste,"O traço no meio refere a um espelho. Basta pegar as letras e refletir verticalmente no teclado. Ex: Q vira P, W vira O, Z vira M.","||Pista:  | Explicação: O traço no meio refere a um espelho. Basta pegar as letras e refletir verticalmente no teclado. Ex: Q vira P, W vira O, Z vira M. | Macro: Cirquinho | Micro: Poste",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00289,"Por 104 vezes, acessei 25 sites para conversar com 67 pessoas em 39 salas com o nome do CA",,,,,,,,,,,,,,Maua,-,-,"Os números (104.25.67.39) são um IP de um site que chama freenode.net. A principal utilidade do site é o webchat, que basicamente é um chat aberto que vc pode entrar em uma sala com qualquer nome. O CA teria que colocar o seu nome e teria alguém da CO logado lá e o Nick seria o código pra por no site (tem lista de usuários, não precisa escrever nada quando entrar).","||Pista: Por 104 vezes, acessei 25 sites para conversar com 67 pessoas em 39 salas com o nome do CA | Explicação: Os números (104.25.67.39) são um IP de um site que chama freenode.net. A principal utilidade do site é o webchat, que basicamente é um chat aberto que vc pode entrar em uma sala com qualquer nome. O CA teria que colocar o seu nome e teria alguém da CO logado lá e o Nick seria o código pra por no site (tem lista de usuários, não precisa escrever nada quando entrar). | Macro: - | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00297,,,,,,,,,,,,,,,Maua,Morro da coruja,Casa de pássaros,"Pássaro do jogo celeste, onde você sobe uma montanha até seu ponto mais alto","||Pista:  | Explicação: Pássaro do jogo celeste, onde você sobe uma montanha até seu ponto mais alto | Macro: Morro da coruja | Micro: Casa de pássaros",
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00299,Howard Thurston nos mostrou as cartas de ouro,,,,,,,,,,,,,,Piu Piu,-,-,Fazer um truque com baralho pra CO,||Pista: Howard Thurston nos mostrou as cartas de ouro | Explicação: Fazer um truque com baralho pra CO | Macro: - | Micro: -,
+ML_2023_00300,,,,,,,,,,,,,,,Varanda,Aramzém da USP (tem no maps),Ponto de ônibus,"Mapa das estações de Hollow Knoght e a que falta no mapa é a armazém da cidade. Pra usar a estação no jogo precisa ir pra parada, então o resultado é a parada de ônibus na frente do armazém","||Pista:  | Explicação: Mapa das estações de Hollow Knoght e a que falta no mapa é a armazém da cidade. Pra usar a estação no jogo precisa ir pra parada, então o resultado é a parada de ônibus na frente do armazém | Macro: Aramzém da USP (tem no maps) | Micro: Ponto de ônibus",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00311,Super Hefesto americano,,,,,,,,,,,,,,Dinei,-,Casa das Caldeiras,Hefesto = deus do vulcao (vulcano) / Super Hefesto = Super Vulcão / Supervulcão americano = Caldeira de Yellowstone,||Pista: Super Hefesto americano | Explicação: Hefesto = deus do vulcao (vulcano) / Super Hefesto = Super Vulcão / Supervulcão americano = Caldeira de Yellowstone | Macro: - | Micro: Casa das Caldeiras,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00314,Minotauro teria vergonha disso e de sua escultura,,,,,,,,,,,,,,Dinei,-,TV. do Labirinto,"Minotauro = labirinto, a travesse do labirinto é uma reta pequena (logo é um labirinto bem merda) / De sua escultura = TV do labirinto nas artes plasticas","||Pista: Minotauro teria vergonha disso e de sua escultura | Explicação: Minotauro = labirinto, a travesse do labirinto é uma reta pequena (logo é um labirinto bem merda) / De sua escultura = TV do labirinto nas artes plasticas | Macro: - | Micro: TV. do Labirinto",
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00316,,,,,,,,,,,,,,,Piu Piu,Praça do Relógio,"Mini ""Praça"" com padrão que nem o desenho","Metrô de Brasília com a estação ""Praça do Relógio"" destacada. Micro plantado na pracinha com padrão similar ao do desenho acima da linha de metro","||Pista:  | Explicação: Metrô de Brasília com a estação ""Praça do Relógio"" destacada. Micro plantado na pracinha com padrão similar ao do desenho acima da linha de metro | Macro: Praça do Relógio | Micro: Mini ""Praça"" com padrão que nem o desenho",
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00318,O espião sem tempo fez sua lista e pediu nosso pássaro favorito novinho em folha,,,,,,,,,,,,,,Dinei,,,Espião sem tempo = Daniel Craig / Craig+lista= Craiglist // Ir no Craiglist e procurar piu-piu (nosso passaro favorito) novinho em folha,||Pista: O espião sem tempo fez sua lista e pediu nosso pássaro favorito novinho em folha | Explicação: Espião sem tempo = Daniel Craig / Craig+lista= Craiglist // Ir no Craiglist e procurar piu-piu (nosso passaro favorito) novinho em folha | Macro:  | Micro: ,
+ML_2023_00319,,,,,,,,,,,,,,,Maua,FAU,Cu,Vista de cima dom buraco atrás da fau,||Pista:  | Explicação: Vista de cima dom buraco atrás da fau | Macro: FAU | Micro: Cu,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00332,,,,,,,,,,,,,,,Eike,Rádio USP,Totem,AM > AM/FM > Rádio. AV > AV TV > TV. CU > Cidade universitária.,||Pista:  | Explicação: AM > AM/FM > Rádio. AV > AV TV > TV. CU > Cidade universitária. | Macro: Rádio USP | Micro: Totem,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00338,,,,,,,,,,,,,,,Maua,FFLCH,Laboped,"Quebra R G B, separa entre blocos de 3x2 e faz braile","||Pista:  | Explicação: Quebra R G B, separa entre blocos de 3x2 e faz braile | Macro: FFLCH | Micro: Laboped",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00353,,,,,,,,,,,,,,,Kley,POLI,Arquibancada,"A imagem é o logo do senado federal, o formato em photoshop(.psd) indica o partido PSD, que atualmente tem a maior bancada do senado","||Pista:  | Explicação: A imagem é o logo do senado federal, o formato em photoshop(.psd) indica o partido PSD, que atualmente tem a maior bancada do senado | Macro: POLI | Micro: Arquibancada",
+,,,,,,,,,,,,,,,,,,,,
+ML_2023_00355,,,,,,,,,,,,,,,Buchalla,-,Cantar evidencias para CO,"playlist do spotify, pegar a letra do nome da musica de acordo com a posição da musica no album que ela faz parte","||Pista:  | Explicação: playlist do spotify, pegar a letra do nome da musica de acordo com a posição da musica no album que ela faz parte | Macro: - | Micro: Cantar evidencias para CO",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00002,,,,,,,,,,,,,,,,Poli,Placa do Labrisco,"é um lab, riscado","||Pista:  | Explicação: é um lab, riscado | Macro: Poli | Micro: Placa do Labrisco",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00007,,,,,,,,,,,,,,,,Fofito,Caixa de agua,"Reação química que resulta em Agua (com o símbolo de micro), fosfato de potassio e fosfito de potassio, a parte do fosfito tem o ?+s para mostrar que queremos sem o s","||Pista:  | Explicação: Reação química que resulta em Agua (com o símbolo de micro), fosfato de potassio e fosfito de potassio, a parte do fosfito tem o ?+s para mostrar que queremos sem o s | Macro: Fofito | Micro: Caixa de agua",
+ML_2022_00008,,,,,,,,,,,,,,,,FEA,Sweden,"A partitura é da música ""Ode à Alegria"", hino da União Europeia. As bolinhas representam os países e os traços, as fronteiras. O país que falta é a Suécia (Sweden)","||Pista:  | Explicação: A partitura é da música ""Ode à Alegria"", hino da União Europeia. As bolinhas representam os países e os traços, as fronteiras. O país que falta é a Suécia (Sweden) | Macro: FEA | Micro: Sweden",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00039,,,,,,,,,,,,,,,,Subestação de Energia,Placa de rua sem saída no teatro laboratorio,"Luz amarela é estação da luz, da linha amarela. Estar sublinhado -linhado é Sub => Levando a Subestação de luz (ou energia)","||Pista:  | Explicação: Luz amarela é estação da luz, da linha amarela. Estar sublinhado -linhado é Sub => Levando a Subestação de luz (ou energia) | Macro: Subestação de Energia | Micro: Placa de rua sem saída no teatro laboratorio",
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00041,,,,,,,,,,,,,,,,Brasiliana,doki doki,"A imagem mostra Di ferrero e o emote ""OK"" do personagem rammus de league of legends. As imagens cortadas inferem que deve-se concatenar os pedaços das palavras ""Di"" e ""OK"" para formar ""doki doki""","||Pista:  | Explicação: A imagem mostra Di ferrero e o emote ""OK"" do personagem rammus de league of legends. As imagens cortadas inferem que deve-se concatenar os pedaços das palavras ""Di"" e ""OK"" para formar ""doki doki"" | Macro: Brasiliana | Micro: doki doki",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00061,,,,,,,,,,,,,,,,Geo,Figueira,"O simbolo da mão é a ""Figa"", sem eira nem figa da figueira","||Pista:  | Explicação: O simbolo da mão é a ""Figa"", sem eira nem figa da figueira | Macro: Geo | Micro: Figueira",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00071,,,,,,,,,,,,,,,,Praça Relógio Solar,Caminhozinho,"É o mapa visto de cima, os traços estão de acordo com o maps da praça do relogio solar. Está faltando um caminho na esquerda, onde esta a pista","||Pista:  | Explicação: É o mapa visto de cima, os traços estão de acordo com o maps da praça do relogio solar. Está faltando um caminho na esquerda, onde esta a pista | Macro: Praça Relógio Solar | Micro: Caminhozinho",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00091,,,,,,,,,,,,,,,,P',Espelho de carros,"Dos dois lados há formulas da fisica otica com o p' igualado. O macro é p1, pela formula e o micro o espelho, por contexto","||Pista:  | Explicação: Dos dois lados há formulas da fisica otica com o p' igualado. O macro é p1, pela formula e o micro o espelho, por contexto | Macro: P' | Micro: Espelho de carros",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00097,,,,,,,,,,,,,,,,Parque Esporte para Todos,"Placa na Frente do Parque que acaba com ""Grato""","Tão ma = Matão, que par = parque, sem fins é pra tirar os finais e valeu é pra remeter a grato","||Pista:  | Explicação: Tão ma = Matão, que par = parque, sem fins é pra tirar os finais e valeu é pra remeter a grato | Macro: Parque Esporte para Todos | Micro: Placa na Frente do Parque que acaba com ""Grato""",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00135,//:C:poeti.cas,,,,,,,,,,,,,,,,poéticas digitais,Poéticas digitais,||Pista: //:C:poeti.cas | Explicação: Poéticas digitais | Macro:  | Micro: poéticas digitais,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00153,,,,,,,,,,,,,,,,Vet,Entrada/Cancela,28,,
+ML_2022_00154,,,,,,,,,,,,,,,,EEFE,"CA, na grade","fazendo a distributiva do U+... chega em 3 emojis, Chocolate, leite e raio. Com o 2.0, chega em nescau 2.0. Na tabela nutricional, com 180 mg temos Calcio (Ca) e com 2.1mg tem Ferro (FE), juntando com os e -> CAEEFE","||Pista:  | Explicação: fazendo a distributiva do U+... chega em 3 emojis, Chocolate, leite e raio. Com o 2.0, chega em nescau 2.0. Na tabela nutricional, com 180 mg temos Calcio (Ca) e com 2.1mg tem Ferro (FE), juntando com os e -> CAEEFE | Macro: EEFE | Micro: CA, na grade",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00171,,,,,,,,,,,,,,,,Praça Relógio Solar,Banca de jornal,Imagem é visualmente parecida com a parte de tras da bance de jornal od crusp,||Pista:  | Explicação: Imagem é visualmente parecida com a parte de tras da bance de jornal od crusp | Macro: Praça Relógio Solar | Micro: Banca de jornal,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00180,,,,,,,,,,,,,,,,MAC,Cantos II,"PO, LENDO O GABA È FACIL VAI","||Pista:  | Explicação: PO, LENDO O GABA È FACIL VAI | Macro: MAC | Micro: Cantos II",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00186,,,,,,,,,,,,,,,,Reitoria,Escultura,A imagem é do KingThor -> Rei Thor -> Reitor. Na Steg há o desenho da escultura que tem lá,||Pista:  | Explicação: A imagem é do KingThor -> Rei Thor -> Reitor. Na Steg há o desenho da escultura que tem lá | Macro: Reitoria | Micro: Escultura,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00191,Apenas uma das 160 mais vendidas do país encontra o u261889745,,,,,,,,,,,,,,,,"Edificio patricia na USP (na verdade, era uma foto do champs de cueca)",A CG 160 é o veiculo mais vendido no pais. Dentre os 4 modelos Apenas a Fan deve ser a escolhida. o usuário u261889745 do OnlyFans contém a resposta com uma foto do Champs de cueca na Micro,"||Pista: Apenas uma das 160 mais vendidas do país encontra o u261889745 | Explicação: A CG 160 é o veiculo mais vendido no pais. Dentre os 4 modelos Apenas a Fan deve ser a escolhida. o usuário u261889745 do OnlyFans contém a resposta com uma foto do Champs de cueca na Micro | Macro:  | Micro: Edificio patricia na USP (na verdade, era uma foto do champs de cueca)",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00215,,,,,,,,,,,,,,,,MAC,Lixo,"CAM ao contrário é MAC, e o lixo em destaque é o micro","||Pista:  | Explicação: CAM ao contrário é MAC, e o lixo em destaque é o micro | Macro: MAC | Micro: Lixo",
+ML_2022_00216,,,,,,,,,,,,,,,,Adm Central,bicicletario,"A nuvem de palavras tem uma separação, no centro tem adm repetidas vezes (pra adm central) e em volta tem bicicletario","||Pista:  | Explicação: A nuvem de palavras tem uma separação, no centro tem adm repetidas vezes (pra adm central) e em volta tem bicicletario | Macro: Adm Central | Micro: bicicletario",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00246,,,,,,,,,,,,,,,,ICB II,Elevador externo,"Nas linhas: Louro José - Louro As+Mar = José Asmar
+ Patrono (primeiros socorros - socorro x Cinco) cadeira = Patrono 5ª cadeira
+ Second Life - vida = Second
+ ele+Vaydor - encruzilhada (y) = elevador
+ 
+
+ José Asmar é patrono da 5ª cadeira do ISEBE, pegando o second -> ICB II, e elevador chega ao micro","||Pista:  | Explicação: Nas linhas: Louro José - Louro As+Mar = José Asmar
+ Patrono (primeiros socorros - socorro x Cinco) cadeira = Patrono 5ª cadeira
+ Second Life - vida = Second
+ ele+Vaydor - encruzilhada (y) = elevador
+ 
+
+ José Asmar é patrono da 5ª cadeira do ISEBE, pegando o second -> ICB II, e elevador chega ao micro | Macro: ICB II | Micro: Elevador externo",
+ML_2022_00247,,,,,,,,,,,,,,,,ICB I,Lanchonete Pais e Filhos,"Po, uma lanchonete com pais e filhos (inclusive eu)","||Pista:  | Explicação: Po, uma lanchonete com pais e filhos (inclusive eu) | Macro: ICB I | Micro: Lanchonete Pais e Filhos",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00256,,,,,,,,,,,,,,,,Praça do relógio,Palmeiras,Figura central lembra um relógio. A pista está na palmeira do meio (o desenho mostra as 5 palmeiras de acordo com seu tamanho).,||Pista:  | Explicação: Figura central lembra um relógio. A pista está na palmeira do meio (o desenho mostra as 5 palmeiras de acordo com seu tamanho). | Macro: Praça do relógio | Micro: Palmeiras,
+ML_2022_00257,,,,,,,,,,,,,,,,Praça Alípio Correa Neto,Praça Alípio Correa Neto,"No mapa comemorativo da CUASO, é a rotatória da Alípio.","||Pista:  | Explicação: No mapa comemorativo da CUASO, é a rotatória da Alípio. | Macro: Praça Alípio Correa Neto | Micro: Praça Alípio Correa Neto",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00263,,,,,,,,,,,,,,,,FAU,Vaga diretoria,"rato de asas é do filme do batman, que usa essa cifra abaixo. O batman é o morcego -> mascote da fau e a cifra le para ""vaga diretoria""","||Pista:  | Explicação: rato de asas é do filme do batman, que usa essa cifra abaixo. O batman é o morcego -> mascote da fau e a cifra le para ""vaga diretoria"" | Macro: FAU | Micro: Vaga diretoria",
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00265,,,,,,,,,,,,,,,,Biênio,Bicicletas do itaú,"Comprimento das barras é referente ao alfabeto, basta pegar as posições das letras para formar o gabarito","||Pista:  | Explicação: Comprimento das barras é referente ao alfabeto, basta pegar as posições das letras para formar o gabarito | Macro: Biênio | Micro: Bicicletas do itaú",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00270,,,,,,,,,,,,,,,,Não Aplicavel,va ate a sala da CO com um copo de energético e ofereça para o Ted,"Pega os valores de 0 a 255 das cores, na ordem RGB e faz em Ascii, da o Gaba","||Pista:  | Explicação: Pega os valores de 0 a 255 das cores, na ordem RGB e faz em Ascii, da o Gaba | Macro: Não Aplicavel | Micro: va ate a sala da CO com um copo de energético e ofereça para o Ted",
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00272,,,,,,,,,,,,,,,,IQ,Ultragaz perto do bioterio,"A imagem é o gabarito do enigma 4, usando o mesmo metodo do começo - steg e dvorak, chega em ultragazquimica","||Pista:  | Explicação: A imagem é o gabarito do enigma 4, usando o mesmo metodo do começo - steg e dvorak, chega em ultragazquimica | Macro: IQ | Micro: Ultragaz perto do bioterio",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00285,,,,,,,,,,,,,,,,Luciano Gualberto,2ª placa de limite de vel na luciano sentido cavalo,"Deve-se obter o código das cores da imagem para gerar letras iniciais, as quais resultam na resposta exata do micro da pista","||Pista:  | Explicação: Deve-se obter o código das cores da imagem para gerar letras iniciais, as quais resultam na resposta exata do micro da pista | Macro: Luciano Gualberto | Micro: 2ª placa de limite de vel na luciano sentido cavalo",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00302,,,,,,,,,,,,,,,,FAU,Aquário dos seguranças da FAU,"Jinbe -> Homem peixe; tatuagem dos piratas do sol -> Sol:
+ 
+
+ Sol -> fau
+ peixe -> aquario","||Pista:  | Explicação: Jinbe -> Homem peixe; tatuagem dos piratas do sol -> Sol:
+ 
+
+ Sol -> fau
+ peixe -> aquario | Macro: FAU | Micro: Aquário dos seguranças da FAU",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00313,,,,,,,,,,,,,,,,Poli,Cen - Carometro,Conversa do TED com o Thomas qunado pede pra ele por uma foto de perfil,||Pista:  | Explicação: Conversa do TED com o Thomas qunado pede pra ele por uma foto de perfil | Macro: Poli | Micro: Cen - Carometro,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00324,,,,,,,,,,,,,,,,ICB,Cancela que brilha,"Ciclops cancelado, cancela com um led vermelho na frente do ICB.","||Pista:  | Explicação: Ciclops cancelado, cancela com um led vermelho na frente do ICB. | Macro: ICB | Micro: Cancela que brilha",
+ML_2022_00325,,,,,,,,,,,,,,,,Poli,"Mecânica, caminho indo para a raia, na placa de proibido parar do lado direito (pensando em ir para a raia saindo da mec)","Mecânica, caminho indo para a raia, na placa de proibido parar do lado direito (pensando em ir para a raia saindo da mec)","||Pista:  | Explicação: Mecânica, caminho indo para a raia, na placa de proibido parar do lado direito (pensando em ir para a raia saindo da mec) | Macro: Poli | Micro: Mecânica, caminho indo para a raia, na placa de proibido parar do lado direito (pensando em ir para a raia saindo da mec)",
+ML_2022_00326,,,,,,,,,,,,,,,,IME,"De frente para a fau, tem umas lumináriasROXAS, bem pika","Livro português deve-se pensar em Lusíadas, no quarto canto, pq temos 4 microfones, e nos versos 94 a 104 temos o velho do restelo","||Pista:  | Explicação: Livro português deve-se pensar em Lusíadas, no quarto canto, pq temos 4 microfones, e nos versos 94 a 104 temos o velho do restelo | Macro: IME | Micro: De frente para a fau, tem umas lumináriasROXAS, bem pika",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00331,,,,,,,,,,,,,,,,Geo,Escadaria do teatro,Na escadaria temos as mesmas escrituras,||Pista:  | Explicação: Na escadaria temos as mesmas escrituras | Macro: Geo | Micro: Escadaria do teatro,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2022_00338,,,,,,,,,,,,,,,,FAU,Bueiro lilás na FAU,"A imagem chama UFA -> FAU. Lá tem um bueiro quadrado lilás, idêntico ao da imagem","||Pista:  | Explicação: A imagem chama UFA -> FAU. Lá tem um bueiro quadrado lilás, idêntico ao da imagem | Macro: FAU | Micro: Bueiro lilás na FAU",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00008,Saudades de quando Glub Glub passava na Tevê.,,,,,,,,,,,,,,,,,Tevê --> Travessa E. Glub Glub --> peixe --> mural com uns desenhos de animais marinhos que fica perto da porta do predio anexo do IO,||Pista: Saudades de quando Glub Glub passava na Tevê. | Explicação: Tevê --> Travessa E. Glub Glub --> peixe --> mural com uns desenhos de animais marinhos que fica perto da porta do predio anexo do IO | Macro:  | Micro: ,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00015,Deixa dysso,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00031,"Onde há sangue, li e lágrimas, podemos encontrar seu local de trabalho.",,,,,,,,,,,,,,,IQ,Food truck,,,
+ML_2020_00032,0,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00070,Tá na Disney filho da Selva?,,,,,,,,,,,,,,,,Cipotanea esquina com a Orlando,Disney--> Orlando; Filho da Selva --> Tarzan --> cipotânea,||Pista: Tá na Disney filho da Selva? | Explicação: Disney--> Orlando; Filho da Selva --> Tarzan --> cipotânea | Macro:  | Micro: Cipotanea esquina com a Orlando,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00073,0,,,,,,,,,,,,,,,,,,,
+ML_2020_00074,"No momento mais difícil da vida, tive que escolher o que faria pelo restante dela:
+ 
+
+ Ele tinha um Opala metálico azul
+ &
+ Apenas acumula mais vontade pra me ver
+ Apenas perde tempo e acha o que você
+ 
+
+ Chegando lá eu não consegui entrar",,,,,,,,,,,,,,,,,Ela tinha um Opala metálico azul > Dezesseis (música do Legião Urbana),"||Pista: No momento mais difícil da vida, tive que escolher o que faria pelo restante dela:
+ 
+
+ Ele tinha um Opala metálico azul
+ &
+ Apenas acumula mais vontade pra me ver
+ Apenas perde tempo e acha o que você
+ 
+
+ Chegando lá eu não consegui entrar | Explicação: Ela tinha um Opala metálico azul > Dezesseis (música do Legião Urbana) | Macro:  | Micro: ",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00111,"Jarred ja me dizia nas florestas do silêncio que
+ 
+
+ APELOR RADELAPIS ELTA ESTELANO RELELO GELIO AGELU ELDO",,,,,,,,,,,,,,,Praça Relógio Solar,Ponta do relógio solar,,,
+ML_2020_00112,"OS MAPAS SERÃO SEUS GUIAS E POR TODO MUMDO PRINCIPAL VOCÊS TERÃO QUE CAMINHAR; SÓ ASIM ENCONTRARÃO O VERDADEIRO TRIUMFO FINAU
+ 
+
+ X={
+ EXT.TEXTO(xgoufaahfgoupgyoxgni;1;3)
+ &”,”&
+ EXT.TEXTO(xgoufaahosxunggwavamdsfievawmkfyxgpymemezs;1;1)
+ &
+ EXT.TEXTO(xgoufaahfsnydfmxmtmadmfu;6;2)
+ &  
+ EXT.TEXTO(xgoufaahosenqdaudwzieg;6;1)
+ &
+ EXT.TEXTO(xgoufaahfwyjxgtobhqlyssi;1;2)
+ }
+ 
+
+ Y={
+ EXT.TEXTO(xgoufaahrsnluumhfwpyecum;5;3)
+ &”,”&
+ EXT.TEXTO(xgoufaahmfflavaeiwzndg;2;2)
+ &
+ EXT.TEXTO(xgoufaahmfflavqwdgounmxcm;4;2)
+ &
+ EXT.TEXTO(xgoufaahoszbmgbudsmcxzmxqeaiz;1;2)
+ }",,,,,,,,,,,,,,,,,,,
+ML_2020_00113,"Todos me julgavam, diziam que não tinha finalidade depois de ser usado, é complexo viver neste mundo onde as pessoas só querem te usar e este sentimento acaba por ficar intrínseco a meus sistemas e circuitoos. 
+ 
+
+ Não posso dizer que isso continua desta maneira, com certeza depois que te encontrei tudo mudou, você claramente é o meu destino certo.",,,,,,,,,,,,,,,,,,,
+ML_2020_00114,As Pink $pices se capacitam no programa de liberdade para Integrar,,,,,,,,,,,,,,,,,,,
+ML_2020_00115,Um ruivinho prodígio da pá virada que diariamente fica em um esconderijo gigante no próprio quarto e que sofre com sua irmã loirinha endiabrada resolveu que dessa vez o S(1)E(9C) será no diminutivo( - Omelette Du).,,,,,,,,,,,,,,,,,,,
+ML_2020_00116,Amei ter assistido. https://soundcloud.com/user-347772854/t116,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00119,"- Toc Toc
+ - Quem é?
+ - Não somos nós!",,,,,,,,,,,,,,,,,"Pista não convencional: o CA precisa bater na porta, vamos falar ""nao sao voces"", e eles só pode entrar com bata de outro CA (pelo menos um membro)","||Pista: - Toc Toc
+ - Quem é?
+ - Não somos nós! | Explicação: Pista não convencional: o CA precisa bater na porta, vamos falar ""nao sao voces"", e eles só pode entrar com bata de outro CA (pelo menos um membro) | Macro:  | Micro: ",
+ML_2020_00120,"- Toc Toc
+ - Quem é?
+ - Somos nós!
+ - Errou
+ - . ... . .
+ - Pode entrar!",,,,,,,,,,,,,,,,,Pista não convencional: o CA precisa bater na porta com um tap code na ordem certa de suas letras (o tapcode apresentado é . ... . . > CA),"||Pista: - Toc Toc
+ - Quem é?
+ - Somos nós!
+ - Errou
+ - . ... . .
+ - Pode entrar! | Explicação: Pista não convencional: o CA precisa bater na porta com um tap code na ordem certa de suas letras (o tapcode apresentado é . ... . . > CA) | Macro:  | Micro: ",
+ML_2020_00121,"- Toc Toc
+ - Vocês são só daqui 3 horas!
+ - E agora?",,,,,,,,,,,,,,,,,"Pista não convencional: o CA precisa bater na porta, vamos falar ""voces sao só daqui 3h"" e eles precisam adiantar o relogio em 3h pra poder entrar)","||Pista: - Toc Toc
+ - Vocês são só daqui 3 horas!
+ - E agora? | Explicação: Pista não convencional: o CA precisa bater na porta, vamos falar ""voces sao só daqui 3h"" e eles precisam adiantar o relogio em 3h pra poder entrar) | Macro:  | Micro: ",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00132,https://drive.google.com/drive/folders/1Pbq2FYD84nZ593qJkb4DDOFqcnDA7kUm?usp=sharing,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00136,"À minha esquerda, posso ter todo o dinheiro do mundo;
+ À minha direita, posso lutar pelo poder;
+ Logo se vê o motivo deste marco do inferno.",,,,,,,,,,,,,,,,,,,
+ML_2020_00137,"Segui o Francisco até o final, 
+ Foi quando me deparei com aquilo que parecia um mercado.
+ Barrado, foi o unico caminho que pude seguir e assim descobri
+ Que realmente aquilo não era para crianças.",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00157,0,,,,,,,,,,,,,,,CEPE,,Armando Salles se candidatou mas o GV deu golpe de estado --> Estado Novo. (armando de Salles--> estádio do CEPE),||Pista: 0 | Explicação: Armando Salles se candidatou mas o GV deu golpe de estado --> Estado Novo. (armando de Salles--> estádio do CEPE) | Macro: CEPE | Micro: ,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00159,37,,,,,,,,,,,,,,,Vet,Totem,37 em binário fica ...0100101 > Disciplina Introdução ao Estudo da Medicina Veterinária > Vet (totem?),||Pista: 37 | Explicação: 37 em binário fica ...0100101 > Disciplina Introdução ao Estudo da Medicina Veterinária > Vet (totem?) | Macro: Vet | Micro: Totem,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00161,"To tão chapada que não sei se to no Recife, Fortaleza ou Teresina",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00172,"Faça-se a luz na segunda casa, onde os escritos dos antepassados misturam-se com as novas gerações.",,,,,,,,,,,,,,,,,,,
+ML_2020_00173,Comi massa do outro lado do mudo,,,,,,,,,,,,,,,Lame,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00175,"Z7 A14,0067u",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00181,Im can't believe it's happe(x),,,,,,,,,,,,,,,IME,Sen(x),,,
+ML_2020_00182,0,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00186,Pista na Vet,,,,,,,,,,,,,,,,,,,
+ML_2020_00187,0,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2020_00208,"Bem no encontro da lama do meu quintal, com a raiz diferente.",,,,,,,,,,,,,,,,Encontro rua do lago com rua do matao,Lama do meu quintal —,"||Pista: Bem no encontro da lama do meu quintal, com a raiz diferente. | Explicação: Lama do meu quintal — | Macro:  | Micro: Encontro rua do lago com rua do matao",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00020,")
+ |[)
+  [",,,,,,,,,,,,,,,IEB,Totem,418,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00023,,,,,,,,,,,,,,,,IGC,Pararraio,"Esse é o símbolo de Terra, terra leva a Geociências, além disso tem o pararraio que é um aterramento.","||Pista:  | Explicação: Esse é o símbolo de Terra, terra leva a Geociências, além disso tem o pararraio que é um aterramento. | Macro: IGC | Micro: Pararraio",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00050,"A esfinge te adverte:
+  
+  Não troque a ordem nem erre os passos dessa charada
+  Pois nessas fotos instantâneas
+  Lady já dizia: seja somente uma rainha
+  Adorada Dela no 6º andar do palácio.
+  Em agosto procure por aqueles que você mais odeia atualmente.",,,,,,,,,,,,,,,-,-,"1a linha - A pessoa tem que seguir o passo a passo. 2a linha - ver pelo instagram; 3a linha - referencia a Lady Gaga, que diz em uma música ""dont be a drag, just be a queen"". Seja somente uma rainha é entao referencia a rupaul's drag race. 4a linha - Procurar na sexta temporada uma queen cujo nome é parecido com Adorada Dela ( Adore Delano). Desta forma nossa heroína chegará ao instagram da Adore Delano e procurará nas fotos de agosto algo que lembre quem eles mais odeiam atualemnte (A GENTE/ A CO ). E tem uma foto com uns pedaços de onion rings que ""escrevem"" CO . Nesta foto tem um comentario de uma conta de instagram j.verne19 ( ou algo assim) que diz para voltar para a CO abrindo um espacate.","||Pista: A esfinge te adverte:
+  
+  Não troque a ordem nem erre os passos dessa charada
+  Pois nessas fotos instantâneas
+  Lady já dizia: seja somente uma rainha
+  Adorada Dela no 6º andar do palácio.
+  Em agosto procure por aqueles que você mais odeia atualmente. | Explicação: 1a linha - A pessoa tem que seguir o passo a passo. 2a linha - ver pelo instagram; 3a linha - referencia a Lady Gaga, que diz em uma música ""dont be a drag, just be a queen"". Seja somente uma rainha é entao referencia a rupaul's drag race. 4a linha - Procurar na sexta temporada uma queen cujo nome é parecido com Adorada Dela ( Adore Delano). Desta forma nossa heroína chegará ao instagram da Adore Delano e procurará nas fotos de agosto algo que lembre quem eles mais odeiam atualemnte (A GENTE/ A CO ). E tem uma foto com uns pedaços de onion rings que ""escrevem"" CO . Nesta foto tem um comentario de uma conta de instagram j.verne19 ( ou algo assim) que diz para voltar para a CO abrindo um espacate. | Macro: - | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00061,,,,,,,,,,,,,,,,-,Letreiro da hidraulica,"A pista nao tem macro, ela é uma referencia direta a micro, que é o letreiro Hidraulica (na raia), sendo uma referencia do letreiro de Hollywood","||Pista:  | Explicação: A pista nao tem macro, ela é uma referencia direta a micro, que é o letreiro Hidraulica (na raia), sendo uma referencia do letreiro de Hollywood | Macro: - | Micro: Letreiro da hidraulica",
+ML_2019_00062,"Entre o Tigre e Eufrates, apagamos o fogo enterrando-o.",,,,,,,,,,,,,,,Entre CDI e CTH,Hidrante semi enterrado,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00064,,,,,,,,,,,,,,,,Centro de Informações,Bandeira do Brasil,"Ao resolver a integral, trocando os símbolos do estado de Minas por MG e OM por OM, chega-se no link imgbox.com/05FRWHnI, que é um QRCode com a bandeira do Brasil no centro que leva para a página do Centro de Informações","||Pista:  | Explicação: Ao resolver a integral, trocando os símbolos do estado de Minas por MG e OM por OM, chega-se no link imgbox.com/05FRWHnI, que é um QRCode com a bandeira do Brasil no centro que leva para a página do Centro de Informações | Macro: Centro de Informações | Micro: Bandeira do Brasil",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00105,"Elementar, minha cara. Traga-me 2 garrafas, 17 copos, e celebraremos sua conquista faltando algo entre 14 e 12 segundos para os 1700.",,,,,,,,,,,,,,,-,-,"Resolução: volte para a CO de yellow. Elementar, minha cara = série do Sherlock Holmes ""Elementary"" em que Watson é uma mulher. 2 garrafas e 17 copos = Temporada 2, episódio 17. Entre faltar 17:14 segundos e 17:12 segundos pro episódio acabar na Netflix, o cara fala ""yellow bicycle"". Trazer + conquista = levar a pista de yellow para a CO.","||Pista: Elementar, minha cara. Traga-me 2 garrafas, 17 copos, e celebraremos sua conquista faltando algo entre 14 e 12 segundos para os 1700. | Explicação: Resolução: volte para a CO de yellow. Elementar, minha cara = série do Sherlock Holmes ""Elementary"" em que Watson é uma mulher. 2 garrafas e 17 copos = Temporada 2, episódio 17. Entre faltar 17:14 segundos e 17:12 segundos pro episódio acabar na Netflix, o cara fala ""yellow bicycle"". Trazer + conquista = levar a pista de yellow para a CO. | Macro: - | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00111,"Nesta aventura, cuidado com seu LCA. Mas corra, rápido! Somente lá você encontrará a estafa que cega Magnus.",,,,,,,,,,,,,,,-,Labirinto,"Aventura+ LCA faz referencia a Skyrim -> Um meme muito famoso de Skyrim era ""i used to be an adventurer like you, but then i took an arrow to the knee/ Eu costumava ser um aventureiro que nem voce, mas tomei uma flechada no joelho"" LCA neste caso faz referencia ao ligamento do joelho (ligamento cruzado anterior).
+ Com a referencia de skyrim em mãos, voce descobrirá que tem dois objetos chamados ""Staff of Magnus"" e ""Eye of Magnus"", fechando as referencias da pista.
+ Procurando um pouco mais, nosso aventureiro vai descobrir que o único local onde se pode pegar o staff (estafa) para cegar Magnus (destruir o Olho de Magnus) é em Labyrinthian.
+ FAQ: Magnus é uma pessoa? indiferente (pois o que importa sao os objetos e nao a pessoa)","||Pista: Nesta aventura, cuidado com seu LCA. Mas corra, rápido! Somente lá você encontrará a estafa que cega Magnus. | Explicação: Aventura+ LCA faz referencia a Skyrim -> Um meme muito famoso de Skyrim era ""i used to be an adventurer like you, but then i took an arrow to the knee/ Eu costumava ser um aventureiro que nem voce, mas tomei uma flechada no joelho"" LCA neste caso faz referencia ao ligamento do joelho (ligamento cruzado anterior).
+ Com a referencia de skyrim em mãos, voce descobrirá que tem dois objetos chamados ""Staff of Magnus"" e ""Eye of Magnus"", fechando as referencias da pista.
+ Procurando um pouco mais, nosso aventureiro vai descobrir que o único local onde se pode pegar o staff (estafa) para cegar Magnus (destruir o Olho de Magnus) é em Labyrinthian.
+ FAQ: Magnus é uma pessoa? indiferente (pois o que importa sao os objetos e nao a pessoa) | Macro: - | Micro: Labirinto",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00156,O quadro perdido retratava o motivo da eterna batalha entre a águia e a cobra.,,,,,,,,,,,,,,,-,Cavalo,"Quadro perdido é uma referencia a Tela Perdida (Lost canvas) , saga de cavaleiros do zodiaco. Nos cavaleiros, tinham Maryn de Aguia e China de Cobra, que estavam sempre brigando por causa de Seya de Pégasus. A estátua do cavalo na verdade é um pégasus.","||Pista: O quadro perdido retratava o motivo da eterna batalha entre a águia e a cobra. | Explicação: Quadro perdido é uma referencia a Tela Perdida (Lost canvas) , saga de cavaleiros do zodiaco. Nos cavaleiros, tinham Maryn de Aguia e China de Cobra, que estavam sempre brigando por causa de Seya de Pégasus. A estátua do cavalo na verdade é um pégasus. | Macro: - | Micro: Cavalo",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00187,ccqgfyvtjb,,,,,,,,,,,,,,,-,Banca Solar,Código que vai alterando a correspondecia (somando 1) conforme a posicao na palavra. Por ex: (aaa) = (bcd); (ab) = (bd); (ca) = (dc). A resposta é bancasolar.,||Pista: ccqgfyvtjb | Explicação: Código que vai alterando a correspondecia (somando 1) conforme a posicao na palavra. Por ex: (aaa) = (bcd); (ab) = (bd); (ca) = (dc). A resposta é bancasolar. | Macro: - | Micro: Banca Solar,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00196,byqyhq,,,,,,,,,,,,,,,-,Dama1,"PISTA DE TRANSFORMACAO. Pegar as letras mais usadas do portugues, referenciar esta informacao ao contrario (então a letra mais usada A é trocada pela menos usada Y; e assim sucessivamente). Com isto voce obtem o codigo para decifrar a mensagem ""DAMAUM"")","||Pista: byqyhq | Explicação: PISTA DE TRANSFORMACAO. Pegar as letras mais usadas do portugues, referenciar esta informacao ao contrario (então a letra mais usada A é trocada pela menos usada Y; e assim sucessivamente). Com isto voce obtem o codigo para decifrar a mensagem ""DAMAUM"") | Macro: - | Micro: Dama1",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00202,sgoslovaxvld,,,,,,,,,,,,,,,-,Relogio Solar,Código que vai alterando a correspondecia (somando 1) conforme a posicao na palavra. Por ex: (aaa) = (bcd); (ab) = (bd); (ca) = (dc). A resposta é relogiosolar.,||Pista: sgoslovaxvld | Explicação: Código que vai alterando a correspondecia (somando 1) conforme a posicao na palavra. Por ex: (aaa) = (bcd); (ab) = (bd); (ca) = (dc). A resposta é relogiosolar. | Macro: - | Micro: Relogio Solar,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00229,,,,,,,,,,,,,,,,IME,Sala Assistencia Institucional 18,"Cálculo leva a IME, o resultado da Integral da 1964a+c
+ a leva a bloco a, 1964 a AI-5, com C=13 AI-18, sala Apoio Institucional 18 no IME","||Pista:  | Explicação: Cálculo leva a IME, o resultado da Integral da 1964a+c
+ a leva a bloco a, 1964 a AI-5, com C=13 AI-18, sala Apoio Institucional 18 no IME | Macro: IME | Micro: Sala Assistencia Institucional 18",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00262,,,,,,,,,,,,,,,,IB,Passarela subterrânea,Escrita no whatsapp mostrando um corte da rua do Matão no nível da passarela subterrânea do IB,||Pista:  | Explicação: Escrita no whatsapp mostrando um corte da rua do Matão no nível da passarela subterrânea do IB | Macro: IB | Micro: Passarela subterrânea,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00266,,,,,,,,,,,,,,,,Rádio USP,-,"93 bolas completas + 0,7 bola = 93,7 que é a estação da rádio USP","||Pista:  | Explicação: 93 bolas completas + 0,7 bola = 93,7 que é a estação da rádio USP | Macro: Rádio USP | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00278,,,,,,,,,,,,,,,,Praça do Relogio,8 (perto da policia),o bloco grande é a torre do relogio. O 8 pequeno é uma estrutura metalica perto da estacao policial. Pista visual.,||Pista:  | Explicação: o bloco grande é a torre do relogio. O 8 pequeno é uma estrutura metalica perto da estacao policial. Pista visual. | Macro: Praça do Relogio | Micro: 8 (perto da policia),
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00285,Essa pista não é desse planeta...,,,,,,,,,,,,,,,Geologia,Meteoro do museu da geologia,,,
+ML_2019_00286,"Guarda isso, não posso aceitar cheques, estou abaixo delas, ninguém me banca.",,,,,,,,,,,,,,,CEPE,"Sala de xadrez, embaixo das arquibancadas do CEPE",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00332,Ei bigodudo me pede com jeitinho,,,,,,,,,,,,,,,Pedir com Rappi,,,,
+ML_2019_00333,"Nos bracos de Mazak, meu lugar, ainda que sem ar.",,,,,,,,,,,,,,,IAG,casinha sem janela do lado,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00345,"O mito do Santo Isaquias, que usou seu segundo nome para lavar dinheiro vivo do partido.",,,,,,,,,,,,,,,CEPE/Travessa C,Orelhão VIVO,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00368,,,,,,,,,,,,,,,,ICB I,Estátua de formas geométricas,"Os únicos botões a vista no controle são quadrado, bolinha e triângulo. Com o lgoo do ICB, tem-se que é uma estátua com bola, traingulo e quadrado que fica lá","||Pista:  | Explicação: Os únicos botões a vista no controle são quadrado, bolinha e triângulo. Com o lgoo do ICB, tem-se que é uma estátua com bola, traingulo e quadrado que fica lá | Macro: ICB I | Micro: Estátua de formas geométricas",
+,,,,,,,,,,,,,,,,,,,,
+ML_2019_00370,,,,,,,,,,,,,,,,HU,Ponto de ônibus,"a placa do ônibus lê 1337 (leet). Traduzindo o nome da linha do ônibus em leet, tem-se o número 70140391, que é o código no netflix (N para confirmar no ônibus) para Grey's Anatomy, fazendo referência ao HU.","||Pista:  | Explicação: a placa do ônibus lê 1337 (leet). Traduzindo o nome da linha do ônibus em leet, tem-se o número 70140391, que é o código no netflix (N para confirmar no ônibus) para Grey's Anatomy, fazendo referência ao HU. | Macro: HU | Micro: Ponto de ônibus",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00020,,,,,,,,,,,,,,,Dé,Praça IO,,"a imagem é um mapa, a seta é o NORTE. comparando a imagem com o mapa da cidade universitária, esse formato é o ""quarteirão"" limitado pela Rua do Matão e Rua do Lago. O Xis é o ponto exato de onde tá a pista, na Praça Oceanográfico.","||Pista:  | Explicação: a imagem é um mapa, a seta é o NORTE. comparando a imagem com o mapa da cidade universitária, esse formato é o ""quarteirão"" limitado pela Rua do Matão e Rua do Lago. O Xis é o ponto exato de onde tá a pista, na Praça Oceanográfico. | Macro: Praça IO | Micro: ",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00024,Ali se alocou aquele primo distante de Brás Cubas!,,,,,,,,,,,,,,Zagattinho,,Praça do Bidê,"Alocou se refere a residir, morar; Brás Cubas - Cubas - Cuba - Pia - Bidê","||Pista: Ali se alocou aquele primo distante de Brás Cubas! | Explicação: Alocou se refere a residir, morar; Brás Cubas - Cubas - Cuba - Pia - Bidê | Macro:  | Micro: Praça do Bidê",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00037,-,,,,,,,,,,,,,,,-,-,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00049,"Isso engana um dos filhos de Eufrone, mas pode te deixar mais perto do outro parecido. Traga aquele que me faz ver tudo de cima.",,,,,,,,,,,,,,Rossi,-,-,"Eufrone - Nix (Mitologia). Filhos Hipnos (sono) e Tânato (morte). Energético te tira o sono mas ""pode matar"". O que faz ver as coisas de cima é o que me dá asas","||Pista: Isso engana um dos filhos de Eufrone, mas pode te deixar mais perto do outro parecido. Traga aquele que me faz ver tudo de cima. | Explicação: Eufrone - Nix (Mitologia). Filhos Hipnos (sono) e Tânato (morte). Energético te tira o sono mas ""pode matar"". O que faz ver as coisas de cima é o que me dá asas | Macro: - | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00055,Quando em Manila... Mas eu teria cuidado com a minha barriga.,,,,,,,,,,,,,,Corrupto,,Piscina de saltos ornamentais,Manila cidade das Filipinas. Os atletas filipinos de saltos ornamentais deram varias barrigadas nas olimpiadas.,||Pista: Quando em Manila... Mas eu teria cuidado com a minha barriga. | Explicação: Manila cidade das Filipinas. Os atletas filipinos de saltos ornamentais deram varias barrigadas nas olimpiadas. | Macro:  | Micro: Piscina de saltos ornamentais,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00058,Será que esse número não tem a ver com o sistema de catálogo de árvores da USP?,,,,,,,,,,,,,,Corrupto,-,Biblioteca Florestan,Sempre tem um filho da puta q fala isso sobre os numeroszinhos das arvores,||Pista: Será que esse número não tem a ver com o sistema de catálogo de árvores da USP? | Explicação: Sempre tem um filho da puta q fala isso sobre os numeroszinhos das arvores | Macro: - | Micro: Biblioteca Florestan,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00066,,,,,,,,,,,,,,,Rossi,Casa de Cultura Japonesa,Ponto de ônibus,,,
+ML_2017_00067,"Em todos os tempos, essa é a maior concorrência dentro da USP. Só 6 lugares para disputar.",,,,,,,,,,,,,,Rossi,,,"Tempo = Relógio, nesse caso solar. 6 é o número de vagas para táxi no ponto","||Pista: Em todos os tempos, essa é a maior concorrência dentro da USP. Só 6 lugares para disputar. | Explicação: Tempo = Relógio, nesse caso solar. 6 é o número de vagas para táxi no ponto | Macro:  | Micro: ",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00080,Jurnegon syt ziry isse naejon hen vēzos.,,,,,,,,,,,,,,Rossi,FAU,Em frente ao do prédio,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00110,Quantos hp tem a sua bomba solar?,,,,,,,,,,,,,,Corrupto,,Bomba de água entre cavalo e iee,hp = horse power = cavalo. solar = gramado do iee com paineis solares. Tem uma bomba de água entre eles,||Pista: Quantos hp tem a sua bomba solar? | Explicação: hp = horse power = cavalo. solar = gramado do iee com paineis solares. Tem uma bomba de água entre eles | Macro:  | Micro: Bomba de água entre cavalo e iee,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00117,,,,,,,,,,,,,,,Rossi,Brasiliana,Auditório,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00126,Da família de Helena só me importam o gêmeo e seu avô,,,,,,,,,,,,,,Miss,,Relógio de Sol,"Dos deuses gregos ""famosos"", os gêmeos são Artêmis e Apollo. Apollo tem como símbolo o sol. Seu ""avô"" era Cronos, titã do tempo","||Pista: Da família de Helena só me importam o gêmeo e seu avô | Explicação: Dos deuses gregos ""famosos"", os gêmeos são Artêmis e Apollo. Apollo tem como símbolo o sol. Seu ""avô"" era Cronos, titã do tempo | Macro:  | Micro: Relógio de Sol",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00130,Quanto mais pala menos pala.,,,,,,,,,,,,,,Corrupto,-,Palas Atenas,"A pista esta na poli, muita pala pra plantar.","||Pista: Quanto mais pala menos pala. | Explicação: A pista esta na poli, muita pala pra plantar. | Macro: - | Micro: Palas Atenas",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00136,O bacon combina com tudo mesmo,,,,,,,,,,,,,,Corrupto,-,Ptrem,"Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ ABBBBBAABBBAAABAABAAABBAA que passando pela cifra chega em ptrem","||Pista: O bacon combina com tudo mesmo | Explicação: Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ ABBBBBAABBBAAABAABAAABBAA que passando pela cifra chega em ptrem | Macro: - | Micro: Ptrem",
+ML_2017_00137,O bacon combina com tudo mesmo,,,,,,,,,,,,,,Corrupto,-,totem ICB I,"Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ ABAAAAAABAAAAABBABAAABBAA que passando pela cifra chega em icbum","||Pista: O bacon combina com tudo mesmo | Explicação: Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ ABAAAAAABAAAAABBABAAABBAA que passando pela cifra chega em icbum | Macro: - | Micro: totem ICB I",
+ML_2017_00138,O bacon combina com tudo mesmo,,,,,,,,,,,,,,Corrupto,-,estação central da ppusp,"Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ ABBBBABBBBBABAABAABAABBBB que passando pela cifra chega em ppusp","||Pista: O bacon combina com tudo mesmo | Explicação: Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ ABBBBABBBBBABAABAABAABBBB que passando pela cifra chega em ppusp | Macro: - | Micro: estação central da ppusp",
+ML_2017_00139,O bacon combina com tudo mesmo,,,,,,,,,,,,,,Corrupto,-,antigo posto,"Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ ABBBBABBBABAABABAABBABBBA que passando pela cifra chega em posto","||Pista: O bacon combina com tudo mesmo | Explicação: Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ ABBBBABBBABAABABAABBABBBA que passando pela cifra chega em posto | Macro: - | Micro: antigo posto",
+ML_2017_00140,O bacon combina com tudo mesmo,,,,,,,,,,,,,,Corrupto,-,prédio da adusp,"Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ AAAAAAAABBBABAABAABAABBBB que passando pela cifra chega em adusp","||Pista: O bacon combina com tudo mesmo | Explicação: Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ AAAAAAAABBBABAABAABAABBBB que passando pela cifra chega em adusp | Macro: - | Micro: prédio da adusp",
+ML_2017_00141,O bacon combina com tudo mesmo,,,,,,,,,,,,,,Corrupto,-,Banca de jornal do central,"Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ AAAABAAAAAABBABAAABAAAAAA que passando pela cifra chega em banca","||Pista: O bacon combina com tudo mesmo | Explicação: Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ AAAABAAAAAABBABAAABAAAAAA que passando pela cifra chega em banca | Macro: - | Micro: Banca de jornal do central",
+ML_2017_00142,O bacon combina com tudo mesmo,,,,,,,,,,,,,,Corrupto,-,uspao,"Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ BABAABAABAABBBBAAAAAABBBA que passando pela cifra chega em uspao","||Pista: O bacon combina com tudo mesmo | Explicação: Cifra Baconiana - A frase tem duas fontes diferentes, 
+ chamando a primeira de A e a segunda de B e substituindo na frase temos 
+ BABAABAABAABBBBAAAAAABBBA que passando pela cifra chega em uspao | Macro: - | Micro: uspao",
+ML_2017_00143,O bacon combina com tudo mesmo,,,,,,,,,,,,,,Corrupto,-,sremo,"Cifra Baconiana - A frase tem duas fontes 
+ diferentes, chamando a primeira de A e a 
+ segunda de B e substituindo na frase temos
+  BABAABAABAABBBBAAAAAABBBA que
+  passando pela cifra chega em sremo","||Pista: O bacon combina com tudo mesmo | Explicação: Cifra Baconiana - A frase tem duas fontes 
+ diferentes, chamando a primeira de A e a 
+ segunda de B e substituindo na frase temos
+  BABAABAABAABBBBAAAAAABBBA que
+  passando pela cifra chega em sremo | Macro: - | Micro: sremo",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00147,Pipe foi na padoca e provou o canelone.,,,,,,,,,,,,,,dé,,barraquina de cachorro quente / pipoca,"pista sonora: ""pipoca com provolone usp"" digitado no maps chega no local exato","||Pista: Pipe foi na padoca e provou o canelone. | Explicação: pista sonora: ""pipoca com provolone usp"" digitado no maps chega no local exato | Macro:  | Micro: barraquina de cachorro quente / pipoca",
+ML_2017_00148,"Clareando a pequena floresta, estava a melhor fonte",,,,,,,,,,,,,,dé,crusp,horta,,,
+ML_2017_00149,"Eles então se adiantaram no antigo ditado ""vender o almoço para comprar a janta""",,,,,,,,,,,,,,dé,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00234,"Sua obra prima é por causa de irmãos, mas precisamos apenas do seu segundo. Aliado ao tempo, trouxe esta forma ao que vemos hoje.",,,,,,,,,,,,,,Rossi,/,Escultura,"Irmãos Karamazov é a obra prima de Dostoievski. O segundo livro dele é ""O Duplo"". Aliado ao tempo, forma O Duplo e o Tempo. Google, no 4º link aparece a foto dentre as imagens.","||Pista: Sua obra prima é por causa de irmãos, mas precisamos apenas do seu segundo. Aliado ao tempo, trouxe esta forma ao que vemos hoje. | Explicação: Irmãos Karamazov é a obra prima de Dostoievski. O segundo livro dele é ""O Duplo"". Aliado ao tempo, forma O Duplo e o Tempo. Google, no 4º link aparece a foto dentre as imagens. | Macro: / | Micro: Escultura",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00247,"Piqueira prometeu modernizar a poli, vamos usar um cisne pra fazer as contas agora.",,,,,,,,,,,,,,Corrupto,Prédio da Adm,Computador patinho feio,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00249,Willian Wallace avistava sua amiga só com o longo pescoço pra fora.,,,,,,,,,,,,,,Corrupto,-,Lago,"Willian Wallace é um heroi das Terras Altas da Escócia, onde fica o lago ness. Esse lago é famoso por avistamentos do monstro do lago ness, que seria uma fêmea.","||Pista: Willian Wallace avistava sua amiga só com o longo pescoço pra fora. | Explicação: Willian Wallace é um heroi das Terras Altas da Escócia, onde fica o lago ness. Esse lago é famoso por avistamentos do monstro do lago ness, que seria uma fêmea. | Macro: - | Micro: Lago",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00258,*pista em branco*,,,,,,,,,,,,,,Corrupto,-,Eucaliptos da vet,O muro da vet colado com a corifeu tem vários eucaliptos que deixam a região cheirando a sauna,||Pista: *pista em branco* | Explicação: O muro da vet colado com a corifeu tem vários eucaliptos que deixam a região cheirando a sauna | Macro: - | Micro: Eucaliptos da vet,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00260,"Esse fato jamais sairá de minha memória
+ até meus olhos cansados morrerem.",,,,,,,,,,,,,,corrupto,-,Rua da vet bloqueada por pedras,"A frase é uma paráfrase do trecho: ""Nunca me esquecerei desse acontecimento
+ Na vida de minhas retinas tão fatigadas"" do poema No Meio do Caminho (no meio do caminho tinha uma pedra) que leva ao caminho da rua da vet atualmente bloqueado por duas pedras enormes.","||Pista: Esse fato jamais sairá de minha memória
+ até meus olhos cansados morrerem. | Explicação: A frase é uma paráfrase do trecho: ""Nunca me esquecerei desse acontecimento
+ Na vida de minhas retinas tão fatigadas"" do poema No Meio do Caminho (no meio do caminho tinha uma pedra) que leva ao caminho da rua da vet atualmente bloqueado por duas pedras enormes. | Macro: - | Micro: Rua da vet bloqueada por pedras",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2017_00273,,,,,,,,,,,,,,,Nat,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00001,"Depois de você me contar essa 
+ piada pela 5ª vez, aliás, rio, Tom.",,,,,,,,,,,,,,Terras,FAU,Auditório,,,
+ML_2016_00002,"O Rio Arga já passava pelo antigo reino de
+ Navarra. Por isso, imagina-se que ele
+ não esteja em estado transiente.",,,,,,,,,,,,,,Terras,FFLCH - HISTÓRIA E GEOGRAFIA,"Placa de 
+ carga e descarga",,,
+ML_2016_00003,"Pessoas com deficiência física não podem 
+ estacionar nem parar aqui.
+ O resto tá de boas.
+ Quanta opressão...",,,,,,,,,,,,,,Terras,FFLCH - FILOSOFIA,"Placa de 
+ deficiente
+ pichada",,,
+ML_2016_00004,"Andando por um caminho do sol onde pedestres não são bem vindos, a verdade é que 30 anos depois você fica só.",,,,,,,,,,,,,,Terras,Ime,"placa de pedestre atravessando a rua sozinho
+ 
+
+ (TERRAS DEVE PLANTAR A PISTA SEGUINTE A ESTA NA TAL PLACA)",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00007,"A vida da marmota é tão emocionante 
+ quanto uma guerra travada no oceano 
+ durante sete dias.",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00010,Ouça o Orfeu extático.,,,,,,,,,,,,,,Terras,FFLCH - HISTÓRIA E GEOGRAFIA,"Auditório 
+ Nicolau 
+ Sevchenko",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00012,"Na casa do Sargento Jorge Carter 
+ ninguém tomava Nescau.",,,,,,,,,,,,,,Nenê,CRUSP,Barbearia,,,
+ML_2016_00013,"O acordo está demorando tanto que 
+ o gerente só pode estar enrolando
+ para ganhar tempo.",,,,,,,,,,,,,,Andrezão,FFLCH - ADM,"Janela da 
+ sala do diretor",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00015,"""Este trapézio não existe nem existirá!"" 
+ Disse o Rei.",,,,,,,,,,,,,,Terras,REITORIA NOVA,"Placas de 
+ proibido 
+ estacionar 
+ e parar que 
+ formam um 
+ trapézio",,,
+ML_2016_00016,"Sai daí, difícil entre redondo
+ e vermelho.",,,,,,,,,,,,,,Terras,CDI,"Elevador de
+ deficiente",,,
+ML_2016_00017,Vou fumar um feito de pontas.,,,,,,,,,,,,,,Nenê,BIO,"Ponto de 
+ ônibus",,,
+ML_2016_00018,"Os Cozinheiros Sem Fronteiras 
+ sempre dizem sem querer 3:7,-,-9",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00020,ESSANNUMVYGC,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00022,222.666.6.33.222.33.444 2 222.666.777.777.444.3.2 222.666.6 6 7.33 3.444.777.33.444.8.666 6.2.7777 555.666.4.666 6.33 6.2.66.3.2.777.2.6 7.2.777.2.777,,,,,,,,,,,,,,Andrezão,Cepe,semaforo de pedestres em frente ao cepe,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00024,"Quando as aparições dos fantasmas 
+ pela cidade se iniciarem, 
+ quem você vai chamar?",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00026,"Os políticos não têm dó de estocar
+ suprimentos para situações críticas.",,,,,,,,,,,,,,Andrezão,POLI,"Almoxarifado 
+ nos barracões",,,
+ML_2016_00027,Ame-os ou afogue-os!!!,,,,,,,,,,,,,,,RAIA,RATERIA - ENSIAO,,,
+ML_2016_00028,"Um dos pontos altos da próxima temporada
+ deve ser a resposta de uma questão
+ importante. 
+ E os Lannisters, tão perto, só poderão
+ assistir.",,,,,,,,,,,,,,Andrezão,PRAÇA DOS BANCOS,"Torre voltada 
+ para a ECA",,,
+ML_2016_00029,"Não tenho sabor, 
+ mas todos querem me provar.",,,,,,,,,,,,,,Nenê,FFLCH,"Ponto de 
+ ônibus",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00031,"Hoje em dia qualquer garoto sabe 
+ onde conseguir uma maçã.",,,,,,,,,,,,,,Andrezão,EDUCAÇÃO,"Bancos em 
+ loop infinito",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00033,"Os Cozinheiros Sem Fronteiras 
+ sempre dizem sem querer ,9""'38-",,,,,,,,,,,,,,,,,,,
+ML_2016_00034,"Cinquenta tons de cinza me ensinou algo
+ importante: sua pele pode ser de pêssego
+ ou maracujá, mas de quatro, à noite, jamais.",,,,,,,,,,,,,,Andrezão,BIO,Composteira,,,
+ML_2016_00035,"Se você achou o EP3 foda, se prepara 
+ que o EP532 vai ser um horror.",,,,,,,,,,,,,,Andrezão,"SUB-ESTAÇÃO
+ ABANDONADA","Placa ""532""",,,
+ML_2016_00036,"Onde já se viu ficar tocar 
+ vuvuzela por aqui?! Que desrespeito!",,,,,,,,,,,,,,Andrezão,EDUCAÇÃO,"Placa 
+ ""Proibido 
+ buzinar""",,,
+ML_2016_00037,"Ele era honesto demais, Lê.
+ Me lembra de passar no Pedro?",,,,,,,,,,,,,,Terras,"AVENIDA ERNESTO DE
+ MORAES LEME","Pedra 
+ característica",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00039,"Dia 41783: Inexistente minha excelência
+ em carros e piadas, hein?
+ Bom que o espanhol saiu
+ do zoológico.",,,,,,,,,,,,,,Terras,IME,"Grade 
+ com carros
+ dentro",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00043,,,,,,,,,,,,,,,Massa,ARQUIVO,Totem,"A pista está escrita em Klingon.
+ Traduzindo, ela gera a palavra
+ ""arquivo"". Que fica perto do MAE.","||Pista:  | Explicação: A pista está escrita em Klingon.
+ Traduzindo, ela gera a palavra
+ ""arquivo"". Que fica perto do MAE. | Macro: ARQUIVO | Micro: Totem",
+ML_2016_00044,O Zeca Sabe Bem isto.,,,,,,,,,,,,,,Nenê,FFLCH - HISTÓRIA E GEOGRAFIA,"Núcleo de 
+ Estudos de
+ História Oral",,,
+ML_2016_00045,,,,,,,,,,,,,,,Massa,PRAÇA DO RELÓGIO,Triforce,"A pista remete a ""tri"" + ""força"", o que deve levar a 
+ triforce. Existe uma desenhada na Praça do Relógio.","||Pista:  | Explicação: A pista remete a ""tri"" + ""força"", o que deve levar a 
+ triforce. Existe uma desenhada na Praça do Relógio. | Macro: PRAÇA DO RELÓGIO | Micro: Triforce",
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00047,"Vemos aqui o habitat natural de uma
+ porca anã.",,,,,,,,,,,,,,Andrezão,BIO,"Árvore 
+ suinã",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00050,Dois atletas jogando basquete habilmente ganharam hoje cedo.,,,,,,,,,,,,,,Andrezão,VETERINARIA,secretaria,,,
+ML_2016_00051,"Após o primeiro falhar, 
+ 162 soldados conseguiram 
+ cutucar a Medusa.",,,,,,,,,,,,,,Andrezão,"PRAÇA DO 
+ RELÓGIO","Pedra da 
+ coruja",,,
+ML_2016_00052,"Não existem restrições para estudar
+ o corpo humano como Da Vinci.",,,,,,,,,,,,,,Andrezão,"PARQUE ESPORTE
+ PARA TODOS","Placa de posições
+ de alongamento",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00054,Entra no cu e roda!,,,,,,,,,,,,,,Nenê,"PRAÇA REYNALDO
+ PORCHAT","Estátua do 
+ Armando Salles
+ de Oliveira",,,
+ML_2016_00055,DAXLMUBSSQCQB,,,,,,,,,,,,,,,,,,,
+ML_2016_00056,"Vejo e ouço tudo muito bem daqui.
+ Os geradores estão OK, 
+ garantindo realismo, arte,
+ finesse e água!",,,,,,,,,,,,,,Terras,FFLCH - HISTÓRIA E GEOGRAFIA,"Sala de 
+ audiovisual",,,
+ML_2016_00057,O musical dos sapos foi tamanho fracasso que todos foram para o olho da rua.,,,,,,,,,,,,,,Andrezão,"RUA DO 
+ ANFITEATRO","Base 1 da 
+ Guarda
+ Universitária",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00059,Deu aquele jeitinho brasileiro e humilhou jornalistas globais.,,,,,,,,,,,,,,Andrezão,Fau,secretaria,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00061,"O garçom era tão burro que
+ demorou umas 24h para 
+ entender que eu queria a
+ conta.",,,,,,,,,,,,,,Andrezão,ICB II,"Elevador de
+ carga",,,
+ML_2016_00062,"No alto de sua sabedoria,
+ o Conselho de Elrond soube
+ montar a sociedade ideal.",,,,,,,,,,,,,,Andrezão,"MORRO DA 
+ CORUJA",Praça com bancos,,,
+ML_2016_00063,"Agência do paraíso,
+ aqui, saindo do jogo.",,,,,,,,,,,,,,Terras,CEPE,"Cabine vermelha, 
+ embaixo do Estádio",,,
+ML_2016_00064,"Atualizei meu Windows de x86 pra 
+ x64 e deu esse erro: 
+ S0JYWEc1REZFQlNHS0lETU9WNUF
+ VTEpTR01YREtOUlZHQVlEUUxCQU
+ ZVMkRNTFJYR0k0VEdOSlI=",,,,,,,,,,,,,,Nenê,RUA DO MATÃO,Poste de luz,,,
+ML_2016_00065,"1 - Ande pelo caminho escuro.
+ 2 - Durma com os anjos.
+ 3 - Ligue para o passado para pedir ajuda.
+ 4 - Me toque com o seu amor.
+ 5 - Revele a mim seu verdadeiro nome.",,,,,,,,,,,,,,Andrezão,IO,"Aquário do 
+ ""Nemo"" 
+ dentro do 
+ museu",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00067,"Séculos atrás, ainda estavam presos
+ ao solo, ainda que pudessem ver 
+ uma saída.",,,,,,,,,,,,,,Andrezão,"PRAÇA ALÍPIO
+ CORREIA NETO","Placa 
+ ""Área de Servidão""",,,
+ML_2016_00068,"Aqui sentado enterrando a minha
+ banana de veludo.",,,,,,,,,,,,,,Nenê,ECA - ARTES PLÁSTICAS,Banco,,,
+ML_2016_00069,"Os Cozinheiros Sem Fronteiras 
+ sempre dizem sem querer ;-7",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00071,"Por que não 95, Narciso?",,,,,,,,,,,,,,Nenê,GEO,"Prédio de
+ Geocronologia",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00073,Se pá eles vão de graça.,,,,,,,,,,,,,,Terras,FÍSICA,"Sala CEPA, 
+ prédio Van de
+ Graaf",,,
+ML_2016_00074,"""Cientistas do Oriente Médio desenvolvem
+ tecnologia inovadora para 
+ prevenção de DST's"".",,,,,,,,,,,,,,Andrezão,FONTE,"Placa
+ ""DengueTech""",,,
+ML_2016_00075,Quanto vale essa prova?,,,,,,,,,,,,,,Nenê,FEA,"Ponto de 
+ ônibus",,,
+ML_2016_00076,Nunca entenderei a razão para ele ter passado a vida inteira fingindo ser um merda,,,,,,,,,,,,,,Andrezão,BIO,PSEUDOCOCOS,,,
+ML_2016_00077,"O Andrezão queria tocar forró,
+  mas perdeu seu instrumento.",,,,,,,,,,,,,,Andrezão,PRAÇA DO RELÓGIO,"Memorial 
+ da Ditadura",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00080,Don't ask Jay-z 'bout Gerard Butler and Beyoncé,,,,,,,,,,,,,,Andrezão,IME,secretaria,,,
+ML_2016_00081,"Incerto estava de sua ortografia,
+ mas sua biografia está no bar.",,,,,,,,,,,,,,Nenê,BIO,"Prédio da 
+ administração",,,
+ML_2016_00082,OJXYVXHAGUC,,,,,,,,,,,,,,,,,,,
+ML_2016_00083,"Esse pó tá animal! 
+ Foram pelo menos 
+ mil carreiras até que acabasse.",,,,,,,,,,,,,,Terras,,,,,
+ML_2016_00084,"As próximas Olimpíadas seriam em Paris,
+ mas Eva foi convencida a extraviar a tocha.",,,,,,,,,,,,,,Andrezão,ODONTO,"Portão de
+ entrada 
+ principal",,,
+ML_2016_00085,"Olhou a cinta, mas ele não prestou atenção.
+ Por isso se encontrou.",,,,,,,,,,,,,,Terras,"AVENIDA PROFESSOR
+ ANTÔNIO BARROS DE 
+ ULHÔA CINTRA","Placa no 
+ cruzamento",,,
+ML_2016_00086,"Pode correr, pode pular, pode nadar. 
+ Mas a casa vai cair assim que eu chegar.",,,,,,,,,,,,,,Andrezão,EEFE,Entrada da EEFE,,,
+ML_2016_00087,"Você pra um lado e eu pro outro, 
+ mas te encontro ao meio dia. 
+ Se você chegasse cedo, 
+ às 17h te esperaria.",,,,,,,,,,,,,,Nenê,"PRAÇA DO 
+ RELÓGIO SOLAR","Seguindo a 
+ linha do 
+ ponteiro das
+ 3h",,,
+ML_2016_00088,"Uma cidade com menos pacotes do que 
+ paletes certamente é uma boa idéia.",,,,,,,,,,,,,,Andrezão,"CASA DE CULTURA
+ JAPONESA","Conjunto de 
+ pedras",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00090,FMIVDHAGVDIFNPLBJQH,,,,,,,,,,,,,,,,,,,
+ML_2016_00091,"Esse é, sem dúvidas, 
+ o maior pedaço de pizza
+ que eu já vi na vida.",,,,,,,,,,,,,,Andrezão,BIO,"Parede em 
+ formato de
+ pizza",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00095,O destacamento (menos oito) foi tomar café.,,,,,,,,,,,,,,Terras,FEA,"Estacionamento
+ de motos",,,
+ML_2016_00096,LMKQHYGLFRGOFUWTJXHU,,,,,,,,,,,,,,,,,,,
+ML_2016_00097,"Prepara! Que agora o Poema grego
+ vai te fazer diferença.",,,,,,,,,,,,,,Terras,PSICO,Bloco B,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00099,"O experimento do chapeleiro 
+ descobriu que Alice era muito
+ jovem para entender.",,,,,,,,,,,,,,Nenê,PSICO,Lacri,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00101,"Assista o desenvolvimente da távola
+ redonda. Veja o Rei Arthur morrer.
+ Mesmo depois disso, siga em frente.",,,,,,,,,,,,,,Terras,PSICO,"Porta dos 
+ fundos do 
+ Bloco F",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00103,"Ao andar por aqui, muito cuidado com Robin Hater",,,,,,,,,,,,,,Andrezão,"Sharewater
+ (proximo ao portao da são remo)",,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00105,"Si yo como como como, y tu comes como comes. ¿Cómo comes como como? Si, yo como como como.",,,,,,,,,,,,,,Andrezão,FOFITO,Lanchonete,,,
+ML_2016_00106,LGOWINXHTQGSYARSX,,,,,,,,,,,,,,,,,,,
+ML_2016_00107,"Os Cozinheiros Sem Fronteiras 
+ sempre dizem sem querer '-3",,,,,,,,,,,,,,,,,,,
+ML_2016_00108,Do all jewish boys dream about holding hands?,,,,,,,,,,,,,,Andrezão,EEFE,secretaria,,,
+ML_2016_00109,"Não ter visto o filme com o áudio original 
+ é uma desculpa tão esfarrapada
+ para não gostar do Hobbit...",,,,,,,,,,,,,,Andrezão,FAU,"Casinha dentro
+ da olaria",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00111,"Os filhos de Chaplin nunca 
+ imaginaram um zoológico assim.",,,,,,,,,,,,,,Andrezão,EDUCAÇÃO,"Parede de 
+ azulejos",,,
+ML_2016_00112,"Ela ficou sem palavras em meio à última
+ obra daquele que nos trouxe um dia 
+ a Independência.
+ Pelo menos não era a única ali a 
+ se interessar pelo assunto.",,,,,,,,,,,,,,Andrezão,GEO,"Planta / 
+ mudinha 
+ envolta por
+ pedras",,,
+ML_2016_00113,"Caso algum politécnico estúpido delatar,
+ você sabe onde nos encontrar.",,,,,,,,,,,,,,Andrezão,ODONTO,"Placa no 
+ estacionamento",,,
+ML_2016_00114,"Sansão foi pra Bahia para ver se 
+ sua amada ainda lembrava dele.",,,,,,,,,,,,,,Nenê,SAUSP,"Próximo à
+ entrada",,,
+ML_2016_00115,Dois amigos juntaram bastante grana fazendo altas baladas.,,,,,,,,,,,,,,Andrezão,IO,secretaria,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00117,"Estréia da semana:
+ Saci, o bom gaúcho.",,,,,,,,,,,,,,Andrezão,"SOCIEDADE 
+ BRASILEIRA DE
+ GEOLOGIA","Parede com 
+ saci",,,
+ML_2016_00118,"A principal estava fechada. 
+ Através de outra entrada, 
+ Francisco e os irmãos 
+ procuram quem têm em comum.",,,,,,,,,,,,,,Terras,CENTRO DE VISITANTES,"Hidrante 
+ ""Barbará""",,,
+ML_2016_00119,"Nem grande, nem pequena, 
+ mas gosto de estudar.",,,,,,,,,,,,,,Nenê,FFLCH - HISTÓRIA E GEOGRAFIA,LEME,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00121,"Imagine um som animal.
+ Você consegue?
+ Pense mais!",,,,,,,,,,,,,,Andrezão,EDUCAÇÃO,"Placa de 
+ madeira
+ ""Brincando e 
+ aprendendo""",,,
+ML_2016_00122,"P.F. viu mais salsichas que qualquer um
+ antes de entrar numa fria.",,,,,,,,,,,,,,Andrezão,FÍSICA,"Laboratório de
+ criogenia",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00124,"Resolveu ser CO e quer que todos
+ aproveitem?
+ Não inventa, vai logo lá!",,,,,,,,,,,,,,Andrezão,LAGO,"Kinder ovo
+ no lago",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00126,O inverso.,,,,,,,,,,,,,,Terras,IME,"Cano no meio do 
+ jardim",,,
+ML_2016_00127,"É em episódios como esse que vemos
+ que a escravidão ainda está
+ presente em Hollywood.",,,,,,,,,,,,,,Terras,ECA - ARTE DRAMÁTICA,Gargalheira,,,
+ML_2016_00128,"Passa a ceda, Al?",,,,,,,,,,,,,,Terras,FFLCH - HISTÓRIA E GEOGRAFIA,CEDHAL,,,
+ML_2016_00129,"Seja um bom João e
+ senta lá para tocar.",,,,,,,,,,,,,,Nenê,PORTÃO DA CPTM,"Árvore 
+ próxima ao 
+ portão",,,
+ML_2016_00130,"Enquanto o inverno não chega,
+ Myrcella e Trystane se casam
+ nas ruínas de Winterfell.",,,,,,,,,,,,,,Andrezão,ODONTO,"Pintura leão 
+ na parede do 
+ corredor do CA",,,
+ML_2016_00131,Eis a lendária aranha de n patas.,,,,,,,,,,,,,,Terras,ECA - PRAINHA,Canil novo,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00135,"Cavalo dado, ouvido inflamado.",,,,,,,,,,,,,,Andrezão,ODONTO,"Orelhão 
+ roxo",,,
+ML_2016_00136,"Não tenho carro, não tenho teto...
+ Sou pobre.",,,,,,,,,,,,,,Terras,PSICO,"Ponto de 
+ ônibus",,,
+ML_2016_00137,192.168.0.0/1.6,,,,,,,,,,,,,,Terras,PSICO,"Placa dos 
+ blocos 1 a 6",,,
+ML_2016_00138,"Os titãs não fazem mais o mesmo sucesso de
+ antigamente, mas não importa quanto
+ tempo passe, ele sempre estará em nossos
+ pensamentos.",,,,,,,,,,,,,,Andrezão,PSICO,"Laboratório
+ Chronos",,,
+ML_2016_00139,"66.2.666 33.777.2 22.666.6 666 22.2.7777.8.2.66.8.33 7.2.777.2 7.777.666.3.88.222.2.666, 222.44.666.777.33.444 222.666.6.33.66.3.666 7777.2.555.4.2.3.444.66.44.666",,,,,,,,,,,,,,Carol,FEA,Baconzitos,,,
+ML_2016_00140,"Quando as aparições dos fantasmas 
+ pela cidade se iniciarem, 
+ quem você vai chamar?",,,,,,,,,,,,,,,,,,,
+ML_2016_00141,"Os Cozinheiros Sem Fronteiras 
+ sempre dizem sem querer ?35348!-48-",,,,,,,,,,,,,,,,,,,
+ML_2016_00142,"Sempre que eu como filé ao ponto, 
+ só Luftal consegue resolver.'",,,,,,,,,,,,,,Andrezão,P-LINHA,Totem da Congás atrás do ponto de onibus do Plinha,,,
+ML_2016_00143,"Os Cozinheiros Sem Fronteiras 
+ sempre dizem sem querer !89""9(8-",,,,,,,,,,,,,,,,,,,
+ML_2016_00144,"Os arquivos do estado estão seguros 
+ aqui, senhor. Só precisamos garantir 
+ que os maconheiros fiquem quietos.",,,,,,,,,,,,,,,,,,,
+ML_2016_00145,NUSP,,,,,,,,,,,,,,Terras,CENTRO DE VISITANTES,Telefone,,,
+ML_2016_00146,"Quando as aparições dos fantasmas 
+ pela cidade se iniciarem, 
+ quem você vai chamar?",,,,,,,,,,,,,,,,,,,
+ML_2016_00147,A vida no vilarejo nunca mais foi a mesma depois que abandonaram o castelo,,,,,,,,,,,,,,Andrezão,BIO,Rainha das saladas,,,
+ML_2016_00148,"Padrões hecagonais me incomodam.
+ Por isso destruí esse aqui.",,,,,,,,,,,,,,Terras,ECA - PRAINHA,"Banco 
+ destruído",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00151,There's nothing like a nice haircut to put a smile on her face.,,,,,,,,,,,,,,Andrezão,ODONTO,NICE CABELEREIRA,,,
+ML_2016_00152,Quem compra bosta falsa no eBay?,,,,,,,,,,,,,,Andrezão,BIO,"Árvore
+ pseudococos",,,
+ML_2016_00153,Aqui não existem raízes preparadas.,,,,,,,,,,,,,,Terras,RAINHA DA TAPIOCA,"Placa de
+ proibido 
+ estacionar",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00155,"Pirata brasileiro não toma rum, toma cachaça.
+ É absolutamente natural.",,,,,,,,,,,,,,Andrezão,IO,Barco,,,
+ML_2016_00156,SáBaDos mentem.,,,,,,,,,,,,,,Terras,PSICO,"Placa 
+ escrita
+ ""SáBaDos""",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00158,"Duas amigas, já bêbadas, dançaram forró bem humoradas.",,,,,,,,,,,,,,Andrezão,EDUCAÇÃO,SECRETARIA,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00160,"Essa galera que faz FEA adora fazer 
+ bullying com lixos como eu.
+ Me proteja, Polo...",,,,,,,,,,,,,,Terras,FAU,"Lixo no 
+ meio dos 
+ bancos",,,
+ML_2016_00161,"O caminho da Rainha levou 
+ Alice para Nárnia.",,,,,,,,,,,,,,Nenê,TRAVESSA 12,"Armário
+ abandonado",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00163,"Nos divisit castrvm in qvattor aeqvalis portio 
+ sine sciens est qvod vitnam nostrvm salvtem. 
+ A chance de todos se salvarem era a mesma 
+ de um raio cair na cabeça de alguém.",,,,,,,,,,,,,,,,,,,
+ML_2016_00164,"Silêncio, anuro em um grande detrito.",,,,,,,,,,,,,,Nenê,FFLCH - LETRAS,Lixo,,,
+ML_2016_00165,"O irmão de João Duas-Caras despertava 
+ e tomava seu desjejum.",,,,,,,,,,,,,,Nenê,FFLCH - HISTÓRIA E GEOGRAFIA,"Mesa de 
+ comida, 
+ próximo à 
+ Atlética",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00167,"Quando a casa do Bob Esponja
+ passou a ser produzida em massa?",,,,,,,,,,,,,,Andrezão,FAU,"Planta em 
+ formato
+ de ""abacaxi""",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00172,"Comigo morrem uns! 
+ Por isso sou diferenciado deles.",,,,,,,,,,,,,,Terras,ECA - MÚSICA,Placa de direções,,,
+ML_2016_00173,"Poliana iluminava a vida de todos à sua volta. 
+ Onde ela estará, agora que já partiu?",,,,,,,,,,,,,,Andrezão,BARRACÕES,"Cemitério de
+ lâmpada",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00176,"É permitido sempre isso,
+ com a opção de tomar choque.",,,,,,,,,,,,,,Terras,PSICO,"Placa de 
+ carga e descarga",,,
+ML_2016_00177,O Rei I'baka'ti é um imigrante ilegal.,,,,,,,,,,,,,,Nenê,IRI,"Abacaxi 
+ pendurado 
+ numa árvore",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00180,"O maior paulista em 2009
+ era um homem crente.",,,,,,,,,,,,,,Nenê,EDUCAÇÃO,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00182,Aqui mede-se rola!,,,,,,,,,,,,,,Andrezão,ECA - PRAINHA,"Do lado da
+ aranha",,,
+ML_2016_00183,"Alguns crustáceos demoram 
+ metade de suas vidas para 
+ entender o que é uma 
+ linha do tempo.",,,,,,,,,,,,,,Andrezão,GEO,"Placa SHRIMP 
+ na Geocronologia",,,
+ML_2016_00184,Aqui a Glofo não tem vez!,,,,,,,,,,,,,,Terras,FÍSICA,"Sociedade
+ Brasileira de 
+ Física",,,
+ML_2016_00185,,,,,,,,,,,,,,,Andrezão,FÍSICA,"Totem do 
+ Ed. Basílio Jafet",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00190,Basta olhar lá tudo.,,,,,,,,,,,,,,Nenê,CEPE,"Pista de 
+ atletismo",,,
+ML_2016_00191,Ntrogêno,,,,,,,,,,,,,,Terras,SEMI-INDUSTRIAL,"Tanque de 
+ nitrogênio",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00193,"Te vi doce, mas quando 
+ você o viu, virou e ouviu.",,,,,,,,,,,,,,Terras,TRAVESSA 12,Orelhão,,,
+ML_2016_00194,"Quando as aparições dos fantasmas 
+ pela cidade se iniciarem, 
+ quem você vai chamar?",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00197,"Lucas tinha 10 maçãs.
+ Comeu 3. Quantas ficaram?
+ (1 ponto)",,,,,,,,,,,,,,Nenê,EEFE,"Ponto de 
+ ônibus",,,
+ML_2016_00198,"Se eu pedir, sim oeste!
+ Paula, pega aquele lanche!",,,,,,,,,,,,,,Terras,FFLCH - HISTÓRIA E GEOGRAFIA,Lanchonete,,,
+ML_2016_00199,"Os alunos da Escola Politécnica
+ da Universidade de Atlantis
+ não podem mais fazer cervejada.",,,,,,,,,,,,,,Andrezão,IPEN,Sharewater,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00202,"Atualizei meu Windows de x86 pra 
+ x64 e deu esse erro:
+ S0JYWEc1REZFQlNHS0lETU9WNUF
+ VTEpTR01YREtOUllHRTNEQUxCQU
+ ZVMkRNTFJYR00yRE9NSlc=",,,,,,,,,,,,,,Nenê,,,,,
+ML_2016_00203,"Knock knock knock
+ - Who's there?
+ Knock knock knock
+ - Who's there?
+ -Knock knock knock
+ - Who's there?
+ - Me.
+ -Me who?
+ -Me ow!",,,,,,,,,,,,,,Andrezão,CEPE,"pista de cooper
+ marcação de 1000m",,,
+ML_2016_00204,"Incerto estava de sua ortografia,
+ mas sua biografia está no bar.",,,,,,,,,,,,,,Nenê,BIO,"Prédio da 
+ administração",,,
+ML_2016_00205,"Durante aquele jogo, Bial emocionado disse: Haja coração!!",,,,,,,,,,,,,,Andrezão,ECA,secretaria,,,
+ML_2016_00206,Essa coroa ama sorrir.,,,,,,,,,,,,,,Terras,ECA - PRAINHA,"Placa 
+ ""sorridente"" e
+ velha",,,
+ML_2016_00207,"Esses emigrantes, nem pra nos ouvir.
+ Tório é perigoso!",,,,,,,,,,,,,,Terras,FÍSICA,"Auditório 
+ Abrahão de Moraes",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00209,"É fundamental ter fé que não
+ vamos nos machucar.
+ Madeeeeeiraaaaaa!",,,,,,,,,,,,,,Andrezão,EDUCAÇÃO,Árvore caída,,,
+ML_2016_00210,"Ai que nojo,
+ um inseto²!",,,,,,,,,,,,,,Terras,ECA - RADIO E TV,"Prédio da 
+ antena 
+ parabólica",,,
+ML_2016_00211,,,,,,,,,,,,,,,Nenê,BIO,Apiário,,,
+ML_2016_00212,"Quando as aparições dos fantasmas 
+ pela cidade se iniciarem, 
+ quem você vai chamar?",,,,,,,,,,,,,,,,,,,
+ML_2016_00213,"Quando as aparições dos fantasmas 
+ pela cidade se iniciarem, 
+ quem você vai chamar?",,,,,,,,,,,,,,,,,,,
+ML_2016_00214,33.88 4.2.4.88.33.5.2.888.2 33 7.666.777 444.7777.7777.666 6.33 2.22.2.66.3.666.66.2.777.2.6,,,,,,,,,,,,,,Andrezão,FOFITO,caminhonete abandonada,,,
+ML_2016_00215,"Anuncie na USP agora mesmo!
+ Ligue já e fale conosco.",,,,,,,,,,,,,,Terras,ADUSP,Chão Interfone,,,
+ML_2016_00216,"O grupo das sagradas fofoqueiras
+ vivia rodeado por abelhas raivosas.",,,,,,,,,,,,,,Andrezão,FÍSICA,"Grupo 
+ SAMPA",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00218,"Num passado não tão distante, 
+ o futuro mudou de casa.
+ 23 dias depois, ele não podia esperar para
+ fritar e beber até entortar em uma festa
+ inesperada.",,,,,,,,,,,,,,Andrezão,"PRAÇA DO 
+ RELÓGIO SOLAR","Busto de 
+ Júlio de Mesquita
+ Filho",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00221,"A garota, com seus hormônios no limite,
+ suspirou ao deixar a vida de miséria da
+ Igreja.",,,,,,,,,,,,,,Andrezão,"CASA DE CULTURA
+ JAPONESA","Botão de 
+ semáforo de 
+ pedestres",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00223,"Amo tourada! 
+ Pena que não tem há 14 anos...",,,,,,,,,,,,,,Terras,RUA DO MATÃO,"Guarita da 
+ Travessa 14",,,
+ML_2016_00224,A Dinamarca é pequena demais pro seu espírito.,,,,,,,,,,,,,,Nenê,IAG,"Dentro de 
+ uma casca 
+ de noz",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00227,"Da terra, zero levamos.
+ Qual é o objetivo disso tudo?",,,,,,,,,,,,,,Nenê,"CASA DE CULTURA
+ JAPONESA","Ponto de
+ ônibus",,,
+ML_2016_00228,"De todos os candidatos avaliados, 
+ ele é o único que conseguiu ir bem e 
+ se comunicar com pessoas de 
+ todos os signos.",,,,,,,,,,,,,,Andrezão,BIO,Parede do CA,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00230,"Vá com calma, um pé de cada vez!
+ Mas se estiver com pressa, 
+ procure uma alternativa.",,,,,,,,,,,,,,Andrezão,"PAÇO DAS
+ ARTES","Elevador 
+ externo",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00232,"Desencana!
+ Já te contei que os vizinhos não
+ vão brincar de Indiana Jones aqui.",,,,,,,,,,,,,,Andrezão,FAU,"Placa de 
+ gás encanado",,,
+ML_2016_00233,"Se eu pedir, sim oeste!
+ Paula, pega aquele lanche!",,,,,,,,,,,,,,Terras,FFLCH - HISTÓRIA E GEOGRAFIA,Lanchonete,,,
+ML_2016_00234,"cos(cos(sin(ln(0,255,0))))",,,,,,,,,,,,,,Terras,IME,"Placa 
+ verde do 
+ CCSL",,,
+ML_2016_00235,"Os Cozinheiros Sem Fronteiras 
+ sempre dizem sem querer 8,! E",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00237,"Atualizei meu Windows de x86 pra 
+ x64 e deu esse erro: 
+ S0JYWEc1REZFQlNHS0lETU9WNUF
+ VTEpTR01YREtOUlhHQTRUS0xCQU
+ ZVMkRNTFJYR00zVE9NQlg=",,,,,,,,,,,,,,Nenê,ODONTO,"Semáforo
+ -23,567095
+ -46,737707",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00239,"Em 50 meses, tudo estará bem.
+ A menos que um certo barão decida
+ que não existe essa possibilidade...",,,,,,,,,,,,,,Terras,FEA,"Placa de 
+ proibido 
+ estacionar",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00242,OCANVMIURHTZBSTY,,,,,,,,,,,,,,,,,,,
+ML_2016_00243,"A filha do Léo tem uma vizinha que
+ não sabe o que é derrota.",,,,,,,,,,,,,,Andrezão,HU,"Estátua
+ anjo",,,
+ML_2016_00244,"Me ensinaram que no deserto 
+ o sol é de rachar, mas 
+ isso aqui é sacanagem...",,,,,,,,,,,,,,Andrezão,EDUCAÇÃO,"Banco 
+ com desenho
+ de cacto",,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00246,"Ainda meia-noite e quarenta e dois e estou
+ incerto do que fazer primeiro.",,,,,,,,,,,,,,Nenê,RAINHA DA TAPIOCA,"Trailer
+ próximo",,,
+ML_2016_00247,"O homem brinca, mas também lê.",,,,,,,,,,,,,,Nenê,"FFLCH - FLORESTAN
+ FERNANDES","Livro 
+ ""Homo Ludens""",,,
+ML_2016_00248,"Atualizei meu Windows de x86 pra 
+ x64 e deu esse erro: 
+ S0JYWEc1REZFQlNHS0lETU9WNUF
+ VTEpTR01YREtOUlFIQVlEQUxCQUZ
+ VMkRNTFJYR01ZREtPSlg=",,,,,,,,,,,,,,,FAU,Poste de luz,,,
+ML_2016_00249,"Atualizei meu Windows de x86 pra 
+ x64 e deu esse erro:
+ S0JYWEc1REZFQlNHS0lETU9WNUF
+ VTEpTR01YREtOUlVHVVlEUUxCQU
+ ZVMkRNTFJYR000VFFOUlM=",,,,,,,,,,,,,,Nenê,HU,,,,
+ML_2016_00250,"Até doze eu conto, 
+ quando no horizonte desponto.",,,,,,,,,,,,,,Nenê,IAG,"Ponto de 
+ ônibus",,,
+ML_2016_00251,"O símbolo islâmico trocou
+ 5 pontas por infinitas, 3 vezes.",,,,,,,,,,,,,,Terras,ECA - BIBLIOTECA,"Monumento 
+ ""Missão""",,,
+ML_2016_00252,Não aprendi ortografia e pontuação.,,,,,,,,,,,,,,Nenê,ACADEPOL,"Ponto de 
+ ônibus",,,
+ML_2016_00253,"Esse Caça só acaba em junho.
+ A solução pro nosso povo 
+ é fazer uma festa.",,,,,,,,,,,,,,Nenê,RAIA,"Faixa de 
+ ""Aluga-se""",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00257,"Guilherme, o Selvagem, gostava de uma
+ certa temperatura.",,,,,,,,,,,,,,Nenê,"CASA DAS 
+ CALDEIRAS",Escadinha,,,
+ML_2016_00258,"Se João e Maria fossem pandas, 
+ as migalhas de pão seriam vegetais
+ e a casa da bruxa seria aqui!",,,,,,,,,,,,,,Andrezão,FAU,"Casa de bambu
+ na olaria",,,
+ML_2016_00259,"Quando as aparições dos fantasmas 
+ pela cidade se iniciarem, 
+ quem você vai chamar?",,,,,,,,,,,,,,,,,,,
+ML_2016_00260,"Atualizei meu Windows de x86 pra 
+ x64 e deu esse erro: 
+ S0JYWEc1REZFQlNHS0lETU9WNUF
+ VTEpTR01YREtOSldHTTRER0xCQUZ
+ VMkRNTFJYR0lZVEtPSlM=",,,,,,,,,,,,,,Nenê,RAIA,"Poste 
+ de luz",,,
+ML_2016_00261,"Esse espelho dos infernos 
+ precisa somente acabar...",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00264,"A filha do Léo tem uma vizinha que
+ não sabe o que é derrota.",,,,,,,,,,,,,,Andrezão,HU,"Estátua
+ anjo",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2016_00284,"Na batalha do planalto, 730 guerreiros 
+ foram dominados por La Furia.",,,,,,,,,,,,,,Massa,POLI - BIÊNIO,"Em cima dos 
+ anfiteatros",,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00008,"Muitas vezes procuramos sentido no que não tem sentido. Outras, a busca é prescindível. Mas em todos os casos, uma certeza: carregarei a resposta para sempre.",,,,,,,,,,,,,,Duas,-,-,A resposta da pista está dentro dela. O CA deve abrir a pista e ler a parte de dentro dela.,"||Pista: Muitas vezes procuramos sentido no que não tem sentido. Outras, a busca é prescindível. Mas em todos os casos, uma certeza: carregarei a resposta para sempre. | Explicação: A resposta da pista está dentro dela. O CA deve abrir a pista e ler a parte de dentro dela. | Macro: - | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00010,Um passeio pela mata estimula a mente,,,,,,,,,,,,,,Mari,FFLCH,Biblioteca Florestan Fernandes,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00020,,,,,,,,,,,,,,,Fernando,,,,,
+ML_2015_00021,Quadriculado,,,,,,,,,,,,,,Staibano,,,,,
+ML_2015_00022,"Nem tudo é o que se parece. O mesmo calor que cria é o que destrói, só depende de suas intenções",,,,,,,,,,,,,,Staibano,-,-,Tem que esquentar a pista pra aparecer o local.,"||Pista: Nem tudo é o que se parece. O mesmo calor que cria é o que destrói, só depende de suas intenções | Explicação: Tem que esquentar a pista pra aparecer o local. | Macro: - | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00027,,,,,,,,,,,,,,,Duas,PRAÇA DO RELÓGIO,Monumento aos perseguidos na ditadura,"As coordenadas levam a um cemitério na cidade de Worms. ""Minhoca"" era o apelido de Alexandre Vannucchi, que foi perseguido na ditadura e hoje é o símbolo do DCE. No momunmento na praça do relógio tem seu nome escrito.","||Pista:  | Explicação: As coordenadas levam a um cemitério na cidade de Worms. ""Minhoca"" era o apelido de Alexandre Vannucchi, que foi perseguido na ditadura e hoje é o símbolo do DCE. No momunmento na praça do relógio tem seu nome escrito. | Macro: PRAÇA DO RELÓGIO | Micro: Monumento aos perseguidos na ditadura",
+ML_2015_00028,,,,,,,,,,,,,,,Mari,,,,,
+ML_2015_00029,Crescendo em círculo a agricultura ecoa!,,,,,,,,,,,,,,Mari,BIO,"Placas ""Crescimento mandala""",,,
+ML_2015_00030,"Ouro, espada, copa e paus. Sempre tem um baralho na casa da abelha, e é no cômodo onde elas jogam Black Jack.",,,,,,,,,,,,,,Fernando,CENTRAL,Colméia Favo 21 - NAIPPE,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00034,,,,,,,,,,,,,,,Duas,,,,,
+ML_2015_00035,Sobe bem essa árvore! The beginning is not often that important!,,,,,,,,,,,,,,Straat,,,,,
+ML_2015_00036,"A verdade só será ouvida quando seu centro se alinhar à 1a. Você deve, então, ir no espaço abaixo do inicial, no inicial e no terceiro espaço vazio acima dele.",,,,,,,,,,,,,,Straat,-,-,Pentagrama musical formando letras,"||Pista: A verdade só será ouvida quando seu centro se alinhar à 1a. Você deve, então, ir no espaço abaixo do inicial, no inicial e no terceiro espaço vazio acima dele. | Explicação: Pentagrama musical formando letras | Macro: - | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00042,,,,,,,,,,,,,,,Duas,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00047,"Dizem que as irmãs do Nicolaus ao avesso brilham muito, mas o importante é o seu dono e as diversas dresinas.",,,,,,,,,,,,,,Staibano,IO,?,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00049,Aqui abaixo de 5 já trava.,,,,,,,,,,,,,,Straat,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00061,,,,,,,,,,,,,,,Duas,,,,,
+ML_2015_00062,"Tem gente que acha que ela surfa, outras que é só uma bola comum, independentemente, ela consegue deixar tudo claramente mais seguro sem custos extras. Deve estar no terceiro, só cuidado com os guardas trombudos.",,,,,,,,,,,,,,Staibano,,,,,
+ML_2015_00063,"A alemanha juntou os hemisférios tornando-os inseparáveis e pressionou esse cargo por 35 anos, segurado pelo departamento de transportes americano.",,,,,,,,,,,,,,Straat,,,,,
+ML_2015_00064,"Pensa no caipira falando: “Só o álcool é capaz de resolver esse problema. Você tenta uma vez entre o P1 e o P2. Você tenta outra entre o P2 e P3.""",,,,,,,,,,,,,,Fernando,-,-,"Mineiro falando ""álcool capaz"" é ""arco capaz"". O esquema é fazer um arco capaz entre o P1 e o P2, e entre o P2 e o P3, em um mapa a ser entregue","||Pista: Pensa no caipira falando: “Só o álcool é capaz de resolver esse problema. Você tenta uma vez entre o P1 e o P2. Você tenta outra entre o P2 e P3."" | Explicação: Mineiro falando ""álcool capaz"" é ""arco capaz"". O esquema é fazer um arco capaz entre o P1 e o P2, e entre o P2 e o P3, em um mapa a ser entregue | Macro: - | Micro: -",
+ML_2015_00065,imagem,,,,,,,,,,,,,,Staibano,CASA DE CULTURA JAPONESA,Monumento em frente,,,
+ML_2015_00066,mapa de caracteres,,,,,,,,,,,,,,Mari,ECA,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00070,"034O44.354
+  07O02.464 + Revolução",,,,,,,,,,,,,,Duas,RUA ALVARENGA,,,,
+ML_2015_00071,"O interior da canela provoca uma profunda sensação de prazer na lingua.
+ J-T =|-JT| ^=^B LO ""-L^ ""^ 
+ WOLOW OT -WW OT L^C
+ (CW CW 8^LT""",,,,,,,,,,,,,,Straat,-,-,"Canela -> Tibia, esse é um idioma utilizado por uma tribo do jogo (Deeplings)","||Pista: O interior da canela provoca uma profunda sensação de prazer na lingua.
+ J-T =|-JT| ^=^B LO ""-L^ ""^ 
+ WOLOW OT -WW OT L^C
+ (CW CW 8^LT"" | Explicação: Canela -> Tibia, esse é um idioma utilizado por uma tribo do jogo (Deeplings) | Macro: - | Micro: -",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00077,"Os primeiros civis japoneses podem ter muito orgulho de serem os primeiros, mas os dois gn disseram algo diferente quando chegou ao sete. Alguém nesse país deve ser capaz de dizer a verdade.",,,,,,,,,,,,,,Staibano,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00082,,,,,,,,,,,,,,,Mari,,,,,
+ML_2015_00083,"Morto em 2011, um dos cérebros que guarda o cálculo dos dentistas",,,,,,,,,,,,,,Staibano,,,,,
+ML_2015_00084,Deus está conosco acompanhou o CMR de .40,,,,,,,,,,,,,,Straat,,,,,
+ML_2015_00085,Sempre quis um autógrafo da Dilma,,,,,,,,,,,,,,Henrique,-,-,CA deve trazer um autógrafo de seu presidente à CO.,||Pista: Sempre quis um autógrafo da Dilma | Explicação: CA deve trazer um autógrafo de seu presidente à CO. | Macro: - | Micro: -,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00090,Antes de encontrar com Jorge eu achei um tesouro acima do esperado,,,,,,,,,,,,,,Mari,ROTATÓRIA JORGE AMERICANO,Tesouro na árvore,,,
+ML_2015_00091,"educassão, caroçu, palhasso, laço, cangussu, asso, bagaçu",,,,,,,,,,,,,,Staibano,,,,,
+ML_2015_00092,Os caras foram criados dois dias antes de acabar a oitava casa protetora do Grêmio Politécnico.,,,,,,,,,,,,,,Henrique,-,-,"Oitava casa protetora do Grêmio Politécnico = Escorpião (de Cavaleiros do Zodíaco). Dois dias antes de acabar escorpião > 19 de novembro > Dia da Bandeira. Juntando tudo, ""Os Caras"" de Pedro Bandeira","||Pista: Os caras foram criados dois dias antes de acabar a oitava casa protetora do Grêmio Politécnico. | Explicação: Oitava casa protetora do Grêmio Politécnico = Escorpião (de Cavaleiros do Zodíaco). Dois dias antes de acabar escorpião > 19 de novembro > Dia da Bandeira. Juntando tudo, ""Os Caras"" de Pedro Bandeira | Macro: - | Micro: -",
+ML_2015_00093,Preecha Tiewtranon tocava seus cellos junto ao mar.,,,,,,,,,,,,,,Duas,HU,-,-,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00095,"Alm. saiu de sua casa, foi para a India e viu Lima carregando um kilo do verde.",,,,,,,,,,,,,,Mari,IPEN,Orelhão,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00097,As minas piram se você tentar comer algo antes de salgar.,,,,,,,,,,,,,,Straat,PMI,,,,
+ML_2015_00098,"Esta é a Poção da Sabedoria, somente aqueles puros de coração e destinados a grandes coisas devem toma-lá e assim em outros sentidos serem iluminados com minha resposta.",,,,,,,,,,,,,,Staibano,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00101,"Marjorie ficava indignada com a desigualdade de gênero. ""Sua cachorra!""",,,,,,,,,,,,,,Straat,IAG,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00108,"Roger tinha uma dívida, foi pagando em março, maio e junho... mas nesse ritmo ainda ia ter que pagar cinco vezes de seis oitavos da parcela, que azar.",,,,,,,,,,,,,,Duas,,,-,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00112,"De acordo com meus cálculos, vai faltar água pro povo de Nilópolis esse ano.",,,,,,,,,,,,,,Duas,IME,Bebedouro de beija-flor,-,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00120,,,,,,,,,,,,,,,Fernando,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00124,,,,,,,,,,,,,,,Duas,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00132,,,,,,,,,,,,,,,Duas,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00142,Dumbo precisou de acompanhamento por conta de seu problema.,,,,,,,,,,,,,,Fernando,PSICO,Orelhão,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00152,Ultraq sabe que a espanha não gosta de ânus. Ele vive no mar,,,,,,,,,,,,,,Henrique,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00158,,,,,,,,,,,,,,,Bracco,PRAÇA DO RELÓGIO,Relógio,"A imagem é um ambigrama de ""Fantasy"" e ""Reality"". A Torre do Relógio é conhecida por ser a ""união entre os mundos da fantasia e da realidade"", como diz a descrição no site da USP.","||Pista:  | Explicação: A imagem é um ambigrama de ""Fantasy"" e ""Reality"". A Torre do Relógio é conhecida por ser a ""união entre os mundos da fantasia e da realidade"", como diz a descrição no site da USP. | Macro: PRAÇA DO RELÓGIO | Micro: Relógio",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00161,,,,,,,,,,,,,,,Bracco,FARMA,Ponto de ônibus,"Na pista, cada pico menor equivale a um ponto e cada pico maior a um traço no código morse. A tradução leva para ""PONTO FARMA""","||Pista:  | Explicação: Na pista, cada pico menor equivale a um ponto e cada pico maior a um traço no código morse. A tradução leva para ""PONTO FARMA"" | Macro: FARMA | Micro: Ponto de ônibus",
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00180,"Na rua faço minha vida, mesmo sem ter sal",,,,,,,,,,,,,,Henrique,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00184,Quanto mais pala menos pala,,,,,,,,,,,,,,Henrique,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00186,A sorte está lançada. A sorte está lançada. A sorte está lançada. edfrq,,,,,,,,,,,,,,Henrique,,,A sorte está lançada -> César. Cifra de César é o código para encriptação,||Pista: A sorte está lançada. A sorte está lançada. A sorte está lançada. edfrq | Explicação: A sorte está lançada -> César. Cifra de César é o código para encriptação | Macro:  | Micro: ,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2015_00189,Arquivo(imagem 3 economistas),,,,,,,,,,,,,,Henrique,,,Laissez faire -> Livre Mercado -> Mercado Livre,||Pista: Arquivo(imagem 3 economistas) | Explicação: Laissez faire -> Livre Mercado -> Mercado Livre | Macro:  | Micro: ,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+ML_2014_00018,"Sentado sobre o topo do morro, vendo o tempo passar... Só podia estar um pouco mais confortável, né?",,,,,,,,,,,,,,,pedra de concreto na praça do relógio,,,,
+ML_2014_00019,Muito sEm Graça ter vândalos espionAndo o Vestiário das meninAs atrás de aLgo.,,,,,,,,,,,,,,,corredor da efee,,,,
+ML_2014_00020,Mr. Freeze tem um jornal?,,,,,,,,,,,,,,,monumento Julio de Mesquita filho,,,,
+ML_2014_00021,"Galvão, ela permite sim. Vamos ao laboratório provar!",,,,,,,,,,,,,,,quadra de futebol na física,,,,
+ML_2014_00022,Parada obrigatória para o namorado de Arlene.,,,,,,,,,,,,,,,massas da bio,,,,
+ML_2014_00023,"Não são pedras, são aerólitos! #sqn",,,,,,,,,,,,,,,meteoro da geo,,,,
+ML_2014_00024,"Enquanto o filho mais velho de Sevilla comemorava seu centenário, uma tragédia ocorria no seu antigo endereço.",,,,,,,,,,,,,,,Rádio USP nova,Placa,,,
+ML_2014_00025,O pudim do lago Goldajärvi é logo ali.,,,,,,,,,,,,,,,ponto mais ao norte do sweeden,,,,
+ML_2014_00026,QUO2QUP1,,,,,,,,,,,,,,,Lampada atras do navio do IO,,,,
+ML_2014_00027,Chocadeira S/A,,,,,,,,,,,,,,,CIETEC,Placa,,,
+ML_2014_00028,Rumo ao futuro! Mas no final só conseguiu manobrar aqui...,,,,,,,,,,,,,,,Vaga do cardoso na adm,,,,
+ML_2014_00029,Ace ventura vai te ajudar a entender a dor,,,,,,,,,,,,,,,"Rua atrás da veterinária, na porta do canil (entender a dor = patologia)",,,,
+ML_2014_00030,"Carlos se espantou ao ver suas tripas e, caído ao chão, rastejou-se até sair de casa.",,,,,,,,,,,,,,,Portão do Butantã perto da Farma,Placa,,,
+ML_2014_00031,"É a lei da Selva: não vou deixar esquecerem o que você escreveu, doutor.",,,,,,,,,,,,,,,Tese do FHC na biblioteca da FFLCH,,,,
+ML_2014_00032,Por tão pouco não consegui ver cobre transformando-se em ouro.,,,,,,,,,,,,,,,Transformadores do lado do IEE,,,,
+ML_2014_00033,O antepenúltimo buraco fica na travessa do albatroz.,,,,,,,,,,,,,,,Portão golf 16 fica na travessa 3 (entrada estacionas biênio),Placa,,,
+ML_2014_00034,Dói ver um dos frutos da clássica luta dos engenhosos filhos da Deusa Virgem abandonado.,,,,,,,,,,,,,,,Posto Universitários,Placa,,,
+ML_2014_00035,Dá um jeitinho que você entende. )[)|[,,,,,,,,,,,,,,,ieb | [[))),,,,
+ML_2014_00036,Quando o cacique emergiu da terra os bugres disseram: vida longa ao grande Pé Peludo!,,,,,,,,,,,,,,,Passagem da bio,,,,
+ML_2014_00037,"Apesar de se completarem, dramaticamente, esses dois nunca se tocarão.",,,,,,,,,,,,,,,Escultura na porta da ECA,,,,
+ML_2014_00038,No caminito uspiano o politécnico sabe onde deixar seu camelo.,,,,,,,,,,,,,,,Bicicletário do CRUSP mais novo,,,,
+ML_2014_00039,Seu celular sempre funciona no Itaim,,,,,,,,,,,,,,,Torre de celular próxima ao CEPAM,,,,
+ML_2014_00040,"O sol me dá tanta energia que tento aproveitar ao máximo. Pena que, com isso, tenha quem fique destroncado ali do lado.",,,,,,,,,,,,,,,Árvores cortadas do lado dos painéis solares do IEE,,,,
+ML_2014_00041,O dono do Beagle desafiou o oceano profundo em um duelo de honra.,,,,,,,,,,,,,,,Mesa de xadrez na bio,,,,
+ML_2014_00042,"Nas masmorras realizava seu experimento, até as rodas tirarem sua vida. Pelo menos o culpado foi preso.",,,,,,,,,,,,,,,CV da quimica/farma,,,,
+ML_2014_00043,ゴジラ deixou suas garras na USP,,,,,,,,,,,,,,,monumento japones da rotatoria / meias laranjas,,,,
+ML_2014_00044,CÓDIGO MORSE COM NÓS,,,,,,,,,,,,,,,ECA,Extintor,,,
+ML_2014_00045,CÓDIGO MORSE COM NÓS,,,,,,,,,,,,,,,FAU,Placa,,,
+ML_2014_00046,CÓDIGO MORSE COM NÓS,,,,,,,,,,,,,,,Educação,Placa,,,
+ML_2014_00047,CÓDIGO MORSE COM NÓS,,,,,,,,,,,,,,,Odonto,Placa,,,
+ML_2014_00048,CÓDIGO MORSE COM NÓS,,,,,,,,,,,,,,,Psico,Placa,,,
+ML_2014_00049,CÓDIGO MORSE COM NÓS,,,,,,,,,,,,,,,IPT,Placa,,,
+ML_2014_00050,CÓDIGO MORSE COM NÓS,,,,,,,,,,,,,,,IRI,Placa,,,
+ML_2014_00051,O agente duplo da guerra ciência vs. religião adoraria trabalhar aqui. Talvez reclamasse do cheiro...,,,,,,,,,,,,,,,Laboratório Horta,"Canto esquerdo da placa na guia, entre placa e guia",,,
+ML_2014_00052,Foca na Coca deixaria ele bem feliz. Se você falar errado ele vai entender. Quando chegar perto dele uma boa ideia vai te ajudar.,,,,,,,,,,,,,,,Fofito,Placa,,,
+ML_2014_00053,"No começo da Guerra das Guerras, Quixote virou budista e procurou um lugar tranquilo para expurgar seus demônios.",,,,,,,,,,,,,,,Banheiro da tenda cultural,,,,
+ML_2014_00054,A tumba de um dos últimos faraós,,,,,,,,,,,,,,,Sala do Jaques Marocvich na FEA (Sala E-190),,,,
+ML_2014_00055,QR CODE,,,,,,,,,,,,,,,Estacionamento ambulancia HU,,,,
+ML_2014_00056,QR CODE,,,,,,,,,,,,,,,Centro de informação aos visitantes - orelhão,,,,
+ML_2014_00057,QR CODE,,,,,,,,,,,,,,,Vaga de deficiente FAU,"Perto da placa, tem um asterisco de metal. Está embaixo disto",,,
+ML_2014_00058,QR CODE,,,,,,,,,,,,,,,Base da guarda perto do central,,,,
+ML_2014_00059,QR CODE,,,,,,,,,,,,,,,Geografia-balcão de informações,,,,
+ML_2014_00060,QR CODE,,,,,,,,,,,,,,,IAG,,,,
+ML_2014_00061,QR CODE,,,,,,,,,,,,,,,Ponto de ônibus P-Trem,,,,
+ML_2014_00062,MAPA CAÇA LETRA,,,,,,,,,,,,,,,Ligar para CO 3037-1706,,,,
+ML_2014_00063,MAPA CAÇA LETRA,,,,,,,,,,,,,,,Ligar para CO 3037-1706,,,,
+ML_2014_00064,MAPA CAÇA LETRA,,,,,,,,,,,,,,,Ligar para CO 3037-1706,,,,
+ML_2014_00065,MAPA CAÇA LETRA,,,,,,,,,,,,,,,Ligar para CO 3037-1706,,,,
+ML_2014_00066,MAPA CAÇA LETRA,,,,,,,,,,,,,,,Ligar para CO 3037-1706,,,,
+ML_2014_00067,MAPA CAÇA LETRA,,,,,,,,,,,,,,,Ligar para CO 3037-1706,,,,
+ML_2014_00068,MAPA CAÇA LETRA,,,,,,,,,,,,,,,Ligar para CO 3037-1706,,,,
+ML_2014_00069,Asas enormes trouxeram sombras ao sul. Por aqui parecia que todo mundo tinha dado a mão (eles diziam). Mas a neve veio décadas depois para não nos deixar esquecer.,,,,,,,,,,,,,,,Monumento da ditadura (usar condor copa etc),,,,
+ML_2014_00070,"Sobre o triunfo das divas de Galilei, na mais valiosa está.",,,,,,,,,,,,,,,cavalo – deusa engenharia,,,,
+ML_2014_00071,Vejo uma depressão incurável. Melhor é encostar no canto desse muro de pedras e admirar a estrela polar.,,,,,,,,,,,,,,,Canto de pedra de onde pode ver o símbolo da fau ao norte.,,,,
+ML_2014_00072,Um cacique cara-pálida dessa pólis foi agraciado pelos verdadeiros tribais.,,,,,,,,,,,,,,,CEPAM(Faria Lima),Placa,,,
+ML_2014_00073,"São Paulo, 14 de março de 2014.//Vocês acabaram de perder uma safadinha assassina mas se correrem ainda podem encontrar outra tarada por sexo.",,,,,,,,,,,,,,,Cinusp (vai estar passando esses filmes dia 14),,,,
+ML_2014_00074,O 2104º segredo,,,,,,,,,,,,,,,Página no Face. Local: Sala do Prof José Afonso Mazzon E-187,,,,
+ML_2014_00075,Teatro-Açu S13E09,,,,,,,,,,,,,,,Placa de rua sem saída do lado do teatro laboratório,,,,
+ML_2014_00076,"Se essa relíquia criada por Din e suas amigas está aqui, seria este o Reino Sagrado?",,,,,,,,,,,,,,,triangulos 3-Force praça do relógio,,,,
+ML_2014_00077,"Trêmula, cercada de água por todos os lados e sempre a primeira a acordar. Porém, deixou por aqui a prova da Síndrome de Estocolmo.",,,,,,,,,,,,,,,Escultura Ultramarinho Tomie Otake (MAC),,,,
+ML_2014_00078,SS Venture está esperando para descarregar,,,,,,,,,,,,,,,Carga e descarga da Geo,,,,
+ML_2014_00079,Chuto que José Guilherme de Toledo começou aqui,,,,,,,,,,,,,,,traves do nuri,,,,
+ML_2014_00080,x,,,,,,,,,,,,,,,CCE em tablatura,,,,
+ML_2014_00081,"Era uma vez, no quintal de casa, que me transformava num planeta girando em torno do sol, me sentindo a própria Terra em órbita. Eu tinha o impulso de que precisava, mas acabava logo voltando ao ponto de partida.",,,,,,,,,,,,,,,balanco de pneu na FFLCH,,,,
+ML_2014_00082,"Um dos filhos, tomado pela inveja de seu primo rico, saiu de casa as pressas de cabeça erguida, pela porta da frente, deixando ainda alguns de seus atuais pertences.",,,,,,,,,,,,,,,MAC,,,,
+ML_2014_00083,"Nem todo vinho melhora com o tempo, principalmente se a adega é na Vila Olímpica.",,,,,,,,,,,,,,,Chevette na fflch,,,,
+ML_2014_00084,"É cansativo: primeiro as catracas do dia a dia, depois a caminhada insalubre, ainda tem os riscos da cidade grande. Quando acabas de passar com segurança já percebes que estás sendo vigiado.",,,,,,,,,,,,,,,Carro abandonado entre CRUSP e CEPE,,,,
+ML_2014_00085,"Os orientais, com sua embarcação roedora, deram um cano na tribo e partiram pelo caminho das águas",,,,,,,,,,,,,,,Placa da adutora de cotia,,,,
+ML_2014_00086,Faria mais sentido se só comesse aqui em agosto.,,,,,,,,,,,,,,,Cachorrão psico,,,,
+ML_2014_00087,"Vejam que espetáculo: Um sai apressado de casa e coloca-se ao lado do Outro (que já estava perto de seu destino). De repente, sem qualquer suspeita do Um, o Outro o passa a perna, derrubando-o. Porém não ocupa sua casa.",,,,,,,,,,,,,,,Paço das Artes,,,,
+ML_2014_00088,Na pequena torre/guardava uma história/feita de memória,,,,,,,,,,,,,,,Casa de Cultura Japonesa,,,,
+ML_2014_00089,"Subindo pelo caminho tortuoso, João e Maria encontraram o segredo. Estava onde ela morreu.",,,,,,,,,,,,,,,Oficina FAU - 'churrasqueira',,,,
+ML_2014_00090,"De tanto invejar sua meia-irmã, não lhe tirava os olhos, e ainda lhe tomou uma de suas invenções para seu escudo",,,,,,,,,,,,,,,Brasão na entrada da FEA,,,,
+ML_2014_00091,Se o outono não fizer uma prova vai dar pra passar com a segunda.,,,,,,,,,,,,,,,Substação elétrica P2,,,,
+ML_2014_00092,Aqui jaz aquele que foi consumido pelo excesso de amor próprio. Tudo por uma simples vingança.,,,,,,,,,,,,,,,Espelho d'água do relógio de sol,,,,
+ML_2014_00093,"Roca: Formação geológica que consiste de várias falésias íngremes e verticais em coluna, isoladas pela erosão. São formados pelos processos geomorfológicos costeiros, que são eventos naturais. Originam-se em camadas de rochas metamórficas, em rochas piroclásticas e em rochas sedimentares. São utilizadas pelas aves para fazerem ninhos e são populares para esportes radicais.",,,,,,,,,,,,,,,Parede de escalada da Geo,,,,
+ML_2014_00094,Esses estrangeiros são tão bons em fazer cerveja quanto nisso aqui.,,,,,,,,,,,,,,,Tenda do ECP na raia,,,,
+ML_2014_00095,O Gd-CM é descartado pela porta dos fundos.,,,,,,,,,,,,,,,Lixo do lab de ressonancia da física,,,,
+ML_2014_00096,Santos Dumont poderia vender cachorro quente nas horas vagas (se a lenda fosse verdade),,,,,,,,,,,,,,,Trailer Laboratorio de modelos de embarcações na Raia,,,,
+ML_2014_00097,O bar está precisando de gente com a fé e sem critérios. Mas antes de entrar fique quietinho.,,,,,,,,,,,,,,,Biblioteca da FEA,,,,
+ML_2014_00098,O alimento da simbiose de Komodo,,,,,,,,,,,,,,,Trailer branco entre ICB3 e Odonto,,,,
+ML_2014_00099,Na porta da antiga senzala da primeira dama,,,,,,,,,,,,,,,Aquele predinho velho da subestação. O novo prédio do lado dele chama DAMA 01,,,,
+ML_2014_00100,Era o quadro de Rá,,,,,,,,,,,,,,,"relógio de sol, dentro do compartimento do ponteiro",,,,
+ML_2014_00101,Único jeito de ser bixo da Poli sem estudar muito é pedir pra viver aqui.,,,,,,,,,,,,,,,Biotério,,,,
+ML_2014_00102,Telepaticamente ouvi Dois Córregos. Calcule o telefone dobrado e você vai entender o porquê. (Quando faltar pouco peça ajuda da máfia),,,,,,,,,,,,,,,Sala de Gaetano Siciliano no IME (141-A),,,,
+ML_2014_00103,"Porra meu, para de correr o caça que a chance de você achar essa pista aumenta",,,,,,,,,,,,,,,Anfiteatro Francisco Romeu Landi,,,,
+ML_2014_00104,"São 9, mas com 27 pernas. Como esperado só um é reaça.",,,,,,,,,,,,,,,Placa de seta a direita nas vagas de idosos atras da biblioteca,,,,
+ML_2014_00105,André não fez nada pelo irmão ao lado. O curioso é que foi escondido por aqueles que querem ser Deus. Acho que só por isso ele virou santo.,,,,,,,,,,,,,,,Caixa abandonado do lado do santander na bio,,,,
+ML_2014_00106,Ela dobra meu entretenimento. Mas aí pode esquecer o Padrão FIFA...,,,,,,,,,,,,,,,Arquibancada do modulo,Extintor embaixo,,,
+ML_2014_00107,"Oi Cid, está com hepatite?",,,,,,,,,,,,,,,Âncora do IO,,,,
+ML_2014_00108,ae-jjgiwt im-qajjqv,,,,,,,,,,,,,,,Letreiro hidraulica,"Placa, fresta embaixo",,,
+ML_2014_00109,ae-lkxoru go-pag_td,,,,,,,,,,,,,,,Ponte do relógio,,,,
+ML_2014_00110,be-km+bna hm-sieatd,,,,,,,,,,,,,,,Portão São Remo,,,,
+ML_2014_00111,be-lm_tnp gm-patd_g,,,,,,,,,,,,,,,Filhote de anfiteatro romano do lado da adm da FFLCH,,,,
+ML_2014_00112,bd-kmlgza hm-p__ywz,,,,,,,,,,,,,,,P1,,,,
+ML_2014_00113,cd-jj+xse gm-pfcfof,,,,,,,,,,,,,,,P2,,,,
+ML_2014_00114,ce-loxbvw hn-rg_acp,,,,,,,,,,,,,,,P3,,,,
+ML_2014_00115,"Bilbo não tem mais CREA, mas agora já foi.",,,,,,,,,,,,,,,Casa do hobbit na oficina da fau,,,,
+ML_2014_00116,Esconda-se Pezinho! Um Dente Afiado foi visto por aqui!,,,,,,,,,,,,,,,Dinossauro de brinquedo da educação,,,,
+ML_2014_00117,Mim querer xampu! // Tá bom cabeça de peru!,,,,,,,,,,,,,,,Barbeiro perto do CRUSP,,,,
+ML_2014_00118,Que casinha decente! (Link patrocinado pela Universidade),,,,,,,,,,,,,,,Sede nova da ADUSP,,,,
+ML_2014_00119,Adiantando: está no terceiro molar. Para chegar até lá só entendendo que Simão está no eixo (mesmo que depois fosse perder sua autoridade lá).,,,,,,,,,,,,,,,Stonehenge,,,,
+ML_2014_00120,"""Bixo o cego é surdo o seu pai é broxa e vocês são burros ninguém foi salvo imagina na copa cacete vá se fu..."" ""Ou você me caguei inteiro na aula de cálculo do ime que tenso bixo""",,,,,,,,,,,,,,,3091-3570 laausp,Extintor,,,
+ML_2014_00121,"""Bixo, o cego é surdo, o seu pai é broxa e vocês são burros. Ninguém foi salvo, imagina na Copa. Cacete, vá se fu..."" ""Xiiiii... Minha maçã quadrada caiu no chão.""",,,,,,,,,,,,,,,3091-3217 Material Esportivo CEPE,Conduite lado direito,,,
+ML_2014_00122,"""Bixo, o cego é surdo, o seu pai é broxa e vocês são burros. Ninguém foi salvo, imagina na Copa. Cacete, vá se fu..."" ""Ixi. Deus do Céu. Com certeza não vai dar certo. Deixei caixas invisíveis no porão.""",,,,,,,,,,,,,,,3091-3554 Portaria CEPE,Móvel atrás da janela por dentro,,,
+ML_2014_00123,"""Bixo, o cego é surdo, o seu pai é broxa e vocês são burros. Ninguém foi salvo, imagina na Copa. Cacete, vá se fu..."" ""Ixii. Deus do Céu. Com certeza não vai dar certo. Deixei caixas invisíveis no porão.""",,,,,,,,,,,,,,,3091-3555 Diretoria CEPE,Vão entre a porta e tijolos,,,
+ML_2014_00124,"""Bixo, o cego é surdo, o seu pai é broxa e vocês são burros. Ninguém foi salvo, imagina na Copa. Cacete, vá se fu..."" ""Mim cliente quer xampu, seu cabeça oca""",,,,,,,,,,,,,,,3091-3362 Reservas CEPE,entre os quadros e a janela,,,
+ML_2014_00125,"""Bixo, o cego é surdo, o seu pai é broxa e vocês são burros. Ninguém foi salvo, imagina na Copa. Cacete, vá se fu..."" ""Come o flango flito! Custa tlinta e tlês. Opa, é gostoso então? Ceteza! Traz aí e junto traz duas cocas. Sai flango sai flango. Xi, cacete... Essa porra era pomba!""",,,,,,,,,,,,,,,3091-3515 Gráfica,Enterrado no vaso,,,
+ML_2014_00126,"""Bixo, o cego é surdo, o seu pai é broxa e vocês são burros. Ninguém foi salvo, imagina na Copa. Cacete, vá se fu..."" ""Que merda é essa? Por que caralhos isso tá aqui? Mas que lixo de coisa.""",,,,,,,,,,,,,,,3091-3314 Nuri,Abaixo do Nuri do CEPE,,,
+ML_2014_00127,Experimentei a vontade de matar e aí percebi que isso se traduz como esforço. Pelo menos não vou queimar no mármore do inferno.,,,,,,,,,,,,,,,Sala 267 Letras - Lab de árabe extintor,,,,
+ML_2014_00128,AIK Ishockey espera Anaheim para um grande amistoso. Reserve já sua vaga.,,,,,,,,,,,,,,,Estacionamento do HOVet,,,,
+ML_2014_00129,"Ao meio dia e em meio a tanto atrapalho, comece a estudar como inicia a neve.",,,,,,,,,,,,,,,Placa IPEN,,,,
+ML_2014_00130,Procure a C.O.,,,,,,,,,,,,,,,Letreiro da hidráulica,"atrás do ""R"", enterrado entre a base de cimento e a Terra",,,
+ML_2014_00131,Procure a C.O.,,,,,,,,,,,,,,,,,,,
+ML_2014_00132,Procure a C.O.,,,,,,,,,,,,,,,pte relógio,"Parapeito da esquerda, perto do portão, externo ao parapeito",,,
+ML_2014_00133,Procure a C.O.,,,,,,,,,,,,,,,,,,,
+ML_2014_00134,Procure a C.O.,,,,,,,,,,,,,,,,,,,
+ML_2014_00135,Procure a C.O.,,,,,,,,,,,,,,,,,,,
+ML_2014_00136,Procure a C.O.,,,,,,,,,,,,,,,,,,,
+ML_2014_00137,Procure a C.O.,,,,,,,,,,,,,,,,,,,
+ML_2014_00138,Procure a C.O.,,,,,,,,,,,,,,,,,,,
+ML_2014_00139,Procure a C.O.,,,,,,,,,,,,,,,,,,,
+ML_2014_00140,Procure a C.O.,,,,,,,,,,,,,,,,,,,
+ML_2014_00141,Procure a C.O.,,,,,,,,,,,,,,,,,,,
+ML_2009_00001,"Você pode até suar muito, mas tem que
+ lutar para entrar na POLI.",,,,,,,,,,,,,,,EEFE,"Grade que separa a academia
+ do tatame azul e amarelo 
+ do ginásio de ginástica",,,
+ML_2009_00002,"Faça frio, faça calor, eles são o futuro da
+ nossa sociedade.",,,,,,,,,,,,,,,FEBRACE,"Climatizador do lado
+ direito da porta",,,
+ML_2009_00003,"Pediu a segunda nota e tornou público o desabafo ao seu amado:
+ ""Amor anal, Ave!
+ Ama rabos é Mar? É?
+ PS. Eu te A...""",,,,,,,,,,,,,,,TEATRO ROMANO,"No alto da árvore do 
+ fundo (na direita)",,,
+ML_2009_00004,"Cavalo dado não se olha os olhos... Ou são
+ os dentes?",,,,,,,,,,,,,,,VET,"Sala escura perto da 
+ oftalmologia do Hospital
+ Veterinário",,,
+ML_2009_00005,"Fez uma limpeza em casa... Tinha que ser
+ politécnico o viado!",,,,,,,,,,,,,,,RAIA,Cemitério de outdoors,,,
+ML_2009_00006,"Uma imensa fábrica de macarrão cujos
+ carboidratos são fundamentais para o que
+ precisamos.",,,,,,,,,,,,,,,CEPE,"Rolo compressor que 
+ tem do lado da pista de 
+ atletismo do CEPE.",,,
+ML_2009_00007,"Nossos antepassados nos ensinaram que 
+ encontramos vida mesmo após a morte.",,,,,,,,,,,,,,,EDUCAÇÃO,"Num jardinzinho que tem um
+ puta tronco de árvore caído do
+ lado de fora da Educação. Está
+ em uma fresta das pedras do 
+ lado oposto do tronco (qdo se 
+ chega nele vindo do prédio).",,,
+ML_2009_00008,"1, 2, 3... BAR...",,,,,,,,,,,,,,,FFLCH,"No muro da ADM da FFLCH com 
+ o Anf. Romano (BURACO 
+ PEQUENO A 2m DE ALTURA).",,,
+ML_2009_00009,"No mundo animal todos migram em bando e
+ organizados em fila. Esses são os únicos 
+ bichos que não souberam se organizar.",,,,,,,,,,,,,,,CEPE,"Em cima do portão (canaleta) 
+ de entrada do Velódromo, onde
+ deu a merda no Bixopp.",,,
+ML_2009_00010,"Na tênue fronteira do esporte para a 
+ juventude encontramos repressão.",,,,,,,,,,,,,,,ACADEPOL,Co corrego perto da Acadepol,,,
+ML_2009_00011,"Caralho, que porra é essa?! (em braile)",,,,,,,,,,,,,,,FEA,"Escultura da FEA, enterrada na
+ esquina de grama mais 
+ próxima da placa que fala da 
+ obra.",,,
+ML_2009_00012,"É a maior corrida do planeta! 246.000 
+ italianos, 167.000 americanos e 310.000 
+ russos. Todos eles correndo para a sombra.",,,,,,,,,,,,,,,CEPE,"Na árvore em frente ao 
+ número 723000 do
+ Velódromo.",,,
+ML_2009_00013,"Volta e meia nos deparamos com as 
+ pressões da alta sociedade.",,,,,,,,,,,,,,,FÍSICA,"Atrás do Ed. Alessandro Volta, onde 
+ tem infinitos cilíndros de gás. 
+ Olhando de frente para o portão, 
+ está na extrema direita (parte de 
+ madeira branca), encrustada em 
+ uma fresta junto ao chão.",,,
+ML_2009_00014,Tomo um Banho de Lua...,,,,,,,,,,,,,,,ECA,No banheira do jardim da Música.,,,
+ML_2009_00015,"Um Tiranossauro, um mastodonte, um 
+ triceratops, um tigre dente-de-sabre e um 
+ dragão, todos combatendo as pragas de 
+ verão.",,,,,,,,,,,,,,,BIO,"No cesto de lixo reciclável 
+ atrás do prédio da Bio, 
+ onde tem a competição dos bixos.",,,
+ML_2009_00016,"O olhar da tecnologia nos faz fugir da 
+ realidade.",,,,,,,,,,,,,,,POLI,Na porta da Caverna Digital.,,,
+ML_2009_00017,"""Lutemos companheiros e companheiras 
+ pela libertação dos operários oprimidos.""
+ Diógenos de Jesus, PNN - 1961",,,,,,,,,,,,,,,BIO,No PNN 1961 do apiário da Bio.,,,
+ML_2009_00018,Marcha,,,,,,,,,,,,,,,RAIA,No suporte a faixa da Raia.,,,
+ML_2009_00019,"No campeonato dos bichos, ele ganhou. 
+ Mesmo tendo presente apêndices no 
+ abdome...",,,,,,,,,,,,,,,BIO,Embaixo da estante.,,,
+ML_2009_00020,"Na fronteira que nos separa de unidade e 
+ de equilibrio paira a pergunta: estamos 
+ cuidando bem do nosso corpo?",,,,,,,,,,,,,,,EEFE,"Enterrada ao lado do Ying Yang na 
+ base do último E da EEFE.",,,
+ML_2009_00021,"A quinta posição do objeto de desejo dos 
+ Politécnicos.",,,,,,,,,,,,,,,QUÍMICA,"Embaixo do carpete, na quina
+ oposta da frente da porta 5 do 
+ queijinho.",,,
+ML_2009_00022,Procure no buraco negro.,,,,,,,,,,,,,,,IAG,"Dentro do buraco pequeno do 
+ portão do IAG.",,,
+ML_2009_00023,"Eu era um ser singelo, pacato e sem-teto. 
+ Hoje, após pouco me movimentar, 
+ conquistei uma cobertura número 34.",,,,,,,,,,,,,,,FFLCH,"Pto. De Ônibus. 
+ Estando no ponto, em cima do 
+ poste esquerdo (no cruzamento
+ frontal de vigas).",,,
+ML_2009_00024,Hipérbole ímpar.,,,,,,,,,,,,,,,IME,"Na hipérbole de cor diferente
+ (ENTERRADA DENTRO DO VASO).",,,
+ML_2009_00025,Às 11:34 pegue o elevador social.,,,,,,,,,,,,,,,FFLCH,Atrás do quadro do relógio.,,,
+ML_2009_00026,"Quase fui ao trote onde a lama não era lama
+  e a farinha não tinha cor. Fiquei de fora, 
+ mas acabei virando universitário.",,,,,,,,,,,,,,,GUARDA,"Na guarita da guarda, na reitoria.",,,
+ML_2009_00027,"Afogamento seria um destino interessante 
+ reservado para o diretor. Mas há uma 
+ chance dele se salvar.",,,,,,,,,,,,,,,IO,No colete salva-vidas do CA do IO.,,,
+ML_2009_00028,"Procure por Paulo no caminho da
+ Primavera.",,,,,,,,,,,,,,,EDUCAÇÃO,Na porta do CA da Educação.,,,
+ML_2009_00029,"A próxima pista está na trilha da selva para o
+  abdomi.",,,,,,,,,,,,,,,BIO,"Na trilha que sai da Rua do Matão 
+ e vai pra ADM da Bio.",,,
+ML_2009_00030,"Faz favor, procure o programa de pós-
+ graduação em integra!",,,,,,,,,,,,,,,COLMÉIA,"Na porta do programa de pós-
+ graduação em integração da 
+ América Latina.",,,
+ML_2009_00031,Às 9:46 soou o sino do relógio,,,,,,,,,,,,,,,REITORIA,"Enterrado colado ao bueiro 946 
+ perto do sino da Reitoria.",,,
+ML_2009_00032,Nada do que foi será...,,,,,,,,,,,,,,,TPN,Na piscina de ondas do TPN.,,,
+ML_2009_00033,História da história.,,,,,,,,,,,,,,,FFLCH,"Atrás do quadro (na quina inferior
+ esquerda) da FFLCH antiga.",,,
+ML_2009_00034,... Esse é o som da Rateria...,,,,,,,,,,,,,,,POLI,Na casa de passarinho da ASEP.,,,
+ML_2009_00035,"Em meio à sociedade brasileira, os 
+ alcoólicos anônimos surgiram com o intuito 
+ de ajudar os bêbados a pararem de fazer 
+ coisas proibidas.",,,,,,,,,,,,,,,FEA,"Na placa de proibido estacionar 
+ do Sweden.",,,
+ML_2009_00036,Vamos nadar na cachoeira.,,,,,,,,,,,,,,,HU,No lago do parque do HU.,,,
+ML_2009_00037,Tem que ter fibra pra abrir essa garrafa.,,,,,,,,,,,,,,,REITORIA,Nas tampas de garrafas gigantes.,,,
+ML_2009_00038,"Um garoto que mal sabia escrever seios,
+ comeu uma mulher na câmara escura.",,,,,,,,,,,,,,,HU,"Na câmara escura da 
+ mamografia do HU.",,,
+ML_2009_00039,"Único elevador com vista panorâmica para 
+ o mar.",,,,,,,,,,,,,,,IME,"Caixa de força na frente do elevador
+ panorâmico para deficientes.",,,
+ML_2009_00040,Aqui estudou Pedro Malan.,,,,,,,,,,,,,,,FEA,"Escola fazendária do Estado de São
+ Paulo, 3° andar do FEA5 (embaixo do
+ lixo de escritório dentro da sala).",,,
+ML_2009_00041,G invertido.,,,,,,,,,,,,,,,FFLCH,"Escada vermelha logo na entrada da 
+ História e Geografia (colocar na 
+ grade dentro dela).",,,
+ML_2009_00042,"Na copa de 2002 o Brasil passou aperto, 
+ mas depois que encontrou a luz, chegou ao
+ topo.",,,,,,,,,,,,,,,"CASA DE 
+ CULTURA 
+ JAPONESA","No teto da Casa de Cultura
+ Japonesa.",,,
+ML_2009_00043,"Dizem que em coração de mãe sempre 
+ cabe mais um. Entretanto, existem 
+ corações e corações... No coração dessa 
+ mãe caberiam mais 20!",,,,,,,,,,,,,,,VET,"Embaixo do coração de baleia do Museu de 
+ Anatomia Animal da Vet.",,,
+ML_2009_00044,"De.us cri.ou o ho.mem... O ho.mem cri.ou 
+ Ne.ro... E só Ne.ro po.de che.gar a es.sa 
+ pis.ta!",,,,,,,,,,,,,,,ECA,"Atrás dos armários de dicionários da 
+ biblioteca da ECA. Colado em cima.",,,
+ML_2009_00045,"Arrisque perguntar a um CDF: Você Joga 
+ 10? Sim ou Não?",,,,,,,,,,,,,,,REITORIA,Nessa bancada do CU.,,,
+ML_2009_00046,"""Rapunzel, jogue suas tranças!""
+ Hoje em dia, não é tão fácil assim 
+ resgatar uma princesa.",,,,,,,,,,,,,,,IPEN,Rapunzel.,,,
+ML_2009_00047,"50% das indústrias do Estado de São 
+ Paulo sofrem com o problema do aumento 
+ repentino da energia.",,,,,,,,,,,,,,,SEMI-INDUSTRIAL,No pára-raio do semi-industrial.,,,
+ML_2009_00048,"Do alto com um Pelé, assisti a copa
+ recentemente iniciada.",,,,,,,,,,,,,,,FEA,"No vão de concreto, entre a escada
+ e o vidro.",,,
+ML_2009_00049,"Quando você estiver sozinho divirta-se com 
+ as minhocas.",,,,,,,,,,,,,,,CEPE,"No cano da parede da sala de 
+ ginástica individualizada.",,,
+ML_2009_00050,"O competidor 4 veio da Bahia e está bravo
+ de ter de rolar no feno.",,,,,,,,,,,,,,,VET,Na baia do cavalo bravo.,,,
+ML_2009_00051,"Para acabar com o aborrecimento, basta 
+ fazer um simples movimento: esquerda - 
+ direita; embaixo - embaixo; em cima - em 
+ cima; prum lado - pro outro.",,,,,,,,,,,,,,,CEPE,"Atrás do espelho do vestiário 2 
+ do CEPE.",,,
+ML_2009_00052,"You don't need too much brain to realize 
+ that's unacceptable pay $25 for a pringles! 
+ Figure out all the possibilities and identify 
+ yourself as Bond, James Bond.",,,,,,,,,,,,,,,FÍSICA,Dentro da Pringles da Tia da Física.,,,
+ML_2009_00053,"01:05:94 - Nem Galvão sabia que o 
+ mocinho ia morrer no final.",,,,,,,,,,,,,,,ECA,"No catálogo de TV da Rede Globo
+ do dia 010594.",,,
+ML_2009_00054,Desenho da Piscina!,,,,,,,,,,,,,,,CEPE,"No fundo do tanque de salto
+ do CEPE.",,,
+ML_2009_00055,noiva,,,,,,,,,,,,,,,"ARTES 
+ CÊNICAS",Cabeça da boneca.,,,
+ML_2009_00056,A chave para o R4.,,,,,,,,,,,,,,,IME,Na placa da chave.,,,
+ML_2009_00057,Aqui você não tem dor de barriga.,,,,,,,,,,,,,,,"CLUBE DOS 
+ PROFESSORES","Na entrada do restaurante
+ do Clube dos Professores.",,,
+ML_2009_00058,"Um bixo da medicina com certeza não
+ se afogaria.",,,,,,,,,,,,,,,IO,No peixe-porco do Museu do IO.,,,
+ML_2009_00059,Equação,,,,,,,,,,,,,,,IME,"Atrás do quadro do NÓ 
+ correspondente.",,,
+ML_2009_00060,"Somos de um grupo que vive uma vida ao 
+ contrário: o dia é uma calmaria e a noite 
+ uma diversão.",,,,,,,,,,,,,,,IGC,"Pedra do lado esquerdo do 
+ dinossauro da GEO.",,,
+ML_2009_00061,"Uma vez um mackenzista entrou na USP.
+ Coitado! Virou história!",,,,,,,,,,,,,,,VET,No jumento do Museu da Vet.,,,
+ML_2009_00062,"Parta do Ponto O e siga o contra fluxo. 
+ Quando estiver sem fôlego, pronto! Você 
+ é um antagonista de um tira no jardim da 
+ infância!",,,,,,,,,,,,,,,ODONTO,"Na grade (extrema esquerda inferior) 
+ do ar condicionado Dominic Hunter.",,,
+ML_2009_00063,"A Faculdade mais rapida da USP. Chupa 
+ Wally!",,,,,,,,,,,,,,,EEFE,"Atrás da placa da primeira turma
+ de formandos da EEFE. Perto do 
+ nome do Wally.",,,
+ML_2009_00064,Símbolo do Superman,,,,,,,,,,,,,,,FFLCH,Em algum lugar do CAEL - Letras.,,,
+ML_2009_00065,"{(19, 03, 09)} + Sinal do Poste",,,,,,,,,,,,,,,DATA BASE,No poste do banco de dados da USP.,,,
+ML_2009_00066,"No obscuro caminho para o canutório, 
+ preste atenção! Entre outras, procure o 
+ ponto de partida!",,,,,,,,,,,,,,,FAU,"No ponto de partida da foto
+ do meio.",,,
+ML_2009_00067,"Uma vez Gabriel capturou a maior das 
+ feras e a enjaulou. Com a ajuda de 
+ animais da flores ela escapou, mas 
+ Gabriel ficou com tanta raiva que a matou 
+ e a enterrou nessa suja área verde.",,,,,,,,,,,,,,,FFLCH,"No porão fechado do CA da 
+ Filosofia.",,,
+ML_2009_00068,"Quatro meses e meio após a sua morte 
+ ele nomeou uma rodovia, mesmo 
+ morando a sete palmos do chão ao lado 
+ da moléstia que o venceu.",,,,,,,,,,,,,,,"RELÓGIO DE 
+ SOL",,,,
+ML_2009_00069,"No portal dos intocáveis o Imperador
+  Japonês conquistou seu espaço!",,,,,,,,,,,,,,,FFLCH,"Em frente à porta do Prof. Júlio
+ César Susuki, embaixo da caixa 
+ de mensagens.",,,
+ML_2009_00070,"No meio do presente dos maias à 
+ humanidade, está a próxima pista!",,,,,,,,,,,,,,,BANCOS,"Na esquina dos Bancos com a FEA 
+ (embaixo da placa de concreto do 
+ chão).",,,
+ML_2009_00071,Use-o para encontrar espíritos na água.,,,,,,,,,,,,,,,"PAÇO DAS 
+ ARTES","Embaixo do evidenciador de 
+ espíritos aquosos.",,,
+ML_2009_00072,"Parabéns! Você chegou à Final do Caça 
+ ao Tesouro 2009! Se dirija imediatamente 
+ ao Grêmio Politécnico para retirar sua 
+ pista final.",,,,,,,,,,,,,,,GRÊMIO,,,,
+ML_2008_00001,"Homem em luta soberba contra uma força interna.
+ Imite-o, sentado no centro do único banco em frente
+ ao atendimento.",,,,,,,,,,,,,,,PSICOLOGIA,Árvore em frente ao banco,,,
+ML_2008_00002,Desse lab você vai ter que chorar muito para passar,,,,,,,,,,,,,,,"TEATRO 
+ LAB. ECA",Na porta,,,
+ML_2008_00003,"Volte no tiempo para ver o quadrúpe com o chifre
+ que nenhum corno tem.",,,,,,,,,,,,,,,ECA,Maquina del tiempo,,,
+ML_2008_00004,"A natureza marca o início da fábrica de soluções
+ da estagnação de João Figueiredo.",,,,,,,,,,,,,,,FEA,Escrito de grama na FEA,,,
+ML_2008_00005,Dos não motorizados somente este não pode aqui.,,,,,,,,,,,,,,,RUA DO MATÃO,Placa bicicleta,,,
+ML_2008_00006,Água antiga frente ao sol nascente,,,,,,,,,,,,,,,GEOLOGIA,Bebedouro da Geo,,,
+ML_2008_00007,"Não fique parado, pegue a frutinha no P do Pomar",,,,,,,,,,,,,,,CEPE,"No escrito CEPEUSP
+ no chão",,,
+ML_2008_00008,,,,,,,,,,,,,,,,CEPE,Campo de futebol CEPE,,,
+ML_2008_00009,As entradas estão acabando...,,,,,,,,,,,,,,,CEPE,Bilheteria,,,
+ML_2008_00010,"Noz sabemos que no universo dos números
+ o centro está em toda parte.",,,,,,,,,,,,,,,IME,Elevador de deficientes,,,
+ML_2008_00011,"O senador estava com dores no coração
+ foi ao médico porém a dor sumiu. Como estava
+ meio amarelo, o doutor resolveu colocá-lo
+ em módulo de observação.",,,,,,,,,,,,,,,IME,Estrutura metálica amarela,,,
+ML_2008_00012,"Depois de um ano estudando pra passar na USP,
+ finalmente entrei, mas tem um cara da UNICAMP
+ tentando passar na minha frente.",,,,,,,,,,,,,,,PLACA VIADO,Atrás da placa,,,
+ML_2008_00013,"Foi numa excursão gelada que
+ me deparei com o abominável homem das neves",,,,,,,,,,,,,,,"MUSEU
+ OCEANOGRÁFICO",Bolso do boneco,,,
+ML_2008_00014,"Esses seres se comunicam através de vibrações
+ sonoras na faixa de 150Hz.
+ Porém esse parece sofrer de bulimia.",,,,,,,,,,,,,,,BIO,Embaixo do esqueleto,,,
+ML_2008_00015,"Pau no seu cu, sua anta.",,,,,,,,,,,,,,,BIO,Anta BIO,,,
+ML_2008_00016,"Só Pedro pode ter acesso à esse possível
+ antro de cervejas. Nem Darwin é autorizado.",,,,,,,,,,,,,,,GELADEIRA BIO,Embaixo da porta,,,
+ML_2008_00017,"José e Maria andavam de mercedez em frente à
+ Faculdade de économia e adm... Qdo bateram
+ num pistão italiano.",,,,,,,,,,,,,,,"MUSEU DO 
+ CRIME",Debaixo do baú,,,
+ML_2008_00018,"Você acaba de ser jubilado da Poli. Mas calma,
+ existe apenas uma pessoa que tem poder para
+ mudar a sua situação. Considere o banco do réus
+ como o centro do sist. Procure no (0, 0, -1)",,,,,,,,,,,,,,,SALA DO IVAN,"Embaixo da cadeira de 
+ visita do Ivan",,,
+ML_2008_00019,"General Pedro Pignarolo comanda o ataque aéreo
+ dos exércitos preto aos exércitos amarelos
+ em Madagascar. Não procure nos quartéis.",,,,,,,,,,,,,,,APIÁRIO BIO,,,,
+ML_2008_00020,"Ao chegar na passagem subterrânea, o marinheiro
+ tombou de bêbado com a sua face esquerda,
+ virada para o chão. Em um momento de alucinação
+ ele se imaginou numa batalha naval e após um torp
+ erdo sacolejar o seu navio, ele resolve contra-atacar ...
+ Tome cuidado, os marcos de ref, mudam a cada ata",,,,,,,,,,,,,,,TÚNEL BIO,"Buracos da escada que sai
+ do túnel",,,
+ML_2008_00021,Assassino do donzela marrom,,,,,,,,,,,,,,,"MUSEU DA 
+ OCEANOGRAFIA",No aquário,,,
+ML_2008_00022,"Com às graças de um antigo diretor, o atleta
+ ofereceu a vitória alada ao universo
+ Cumprimente o diretor.",,,,,,,,,,,,,,,MONUMENTO DO CAVALO,Lá em cima,,,
+ML_2008_00023,O dedalus tá com brincadeira,,,,,,,,,,,,,,,"FACULDADE DE 
+ EDUCAÇÃO",Brinquedoteca,,,
+ML_2008_00024,"SOPAS DA TERÇA ou
+ SAPOS DA TERÇA
+ Procure pelo registro dos intrusos",,,,,,,,,,,,,,,PAÇO DAS ARTES,Mural de fotos,,,
+ML_2008_00025,"Residência da esperteza noturna no número
+ XXXXXXX",,,,,,,,,,,,,,,IME,Casinha do cachorro,,,
+ML_2008_00026,A separação entre todos e o quase niguém,,,,,,,,,,,,,,,"PARQUE PARA
+ TODOS",Alambrado,,,
+ML_2008_00027,"Foi numa gélida noite de outono que o sargento
+ parou a sua baratinha, atravessou a rua e foi
+ ao encontro do informante que mais sabia dos
+ que se passava naquela cidade.",,,,,,,,,,,,,,,"CENTRO DE 
+ INFO DA USP",Na frente do Centro,,,
+ML_2008_00028,O menino Jesus bagunça o mundo,,,,,,,,,,,,,,,"INSTITUTO DE 
+ METEOROLOGIA",Debaixo do quadro,,,
+ML_2008_00029,Esse a carrocinha não pode levar,,,,,,,,,,,,,,,"CACHORRO 
+ NA USP",Coleira,,,
+ML_2008_00030,A luneta que enxerga de perto o futuro do brasil,,,,,,,,,,,,,,,"INSTITUTO DE 
+ ESTUDOS 
+ AVANÇADOS",Porta,,,
+ML_2008_00031,"Esse ciclista assiste de camarote à alguns
+ jogos, cantando PLUT PLAT ZUM...",,,,,,,,,,,,,,,EEFE,Bike ergométrica,,,
+ML_2008_00032,"Atenção todos os carros, atenção: carro de placa
+ SIE 0018, foi visto pela última vez à caminho do
+ resgate do Ronald.",,,,,,,,,,,,,,,"PLACA 
+ PUBLICIDADE 
+ SIENA",No poste,,,
+ML_2008_00033,"Ele salvou a minha vida!
+ Erguei as mãos e daí glória à Deus",,,,,,,,,,,,,,,HU,Monumento anja,,,
+ML_2008_00034,"Por mais que inspire triunfos, nada de concreto
+ pode-se obter aqui,",,,,,,,,,,,,,,,ARCO ODONTO,x,,,
+ML_2008_00035,"Se Pedro tivesse praticado + nessa escola, hj seria
+ um grande secretário. Porém a ansiedade e a falta
+ de experiência o deixaram de cabeça para baixo
+ muito molhado e frio.",,,,,,,,,,,,,,,RAIA,Barco escola,,,
+ML_2008_00036,"Ta tudo arquivado chefe, menos o entulho daquele
+ processo que tá lá na frente.",,,,,,,,,,,,,,,SAUSP,Placa,,,
+ML_2008_00037,"Você se contenta com um suco do bandex
+ ou prefere uma coisa mais alcoólica??",,,,,,,,,,,,,,,"POSTO DOS 
+ CIRCULARES 
+ NO PO",Na bomba?,,,
+ML_2008_00038,"Resident Evil na POLI!!! Ao trocar de cenário
+ escolha o corredor mais estreito, e vá até o fim.
+ Sem medo.",,,,,,,,,,,,,,,RESIDENT EVIL,Corredor,,,
+ML_2008_00039,"Jogue mario 64, e para obtrer informações fale com
+ o cabeçudo de pedra",,,,,,,,,,,,,,,OLARIA FAU,No cogumelo,,,
+ML_2008_00040,"Nesse palco onde a arte é demonstrada pelos
+ protagonistas e adorada pelo platéia,
+ gladiadores se enfrentam e leões são mortos à cada
+ dia. Na verdade esse nosso palco não cumpre mais 
+ seu papel de origem e só representa todos os 
+ outros milhares que temos pelo mundo. Vá",,,,,,,,,,,,,,,ESTÁDIO CEPE,x,,,
+ML_2008_00041,"Para encontrar oq você quer, tera q andar 2646m
+ numa direção um tanto qto estranha, virar 30 graus
+ p/ baixo e andar 14 mins. Depois virar 70 graus
+ p/ o sol da tarde e andar por 44 mins. Mas calma
+ calma... Não é necessário ir tão longe.
+ Estamos monitorando vc.",,,,,,,,,,,,,,,IAG,SOAR,,,
+ML_2008_00042,Maluf fede,,,,,,,,,,,,,,,CÓRREGO MALUF,Placa,,,
+ML_2008_00043,Treme treme treme tremembé,,,,,,,,,,,,,,,IAG,Mural de sismologia,,,
+ML_2008_00044,"Nesse labirinto não tem nada de bonito nem de 
+ estético. A safra do pé de vinho terminou, 
+ não sobrou mais nada",,,,,,,,,,,,,,,FAU,Árvore de cortiça,,,
+ML_2008_00045,Herança polinésica na estética da engenharia,,,,,,,,,,,,,,,FAU,Moai,,,
+ML_2008_00046,"Entrei na feira da fruta, só para ver o que a feira da 
+ fruta tem",,,,,,,,,,,,,,,"FEIRA DA 
+ PREFEITURA",x,,,
+ML_2008_00047,"Carta do herói da Inconfidência Mineira na caixa de 
+ correio de Jesus.",,,,,,,,,,,,,,,ODONTO,Caixa na Odonto,,,
+ML_2008_00048,"Você pode ir a vários lugares, mas antes, mesmo
+ que escondido, porque não praticar um boxe.",,,,,,,,,,,,,,,"TERMINAL DE 
+ ÔNIBUS",No saco,,,
+ML_2008_00049,elevador em japonês,,,,,,,,,,,,,,,"CASA DE 
+ CULTURA 
+ JAPONESA",No elevador,,,
+ML_2008_00050,Carneiro de Souza começou o FAU-POLI,,,,,,,,,,,,,,,FAU,,,,
+ML_2008_00051,"Você pode pescar nessa utricularia,
+ mas às vezes ela fica escondida.",,,,,,,,,,,,,,,BIO,Debaixo do barco,,,
+ML_2008_00052,"Ao som de looney tonies...
+ 
+
+ Acho que vi um gatinho, mas agora já é tarde.",,,,,,,,,,,,,,,MÚSICA,Gaiola,,,
+ML_2008_00053,*partitura Cálice*,,,,,,,,,,,,,,,"ANFITEATRO 
+ AMARELO / VERMELHO",Em cima da lousa,,,
+ML_2008_00054,Tamo pilhado para um beach soccer,,,,,,,,,,,,,,,"CAMPO AREIA 
+ FÍSICA",Campo Física,,,
+ML_2008_00055,Esse telefone tem um toque diferente,,,,,,,,,,,,,,,MÚSICA,Orelhão em frente,,,
+ML_2008_00056,"Mesmo após a invasão o mármore continua
+ fugindo.",,,,,,,,,,,,,,,MAC 2,Monumento fuga branca,,,
+ML_2008_00057,"Um triângulo inscrito em um triângulo inscrito num pentágono, que por sua vez, está inscrito num círculo.
+ A partir do norte, ande 24 passos para leste.
+ Ao chegar no caminho, ande 122 unidades por ele.
+  Você está de frente para ela, ande 7 passos.",,,,,,,,,,,,,,,RELÓGIO DE SOL,Árvore perto do relógio,,,
+ML_2008_00058,Corpo estranho no Krusty,,,,,,,,,,,,,,,GRÊMIO,PC Grêmio,,,
+ML_2008_00059,Se Froid pode porque eu não posso.,,,,,,,,,,,,,,,PSICO,Lanchonete da Psico,,,
+ML_2008_00060,,,,,,,,,,,,,,,,FÍSICA,Prédio da ressonância,,,
+ML_2008_00061,"Depois desse churras, vo lá falar com o professor.
+ Mas antes vo descansar nesse banco.
+ Abaixe a cabeça senão o bambu te acerta.",,,,,,,,,,,,,,,FÍSICA,Um dos bancos,,,
+ML_2008_00062,"Batman, não vamos encontrar a nave estelar nunca.
+ Mas Robin, sua besta, não será uma madeira?
+ Comece no 207, virado p a espera eterna, vire 35º p/
+ direita e ande 27. Agora vire 150º e ande 24. Agora vire
+ 145º e ande 21. Agora vire 135º e ande 18. Agora vire
+ 135º e ande 22. Se você estiver correto encontrará a madeira estelar.",,,,,,,,,,,,,,,SHARE WOOD,Entrada,,,
+ML_2008_00063,,,,,,,,,,,,,,,,OVO,Campo Física,,,
+ML_2008_00064,,,,,,,,,,,,,,,,,Orelhão em frente,,,
+ML_2008_00065,"Foi por causa de uma falta de luz na P1, que 
+ acabou chegando na sub.",,,,,,,,,,,,,,,"SUB-ESTAÇÃO
+ ELÉTRICA",Porta,,,
+ML_2008_00066,,,,,,,,,,,,,,,,CCM,Porta?,,,
+ML_2008_00067,,,,,,,,,,,,,,,,FARMÁCIA,Flâmula,,,
+ML_2008_00068,"O Pirata Alma Negra deixou duas mensagens. Uma
+ delas, você pode ver, a outra está em um dos 
+ vértices.",,,,,,,,,,,,,,,"NÚCLEO DE 
+ CONSCIÊNCIA 
+ NEGRA",No canto do outro lado,,,
+ML_2008_00069,,,,,,,,,,,,,,,,MAV,,,,
+ML_2008_00070,"Sua caixa de entrada está lotada
+ Vo mandar para outra",,,,,,,,,,,,,,,CORREIOS,Um dos bancos,,,
+ML_2008_00071,"Um assento que está entre os semelhantes 653 e
+ 847-8",,,,,,,,,,,,,,,BANCOS,Debaixo do banco,,,
+ML_2008_00072,,,,,,,,,,,,,,,,ASEP,,,,
+ML_2008_00073,"Venha assistir à seleção mirim de handebol
+ de campo. Procure pelo endereço.",,,,,,,,,,,,,,,"NÚCLEO DE 
+ RECREAÇÃO 
+ INFANTIL",Embaixo da placa,,,
+ML_2008_00074,incendio,,,,,,,,,,,,,,,ECA,Porta,,,
+ML_2008_00075,"Cruzes, ta quase tudo desativado, mas
+ uma coisa tá funcionando.",,,,,,,,,,,,,,,"FARMÁCIA 
+ UNIVERSITÁRIA",Porta?,,,
+ML_2008_00076,"Mal consigo ficar aqui com pedaços de corpos
+ por toda a parte. Procure embaixo das ferramentas. 
+ A palavra TROPFROHRE lhe confirmará o local.",,,,,,,,,,,,,,,MAH,Embaixo da prateleira,,,
+ML_2008_00077,"O grande jogo se aproxima e só agora
+ temos a escalação que vem com: Iemanjá; 
+ Boto, Piaimã, Iara e Mula-sem-cabeça; Saci-Pererê, 
+ Lobisomem, Maanape e Boi-bumbá; Curupira e 
+ Chico Bento. Se você não tiver medo fique com o 
+ bicho-papão no banco.",,,,,,,,,,,,,,,IEB,Embaixo do banco,,,
+ML_2008_00078,"Entre o jogo do rico e do pobre, o do pobre tem
+ público garantido. Venha assistir o dos pobres
+ mas cuidado para não pisar no molhado.",,,,,,,,,,,,,,,CAMPO CRUSP,Embaixo da janela do Crusp,,,
+ML_2008_00079,"Fui uma das primeiras formadas na minha faculdade
+ que também tinha o curso de Odonto, mas estive
+ longe de ser uma dentista. 
+ Procure atrás do meu diploma.",,,,,,,,,,,,,,,FARMÁCIA,Atrás do diploma,,,
+ML_2008_00080,"Era de virar a cabeça quantas coisas estranhas
+ haviam nesse quintal. Até mesmo Schummacher
+ diria anos atrás.",,,,,,,,,,,,,,,MAC,"Monumento de 
+ Simon Benneton",,,
+ML_2008_00081,,,,,,,,,,,,,,,,FOFITO,,,,
+ML_2008_00082,,,,,,,,,,,,,,,,PURA,Orelhão em frente,,,
+ML_2008_00083,Pau de alho entre as araucárias,,,,,,,,,,,,,,,PRAÇA DO RELÓGIO,Placa,,,
+ML_2008_00084,"camargo guarnieri
+ ver evento",,,,,,,,,,,,,,,"ANFITEATRO DE 
+ CONVENÇÕES",Porta?,,,
+ML_2008_00085,"Gulliver continuou andando embriagado e deixou um 
+ rastro de ruínas. Procure pela fiação exposta.",,,,,,,,,,,,,,,PRAÇA DO RELÓGIO,Fio na pedra,,,
+ML_2008_00086,"Se Gulliver embriagado fosse acender o seu
+ cigarro ele provavelmente ia querer usar esse
+ cilindro como isqueiro.",,,,,,,,,,,,,,,COSEAS,Cilindro de gás,,,
+ML_2008_00087,Apague o fogo de Hiroshima,,,,,,,,,,,,,,,"CASA DE 
+ CULTURA 
+ JAPONESA",Hidrante,,,
+ML_2008_00088,Diretores da Poli,,,,,,,,,,,,,,,,-3091,,,
+ML_2008_00089,"(x+0)°
+ (x+1)¹
+ (x+1)²
+ => (x+1)³",,,,,,,,,,,,,,,QUÍMICA,3091-1331,,,
+ML_2008_00090,3556,,,,,,,,,,,,,,,TAXI USP,3091-3556,,,
+ML_2008_00091,,,,,,,,,,,,,,,,,Flâmula,,,
+ML_2008_00092,"Ao chegar em Lilliput, Gulliver foi derrubado e
+ amarrado. Isso só foi possível pq ele se assustou
+ ao ver tantos inimigos. Porém o que ele não sabia
+ é que era só a metade do que ele vira. 
+ Encontre o rastro de Gulliver.",,,,,,,,,,,,,,,REITORIA,Tampas Reitoria,,,
+ML_2008_00093,"Enquanto não sai o quentinho, vá ao banheiro
+ e procurar pelo gato risonho.",,,,,,,,,,,,,,,PADOCA CRUSP,Teto do banheiro,,,
+ML_2008_00094,"Rafael, Leonardo, Donatello e Michelangelo,
+ escondidos reclamando de dor no nariz.",,,,,,,,,,,,,,,CHAFARIZ,Grade esgoto,,,
+ML_2008_00095,"Para sua segurança, estacione de Ré",,,,,,,,,,,,,,,IPEN,Atrás da placa,,,
+ML_2008_00096,"comfissão
+ some com
+ bustão",,,,,,,,,,,,,,,IPEN,Bomba de combustível,,,
+ML_2008_00097,"** Anubis **
+ Preste atenção no que esse Deus faz. Na cena em que
+ ele embala, leia na quarta linha a segunda figura.
+ O que você procura está ao lado desse objeto.",,,,,,,,,,,,,,,MAE,Do lado do vaso,,,
+ML_2008_00098,"** simbolos **
+ No meio de tantas antigas civilizações, uma lhe
+ indicará o ponto de origem. Saia do templo, procure
+ a origem em outro lugar, e à partir dela ande 50
+ passos e pare para descansar.",,,,,,,,,,,,,,,RELÓGIO DE SOL,Banco,,,
+ML_2008_00099,Essa escada liga o vírus com os linfócitos.,,,,,,,,,,,,,,,ICB,,,,
+ML_2008_00100,"27/10/1931
+ Avenida Escola Politécnica",,,,,,,,,,,,,,,ADM POLI,"Debaixo do calendário
+ segundo andar",,,
+ML_2008_00101,Essa não deveria mas ela olha pro outro lado.,,,,,,,,,,,,,,,ADM POLI,Minerva entrada Adm Poli,,,
+ML_2008_00102,"Ao usar o computador, vá lá fora e peça por
+ atendimento badalando o que algum imbecil
+ colou na parede. 
+ Na verdade esse imbecil fez um registro apenas.",,,,,,,,,,,,,,,CIVIL,Registro na Civil,,,
+ML_2008_00103,Abelha page no estado de colméia,,,,,,,,,,,,,,,CIRQUINHO,Atrás da placa de bronze,,,
+ML_2008_00104,Capim aterrorizante,,,,,,,,,,,,,,,"HOSPITAL 
+ VETERINÁRIO","Embaixo do container onde
+ tá escrito",,,
+ML_2008_00105,"Se a mula-sem-cabeça pudesse, ela usaria
+ óculos.",,,,,,,,,,,,,,,"HOSPITAL 
+ VETERINÁRIO",Oftalmologia animal,,,
+ML_2008_00106,"À partir das orelhas amigas Nipo-brasileiras
+ caminhe entre a luz, e siga até encontrar um RG
+ perdido que lhe indicará a direção do canarinho
+ fujão.",,,,,,,,,,,,,,,"MONUMENTO 
+ BRASIL JAPÃO",Placa da trilha,,,
+ML_2008_00107,"Parabéns, vc acaba de encontrar um monumento
+ que sela a eterna amizade entre Brasil e Japão.
+ Mas esse não é o único. Onde estará esse outro?
+ A resposta nipo-brasileira está na ponta da língua.",,,,,,,,,,,,,,,"MONUMENTO 
+ BRASIL JAPÃO 2",Monumento Odonto,,,
+ML_2008_00108,"À esquerda da África está a Austrália e à direita
+ está a terra roxa estruturada. Cuidado para não
+ ser abduzido.",,,,,,,,,,,,,,,FFLCH,No vidro acima,,,
+ML_2008_00109,"No meio do matagal um detergente amarelo que
+ acompanha crianças de 1° e 2° graus.",,,,,,,,,,,,,,,BIOLOGIA,Atrás da placa,,,
+ML_2008_00110,"Acerca do tempo vemos que a diversão está
+ na nossa herança.",,,,,,,,,,,,,,,"BIOLOGIA 
+ GENOMA","Cerca em frente ao 
+ escorregador",,,
+ML_2008_00111,"E no sétimo dia, Armando Salles de Oliveira ao lado
+ de uma Dama, disse:
+ ""Faça-se a Luz""",,,,,,,,,,,,,,,"SUB ESTAÇÃO
+ PIONEIRA","Entrada da 
+ sub estação",,,
