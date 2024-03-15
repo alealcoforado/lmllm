@@ -14,7 +14,7 @@ Abaixo estarão algumas pistas e o exemplo de resolução da pista, junto com o 
 ||Pista: casoEnsolarado | Explicação: A pista está escrita em camelCase, Ensolarado leva a FAU. Camelo é sinonimo para bicicleta em vários estados do Brasil. | Macro: FAU | Micro: Bicicletário
 ||Pista: Zero a esquerda e 1308 donas? Menos... com um zero a esquerda só cinquenta bastam | Explicação: 01308-050 CEP - Rua Dona Adma Jafet - > Auditório na Física | Macro: IF | Micro: Auditório Adma Jafet
 A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
@@ -22,30 +22,21 @@ A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na w
 
 Vamos analisar essa pista passo a passo:
 
-1. "CA Bauru": CA provavelmente se refere a Companhia Agrícola de Bauru, uma empresa que atuava na região de Bauru, interior de São Paulo.
+1. "Tentei subir até o novo comunista que veio de fora": 
+   - Isso parece se referir a algum prédio ou local na USP relacionado a um "novo comunista que veio de fora".
+   - Uma possível interpretação é que isso se refere ao Prédio da Engenharia Civil, que foi projetado pelo arquiteto Oscar Niemeyer, que tinha ideias políticas de esquerda.
 
-2. "foda": Essa palavra tem um significado informal e gíria, que pode ser interpretado como "muito bom/excelente".
+2. "mas cansei bem no começo":
+   - Essa parte da pista pode estar se referindo ao local específico onde a próxima pista será encontrada, possivelmente algo que exija um esforço físico no "começo" da subida.
 
-Portanto, a pista parece estar se referindo a algo relacionado à Companhia Agrícola de Bauru, que é considerado "muito bom" ou "excelente".
+Portanto, minha sugestão de resolução é:
 
-Analisando o contexto do jogo "caça ao tesouro" da Escola Politécnica da USP, podemos fazer as seguintes associações:
+Macro: Prédio da Engenharia Civil (relacionado ao "novo comunista que veio de fora", Oscar Niemeyer)
+Micro: Algo que exija esforço físico no começo da subida, como uma escada ou rampa, por exemplo.
 
-Macro: Provavelmente algo relacionado à Agronomia ou Engenharia Agrícola, já que a Companhia Agrícola de Bauru está envolvida.
+Então, a próxima pista provavelmente estará em algum ponto da escada ou rampa de acesso ao Prédio da Engenharia Civil.
 
-Micro: Pode ser algum local específico dentro da Escola Politécnica ou da USP que tenha relação com a Companhia Agrícola de Bauru ou com a agricultura/agronomia.
-
-Algumas possibilidades de Macro e Micro:
-
-Macro: Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ) - campus da USP em Piracicaba, que tem forte ligação com a agricultura.
-
-Micro: Algum laboratório, espaço ou instalação relacionada à agricultura/agronomia dentro da ESALQ.
-
-Portanto, minha sugestão de resolução da pista é:
-
-Macro: ESALQ
-Micro: Algum laboratório, espaço ou instalação relacionada à agricultura/agronomia dentro da ESALQ.
-
-Você concorda com essa análise? Caso tenha alguma dúvida ou precise de mais informações, fique à vontade para perguntar.
+Você concorda com essa interpretação? Tem alguma outra sugestão de como resolver essa pista?
 
 
 ============ USER ============
@@ -54,84 +45,26 @@ Você concorda com essa análise? Caso tenha alguma dúvida ou precise de mais i
 Vamos aprofundar nosso raciocínio. Baseado no que falamos anteriormente, vamos investigar o método de resolução abaixo:Links no site da CO ou referências a eventos ou itens específicos daquele ano da gincana IntegraPoli
 - links que precisam ser acessados através de encurtadores
 - Interação com determinadas interfaces específicas do IntegraPoli em curso
-Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Quem não cola não sai da escola | Explicação: a pista tem um código nela que copia na area de transferencia de quem ve no site a frase "a não ser que você atue bem", levando pra escola de artes dramaticas. Sobre saída, deixa no micro placa de rua sem saída | Macro: ECA | Micro: Placa de rua sem saída no teatro laboratorio
+Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Não tem de leite em pó? Então manda cinco do normal que eu vou buscar | Explicação: Referencia direta ao video, em que a "infiltrada" pede de lite em pó e eles ficam repetindo isso sem parar | Macro: CRUSP | Micro: Local do video sobre brisadeiro da USP (frente do bandeco central)
 ||Pista: Esses nossos novos cachorros estão muito careiros... Reabastece o estoque pra mim? | Explicação: nossos Cachorros do futuro -> nossos Pets do futuro -> nossos NeoPets -> Conta da CO no neopets Estão muito careiros-> indica loja do usuário, que terá apenas um produto chamado "queijinho" | Macro: IQ | Micro: Queijinho
-||Pista: Depois de muito ver seu jogo, a ex namorada copiou seu teatro, agora também no lado mais exato pra ficar de vigia. | Explicação: Atuação no jogo —> Neymar caindo. Ex-namorada—> Bruna Marquezine —> marquise que caiu. Lado exato—> exatas —> engenharia (e não o lado da farmácia) | Macro: PQI | Micro: Guarita PQI
+||Pista: Quem não cola não sai da escola | Explicação: a pista tem um código nela que copia na area de transferencia de quem ve no site a frase "a não ser que você atue bem", levando pra escola de artes dramaticas. Sobre saída, deixa no micro placa de rua sem saída | Macro: ECA | Micro: Placa de rua sem saída no teatro laboratorio
 ||Pista: 27? Aqui é onde mais tem, mas eu quero a de fora no meio | Explicação: 27 = Item 27 = Roleta = Rotatoria. Aqui é onde mais tem = local na usp com 3 rotatorias próximas uma das outras. A de fora = americano, no meio = poste do meio | Macro: Praça Jorge Americano | Micro: Poste do meio
-||Pista: Não tem de leite em pó? Então manda cinco do normal que eu vou buscar | Explicação: Referencia direta ao video, em que a "infiltrada" pede de lite em pó e eles ficam repetindo isso sem parar | Macro: CRUSP | Micro: Local do video sobre brisadeiro da USP (frente do bandeco central)A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+||Pista: Depois de muito ver seu jogo, a ex namorada copiou seu teatro, agora também no lado mais exato pra ficar de vigia. | Explicação: Atuação no jogo —> Neymar caindo. Ex-namorada—> Bruna Marquezine —> marquise que caiu. Lado exato—> exatas —> engenharia (e não o lado da farmácia) | Macro: PQI | Micro: Guarita PQIA pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
 
 
-Entendi, agora com essa explicação adicional sobre o método de resolução das pistas, posso analisar melhor a pista "CA Bauru foda".
 
-Vamos seguir o raciocínio:
-
-1. "CA Bauru": Como mencionado anteriormente, isso provavelmente se refere à Companhia Agrícola de Bauru.
-
-2. "foda": Essa palavra gíria indica que algo relacionado à CA Bauru é "muito bom/excelente".
-
-Analisando o método de resolução:
-- Pode haver links no site da CO (Companhia Agrícola?) ou referências a eventos/itens específicos de algum ano da gincana IntegraPoli.
-- Pode haver links que precisam ser acessados através de encurtadores.
-- Pode haver interação com interfaces específicas do IntegraPoli.
-
-Portanto, minha análise é:
-
-Macro: Algo relacionado à Companhia Agrícola de Bauru, possivelmente na ESALQ (Escola Superior de Agricultura "Luiz de Queiroz") ou em outro local da USP com forte ligação à agricultura.
-
-Micro: Provavelmente um link encurtado, uma interface específica do IntegraPoli ou alguma referência a um evento/item da gincana IntegraPoli relacionado à CA Bauru.
-
-Algumas possibilidades:
-- Link encurtado para uma página/informação sobre a CA Bauru no site da CO.
-- Interação com uma interface do IntegraPoli que tenha relação com a CA Bauru.
-- Referência a um evento/item da gincana IntegraPoli que envolva a CA Bauru.
-
-Você concorda com essa análise? Tem alguma outra sugestão de como resolver essa pista?
 
 
 ============ USER ============
 
 
-Sintetize as hipóteses levantadas até aqui, e  escreva um vetor (python list) de JSONs com chaves 'macro', 'explicação' (resumida) e 'micro' (quando houver)
+
 
 
 ========== ASSISTANT ==========
 
 
-Baseado nas análises feitas até aqui, segue um vetor (lista Python) de dicionários JSON com as hipóteses de resolução das pistas:
-
-[
-    {
-        "macro": "ESALQ",
-        "explicação": "A pista 'CA Bauru foda' provavelmente se refere a algo relacionado à Companhia Agrícola de Bauru, que pode ter alguma ligação com a ESALQ (Escola Superior de Agricultura 'Luiz de Queiroz') da USP.",
-        "micro": "Pode ser um link encurtado, uma interface específica do IntegraPoli ou uma referência a um evento/item da gincana IntegraPoli relacionado à CA Bauru."
-    },
-    {
-        "macro": "ECA",
-        "explicação": "A pista 'Quem não cola não sai da escola' tem um código que copia a frase 'a não ser que você atue bem', levando à Escola de Artes Dramáticas (ECA).",
-        "micro": "Placa de rua 'sem saída' no teatro laboratório."
-    },
-    {
-        "macro": "IQ",
-        "explicação": "A pista 'Esses nossos novos cachorros estão muito careiros... Reabastece o estoque pra mim?' se refere à conta da CO (Companhia Agrícola?) no Neopets, com um produto chamado 'queijinho'.",
-        "micro": "Produto 'queijinho' na loja do usuário no Neopets."
-    },
-    {
-        "macro": "PQI",
-        "explicação": "A pista 'Depois de muito ver seu jogo, a ex namorada copiou seu teatro, agora também no lado mais exato pra ficar de vigia.' se refere à Engenharia (lado exato), com a guarita do PQI (Prédio de Química e Informática).",
-        "micro": "Guarita do PQI."
-    },
-    {
-        "macro": "Praça Jorge Americano",
-        "explicação": "A pista '27? Aqui é onde mais tem, mas eu quero a de fora no meio' se refere à Rotária, com a de fora (americano) no meio.",
-        "micro": "Poste do meio na Praça Jorge Americano."
-    },
-    {
-        "macro": "CRUSP",
-        "explicação": "A pista 'Não tem de leite em pó? Então manda cinco do normal que eu vou buscar' é uma referência direta a um vídeo sobre brisadeiro da USP, localizado na frente do Bandeco Central do CRUSP.",
-        "micro": "Frente do Bandeco Central do CRUSP."
-    }
-]

@@ -14,7 +14,7 @@ Abaixo estarão algumas pistas e o exemplo de resolução da pista, junto com o 
 ||Pista: casoEnsolarado | Explicação: A pista está escrita em camelCase, Ensolarado leva a FAU. Camelo é sinonimo para bicicleta em vários estados do Brasil. | Macro: FAU | Micro: Bicicletário
 ||Pista: Zero a esquerda e 1308 donas? Menos... com um zero a esquerda só cinquenta bastam | Explicação: 01308-050 CEP - Rua Dona Adma Jafet - > Auditório na Física | Macro: IF | Micro: Auditório Adma Jafet
 A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
@@ -22,24 +22,24 @@ A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na w
 
 Vamos analisar essa pista passo a passo:
 
-1. "CA Bauru" - Isso provavelmente se refere a Companhia Agrícola de Bauru, uma empresa que atuava na área de saneamento e engenharia no estado de São Paulo.
+1. "Tentei subir até o novo comunista que veio de fora":
+   - Essa parte da pista provavelmente se refere a algum prédio ou local da USP que tenha relação com um "novo comunista que veio de fora".
+   - Podemos pesquisar se houve algum professor ou pesquisador comunista que tenha vindo de fora para trabalhar na USP recentemente.
 
-2. "foda" - Essa palavra é gíria e significa algo muito bom, impressionante.
+2. "mas cansei bem no começo":
+   - Essa parte da pista pode estar se referindo ao local específico onde a próxima pista será encontrada, possivelmente um local que exige algum esforço físico para chegar, como subir escadas.
 
-Então, a pista parece estar se referindo a algo relacionado à Companhia Agrícola de Bauru que é considerado muito impressionante ou importante.
+Analisando a pista como um todo, algumas possíveis interpretações:
 
-Analisando o contexto do jogo da caça ao tesouro da Escola Politécnica da USP, podemos fazer as seguintes associações:
+Macro: Algum prédio ou local da USP relacionado a um "novo comunista que veio de fora", talvez um instituto ou departamento.
 
-Macro: Talvez a pista esteja se referindo a algum prédio, instituto ou local da USP que tenha relação com a Companhia Agrícola de Bauru, como por exemplo o Departamento de Engenharia Hidráulica e Sanitária da Poli.
+Micro: O local específico onde a próxima pista será encontrada, possivelmente um lugar que exige subir escadas ou algum esforço físico.
 
-Micro: O local específico onde deveremos encontrar a próxima pista pode estar relacionado a algo impressionante ou importante ligado à Companhia Agrícola de Bauru dentro desse Macro, como por exemplo uma placa, monumento ou obra de arte.
+Algumas perguntas que podem ajudar a esclarecer:
+- Você sabe se houve algum professor ou pesquisador comunista que tenha vindo de fora para trabalhar na USP recentemente?
+- Você tem alguma informação sobre locais na USP que exigem subir escadas ou algum esforço físico para chegar?
 
-Portanto, minha sugestão de resolução dessa pista seria:
-
-Macro: Departamento de Engenharia Hidráulica e Sanitária da Poli
-Micro: Alguma placa, monumento ou obra de arte relacionada à Companhia Agrícola de Bauru nesse departamento.
-
-O que você acha? Precisa de mais alguma informação para tentar resolver essa pista?
+Com essas informações, podemos tentar chegar a uma explicação mais completa da pista e identificar o Macro e o Micro onde a próxima pista deve estar.
 
 
 ============ USER ============
@@ -48,34 +48,69 @@ O que você acha? Precisa de mais alguma informação para tentar resolver essa 
 Vamos aprofundar nosso raciocínio. Baseado no que falamos anteriormente, vamos investigar o método de resolução abaixo:Referências a locais externos à Cidade Universitária
 - Referências que não se encaixem perfeitamente ou diretamente a um local físico da Cidade Universitária, mas que se relacione com o texto da pista ou possa ter um análogo dentro da Cidade Universitária
 - Obra no canteiro central da Av. 23 de Maio, autora Tomie Ohtake. É fora do campus, mas escultura remete a imigração japonesa que remete à Casa de Cultura Japonesa, dentro da Cidade Universitária
-Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: 3091-0001 | Explicação: 3091 remete aos telefones da USP 
- (ramais da USP). 
- 0001 referencia a algo que seja o número 1, ou principal/central. | Macro: CENTRAL TELEFÔNICA 
- DA USP | Micro: Porta
-||Pista: Certeza que esses jovens compram drogas... | Explicação: FARMUSP no CRUSP | Macro: CRUSP | Micro: FARMUSP
+Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Fui do Residencial Fasano direto para a escola ali na Coronel Albino Rêgo, e então virei a direita para conseguir subir | Explicação: Residencial Fasano = na rua antonio barros ulhoa cintra (nome de rua da usp) / Escola na Coronel Albino Rego = tem o mesmo nome da rua dos fundos da vet (gabriel teixeira)/ virei a direita = rua intersetorial (virando a direita entre as duas ruas tem a rua intersetorial, que tem uma escada de concreto) | Macro: Rua Intersetorial (ao lado da rua dos fundos da vet) | Micro: Escada na rua
+||Pista: Sob ângulo algum o fluxo desse jardim pasteurizado pode ser calculado divergentemente | Explicação: "Sob ângulo algum" ambíguo (significa tanto que não da pra calcular pelo teorema da divergência quanto que está sob um dos ângulos) "fluxo" e "divergentemente" é pra encaminhar pro teorema da divergência, pasteurizado joga pra química (pasteur foi um quimico e tem a associação leite-queijo, queijinho), o jardim que eles tem que procurar não tem uma das arestas e portanto "precisaria ser fechado para utilizar o teorema da divergência" | Macro: IQ | Micro: Jardim do IQ, no jardim tringular com um triângulo sem uma das arestas
+||Pista: Chaves não vai poder morar na vila do presidente, se ela realmente existir! Vamos procurar uma entrada em outro local de mesmo autor. | Explicação: Vila do presidente que não pode entrar mexicano = Villa Trump. Arquiteto era o Gasperini, mesmo arquiteto do Lame. | Macro: FAU | Micro: Lame
 ||Pista: C:\Network\poli_junior @ 4-25-91 6:51:21 3.058 FIREWALL ONLINE | Explicação: C:\Network\poli_junior > CNPJ; 42.591.651/2130-58 > McDonalds da Alvarenga; Firewall > muro atrás do McDonalds da Alvarenga, próximo à CPTM | Macro: N/A | Micro: Muro atrás do Mc/CPTM
-||Pista: Fui do Residencial Fasano direto para a escola ali na Coronel Albino Rêgo, e então virei a direita para conseguir subir | Explicação: Residencial Fasano = na rua antonio barros ulhoa cintra (nome de rua da usp) / Escola na Coronel Albino Rego = tem o mesmo nome da rua dos fundos da vet (gabriel teixeira)/ virei a direita = rua intersetorial (virando a direita entre as duas ruas tem a rua intersetorial, que tem uma escada de concreto) | Macro: Rua Intersetorial (ao lado da rua dos fundos da vet) | Micro: Escada na rua
-||Pista: Moro no maior vizinho da Europa, no número 9, décima casa. | Explicação: Moro no maior vizinho da Europa, no número 9, décima casa.
- 
-
- Maior vizinho da Europa (lua Europa) > Jupiter > Jupiterweb
- Instituto de numero 9 no Jupiterweb > Farma
- Décima casa > Bloco 10 | Macro: Farmácia | Micro: Bloco 10A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+||Pista: Certeza que esses jovens compram drogas... | Explicação: FARMUSP no CRUSP | Macro: CRUSP | Micro: FARMUSPA pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
 
 
+Analisando a pista "Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo", podemos fazer as seguintes deduções:
 
+1. "Novo comunista que veio de fora":
+   - Isso provavelmente se refere a algum professor ou pesquisador comunista que tenha vindo de outro país para trabalhar na USP recentemente.
+   - Algumas possibilidades:
+     - Algum professor visitante do exterior que tenha ideias comunistas.
+     - Algum pesquisador estrangeiro com viés comunista que tenha ingressado na USP.
+
+2. "Tentei subir até":
+   - Essa parte da pista indica que o local onde a próxima pista está escondida exige subir alguma coisa, provavelmente escadas.
+   - Isso corrobora com a informação de que o local é difícil de chegar, pois a pessoa "cansou bem no começo".
+
+Macro: O local relacionado ao "novo comunista que veio de fora", possivelmente algum instituto, departamento ou prédio da USP que tenha recebido recentemente um professor ou pesquisador com ideias comunistas.
+
+Micro: O local específico onde a próxima pista está escondida, provavelmente um lugar que exige subir escadas ou algum esforço físico para chegar.
+
+Algumas perguntas que podem ajudar a esclarecer:
+- Você sabe se houve algum professor ou pesquisador comunista que tenha vindo de fora para trabalhar na USP recentemente?
+- Você tem conhecimento de algum local na USP que exija subir escadas ou algum esforço físico para chegar?
+
+Com essas informações, podemos tentar chegar a uma explicação mais completa da pista e identificar o Macro e o Micro onde a próxima pista deve estar.
 
 
 ============ USER ============
 
 
-
+Sintetize as hipóteses levantadas até aqui, e  escreva um vetor (python list) de JSONs com chaves 'macro', 'explicação' (resumida) e 'micro' (quando houver)
 
 
 ========== ASSISTANT ==========
 
 
+Baseado nas análises feitas, podemos sintetizar as seguintes hipóteses:
+
+1. Macro: Algum prédio, instituto ou departamento da USP que tenha recebido recentemente um professor ou pesquisador com ideias comunistas que veio de fora.
+   Explicação: A pista menciona um "novo comunista que veio de fora", então o Macro provavelmente se refere a um local da USP relacionado a esse novo professor/pesquisador.
+
+2. Micro: Um local específico dentro do Macro que exija subir escadas ou algum esforço físico para chegar.
+   Explicação: A pista diz que a pessoa "tentou subir até" o local, mas "cansou bem no começo", indicando que o Micro é um lugar de difícil acesso.
+
+Consolidando essas hipóteses em um vetor de JSONs:
+
+respostas = [
+    {
+        "macro": "Algum prédio, instituto ou departamento da USP que tenha recebido recentemente um professor ou pesquisador com ideias comunistas que veio de fora",
+        "explicacao": "A pista menciona um 'novo comunista que veio de fora', então o Macro provavelmente se refere a um local da USP relacionado a esse novo professor/pesquisador."
+    },
+    {
+        "macro": "N/A",
+        "micro": "Um local específico dentro do Macro que exija subir escadas ou algum esforço físico para chegar",
+        "explicacao": "A pista diz que a pessoa 'tentou subir até' o local, mas 'cansou bem no começo', indicando que o Micro é um lugar de difícil acesso."
+    }
+]
+
+Essa estrutura de dados em Python (uma lista de dicionários) permite que você organize as hipóteses de Macro e Micro de forma clara e concisa. Caso haja novas informações ou pistas, você pode adicionar novos elementos a esse vetor.

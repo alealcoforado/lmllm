@@ -14,7 +14,7 @@ Abaixo estarão algumas pistas e o exemplo de resolução da pista, junto com o 
 ||Pista: casoEnsolarado | Explicação: A pista está escrita em camelCase, Ensolarado leva a FAU. Camelo é sinonimo para bicicleta em vários estados do Brasil. | Macro: FAU | Micro: Bicicletário
 ||Pista: Zero a esquerda e 1308 donas? Menos... com um zero a esquerda só cinquenta bastam | Explicação: 01308-050 CEP - Rua Dona Adma Jafet - > Auditório na Física | Macro: IF | Micro: Auditório Adma Jafet
 A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
@@ -22,22 +22,22 @@ A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na w
 
 Vamos analisar essa pista passo a passo:
 
-1. CA Bauru: CA provavelmente se refere a Companhia Agrícola de Bauru, uma empresa agrícola fundada na cidade de Bauru, interior de São Paulo.
+1. "Tentei subir até o novo comunista que veio de fora": 
+   - Isso provavelmente se refere a alguma pessoa importante que veio de fora para a USP.
+   - Uma possível referência é ao ex-reitor da USP, Vahan Agopyan, que é armênio e assumiu o cargo em 2018.
 
-2. foda: Essa palavra pode ter um significado de "excelente" ou "muito bom" no contexto informal e gíria.
+2. "mas cansei bem no começo":
+   - Essa parte da pista pode estar se referindo a algum local da USP onde é necessário subir escadas ou fazer algum esforço físico no início.
+   - Uma possível interpretação é que a pista esteja se referindo ao Prédio da Engenharia Civil, que fica no topo de uma colina e exige subir várias escadas para chegar até ele.
 
-Então, a pista parece estar se referindo a algo relacionado à Companhia Agrícola de Bauru, que é considerado "excelente" ou "muito bom".
+Portanto, a explicação da pista pode ser:
 
-Buscando informações na web, podemos encontrar que a Companhia Agrícola de Bauru tinha uma fazenda experimental na região de Bauru, onde realizava pesquisas e desenvolvimentos agrícolas.
+Macro: Prédio da Engenharia Civil
+Micro: Entrada principal do prédio, provavelmente algum elemento como uma placa ou totem que indique o nome do prédio.
 
-Portanto, acredito que o "macro" seja a Fazenda Experimental da Companhia Agrícola de Bauru, e o "micro" possa ser algum local específico dentro dessa fazenda, como um laboratório, estufa ou alguma outra instalação que tenha destaque ou seja considerada "foda" (excelente) dentro desse contexto.
+A pista parece estar se referindo a ter que subir até o Prédio da Engenharia Civil, que fica no alto de uma colina, e a pessoa "cansou bem no começo", o que pode indicar que o papel com a próxima pista esteja logo na entrada do prédio.
 
-Então, minha sugestão de resolução seria:
-
-Macro: Fazenda Experimental da Companhia Agrícola de Bauru
-Micro: Algum local específico dentro dessa fazenda, como um laboratório, estufa ou instalação considerada "excelente".
-
-Você concorda com essa análise? Tem alguma outra informação que possa me ajudar a refinar ainda mais a resolução dessa pista?
+Você concorda com essa interpretação? Precisa de alguma outra informação para tentar resolver essa pista?
 
 
 ============ USER ============
@@ -48,39 +48,50 @@ Vamos aprofundar nosso raciocínio. Baseado no que falamos anteriormente, vamos 
 - Manipulação de caracteres (anagrama, acrônimo, formatação como negrito, maiúsculas etc)
 - Desambiguação de siglas
 - Cacofonia (rima, aliteração…)
-Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Vou analisar se arde o Methiolate | Explicação: Methiolate -> ta faltando um R (Merthiolate) -> se arde, tirando o R fica Se ade -> SEADE. A fundação SEADE fica em frente ao conjunto das químicas e é uma fundação de análises estatísticas | Macro: Fundação SEADE | Micro: 
-||Pista: Marquei um x, um x, um x... Ou foram "5"? | Explicação: na praça "5" um dos prédios tem uma estrutura com 3 X de metal | Macro: Praça "5" | Micro: estruturas em x
+Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Moro no maior vizinho da Europa, no número 9, décima casa. | Explicação: Moro no maior vizinho da Europa, no número 9, décima casa.
+ 
+
+ Maior vizinho da Europa (lua Europa) > Jupiter > Jupiterweb
+ Instituto de numero 9 no Jupiterweb > Farma
+ Décima casa > Bloco 10 | Macro: Farmácia | Micro: Bloco 10
+||Pista: Para ganhar a Pole, você vai ter que parar de andar com os parentes do Aiub | Explicação: Pole -> P1, parentes do Monark -> bicicleta. Para de andar -> paraciclos | Macro: P1 | Micro: Paraciclos
 ||Pista: Vou correr na de baixo, saia do muro | Explicação: Vou correr > Fazer corre > São Remo. na de baixo > Portaria de baixo da São Remo. Saia do muro > Grafite no muro de uma pessoa saindo do muro ao lado da portaria da São Remo | Macro: Portaria de Pedestres São Remo | Micro: Muro com grafite ao lado da portaria
-||Pista: <i>Administrativus scalaris</i> | Explicação: forma de escrita remete a bilogia, e o conteúdo é Escada da Administração | Macro: Bio | Micro: Escada da Adm
-||Pista: CA Bauru foda | Explicação: anagrama | Macro: Fau | Micro: buracoA pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+||Pista: Ó, tenta 134721? Disse o apresentador. | Explicação: 80134721 no google da IO, apresentador do telejornal = âncora | Macro: IO | Micro: Âncora
+||Pista: Dentre pés de feijão, o terceiro da macedonia preferia aloe vera. | Explicação: Dentre pés de feijão faz referencia a João, o terceiro da macedonia a Alexandre e Aloe Vera a Babosa, portanto Joao Alexandre Barbosa, nome da livraria da Edusp na Brasiliana. Plantar na entrada? | Macro: Livraria EDUSP Brasiliana | Micro: EntradaA pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
 
 
-Entendi, vamos analisar essa pista usando o método de manipulação de caracteres, sons ou palavras.
+Entendi, vamos analisar essa pista com mais profundidade, levando em conta o padrão de resolução que você mencionou.
 
-Analisando a pista "CA Bauru foda":
+Analisando a pista:
 
-1. CA Bauru: Pode ser um anagrama ou abreviação de algo relacionado à Companhia Agrícola de Bauru.
+"Tentei subir até o novo comunista que veio de fora"
+- Isso pode ser uma referência a alguma pessoa importante que veio de fora para a USP e assumiu um cargo de liderança.
+- Uma possível interpretação é que seja uma referência ao ex-reitor da USP, Vahan Agopyan, que é armênio e assumiu o cargo em 2018.
 
-2. foda: Como mencionado anteriormente, essa palavra pode ter o significado de "excelente" ou "muito bom" no contexto informal.
+"mas cansei bem no começo"
+- Essa parte da pista pode estar se referindo a algum local da USP onde é necessário subir escadas ou fazer algum esforço físico no início.
+- Uma possível interpretação é que a pista esteja se referindo ao Prédio da Engenharia Civil, que fica no topo de uma colina e exige subir várias escadas para chegar até ele.
 
-Então, vamos tentar encontrar um anagrama ou abreviação que faça sentido dentro do contexto da Companhia Agrícola de Bauru e que possa ser considerado "excelente" ou "muito bom".
+Agora, analisando a pista com foco em manipulação de caracteres, sons ou palavras:
 
-Pesquisando na web, encontramos que a Companhia Agrícola de Bauru tinha uma Fazenda Experimental em Bauru, onde realizava pesquisas e desenvolvimentos agrícolas.
+"Tentei subir até o novo comunista que veio de fora"
+- Pode haver algum jogo de palavras ou trocadilho envolvendo o nome "Vahan Agopyan".
+- Por exemplo, "novo comunista" pode ser uma referência a "Vahan", que pode soar como "vai-han" (vai-han comunista).
 
-Portanto, acredito que o "macro" seja a Fazenda Experimental da Companhia Agrícola de Bauru.
-
-Agora, analisando a parte "foda", que significa "excelente" ou "muito bom", podemos inferir que o "micro" seja algum local específico dentro dessa fazenda que se destaque, como um laboratório, estufa ou instalação considerada "excelente" dentro desse contexto.
+"mas cansei bem no começo"
+- Essa parte pode estar se referindo a algum elemento visual ou sonoro relacionado à entrada do Prédio de Engenharia Civil.
+- Por exemplo, pode haver algum jogo de palavras ou cacofonia envolvendo o nome do prédio ou algum elemento visual/sonoro na entrada.
 
 Então, minha sugestão de resolução seria:
 
-Macro: Fazenda Experimental da Companhia Agrícola de Bauru
-Micro: Algum local específico dentro dessa fazenda, como um laboratório, estufa ou instalação considerada "excelente".
+Macro: Prédio de Engenharia Civil
+Micro: Algum elemento visual ou sonoro na entrada do prédio, como uma placa, totem ou até mesmo uma escultura, que possa estar relacionado a um jogo de palavras ou cacofonia envolvendo o nome do prédio ou do ex-reitor Vahan Agopyan.
 
-Você concorda com essa análise? Tem alguma outra informação que possa me ajudar a refinar ainda mais a resolução dessa pista?
+Você concorda com essa análise? Tem alguma outra sugestão de como essa pista poderia ser resolvida?
 
 
 ============ USER ============
@@ -92,51 +103,14 @@ Sintetize as hipóteses levantadas até aqui, e  escreva um vetor (python list) 
 ========== ASSISTANT ==========
 
 
-Certo, vamos sintetizar as hipóteses levantadas até aqui:
+Baseado nas análises feitas até aqui, segue um vetor (lista Python) de dicionários (JSONs) com as hipóteses de resolução da pista:
 
-1. Pista: "やめて！これが私の家, え? そうではない!"
-   - Explicação: Jogo sonoro para IEE ao final da frase. Negação de que não é a casa (CCJ).
-   - Macro: IEE
-   - Micro: Placa de Pare
-
-2. Pista: "O meu irmão vive junto ao descobridor, já eu tenho uma grande paixão pelo mar"
-   - Explicação: Descobridor = Pedro Alvares Cabral - Na avenida Pedro Alvares tem o MAC - USP do Ibirapuera. Paixão pelo mar = ultramarinho (obra no MAC).
-   - Macro: MAC
-   - Micro: Ultramarino
-
-3. Pista: "Se o peixe do sr. hacker fosse nativo brasileiro ele entenderia ecgh>iecfaei"
-   - Explicação: Sr. Hacker -> Mr. Robot, o peixe dele chama QWERTY. Existe um teclado chamado BR-Nativo. Fazendo a conversão da "sobre as ondas".
-   - Macro: Bio
-   - Micro: Edifício "Sobre as Ondas"
-
-4. Pista: "Entre o marechal e a república, ele nos deu a obra de sua linha do seu ritmo e vibração"
-   - Explicação: Entre as estações Marechal Deodoro e República é a estação Santa Cecília do metrô. Trilho, Ritmo e Vibração é uma arte do Caciporé Torres nesta estação. Rei é para indicar que é a escultura do Torres que está na Reitoria.
-   - Macro: Reitoria Nova
-   - Micro: "AConstrução"/Caciporé Torres
-
-5. Pista: "Olhando a família e educação é notável que uma Boa Ideia do MEC passou a infância e adolescência entre a capital e a bela chuva"
-   - Explicação: Boa ideia leva a 51. O 51º ministro do MEC é José Mendonça B. Filho. Olhando o perfil dele no Wikipedia na seção "família e educação" a frase está "viveu entre a capitão e belo jardim". Jardim + Chuva.
-   - Macro: Hidráulica
-   - Micro: Jardim de Chuva
-
-6. Pista: "casoEnsolarado"
-   - Explicação: A pista está escrita em camelCase, Ensolarado leva a FAU. Camelo é sinônimo para bicicleta em vários estados do Brasil.
-   - Macro: FAU
-   - Micro: Bicicletário
-
-7. Pista: "Zero a esquerda e 1308 donas? Menos... com um zero a esquerda só cinquenta bastam"
-   - Explicação: 01308-050 CEP - Rua Dona Adma Jafet - > Auditório na Física.
-   - Macro: IF
-   - Micro: Auditório Adma Jafet
-
-8. Pista: "CA Bauru foda"
-   - Explicação: Anagrama ou abreviação de algo relacionado à Companhia Agrícola de Bauru, que tinha uma Fazenda Experimental considerada "excelente" ou "muito boa".
-   - Macro: Fazenda Experimental da Companhia Agrícola de Bauru
-   - Micro: Algum local específico dentro dessa fazenda, como um laboratório, estufa ou instalação considerada "excelente".
-
-Aqui está o vetor (lista Python) de dicionários (JSONs) com as informações sintetizadas:
-
-pistas = [
+[
     {
-        "macro": "IEE",
-        "explicacao": "Jogo sonoro para IEE ao
+        "macro": "Prédio de Engenharia Civil",
+        "explicação": "A pista faz referência ao ex-reitor Vahan Agopyan, que é armênio e assumiu o cargo em 2018. A menção de 'subir até o novo comunista que veio de fora' pode ser um jogo de palavras com o nome 'Vahan'. A segunda parte da pista, 'mas cansei bem no começo', provavelmente se refere à necessidade de subir várias escadas para chegar ao Prédio de Engenharia Civil, que fica no topo de uma colina.",
+        "micro": "Algum elemento visual ou sonoro na entrada do prédio, como uma placa, totem ou escultura, que possa estar relacionado a um jogo de palavras ou cacofonia envolvendo o nome do prédio ou do ex-reitor Vahan Agopyan."
+    }
+]
+
+Essa é a síntese das hipóteses levantadas até o momento. Caso você tenha alguma outra sugestão ou comentário, fique à vontade para compartilhar.

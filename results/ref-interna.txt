@@ -14,7 +14,7 @@ Abaixo estarão algumas pistas e o exemplo de resolução da pista, junto com o 
 ||Pista: casoEnsolarado | Explicação: A pista está escrita em camelCase, Ensolarado leva a FAU. Camelo é sinonimo para bicicleta em vários estados do Brasil. | Macro: FAU | Micro: Bicicletário
 ||Pista: Zero a esquerda e 1308 donas? Menos... com um zero a esquerda só cinquenta bastam | Explicação: 01308-050 CEP - Rua Dona Adma Jafet - > Auditório na Física | Macro: IF | Micro: Auditório Adma Jafet
 A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
@@ -22,27 +22,22 @@ A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na w
 
 Vamos analisar essa pista passo a passo:
 
-1. "CA Bauru": CA provavelmente se refere a Companhia Agrícola de Bauru, uma empresa que atuava no interior de São Paulo no início do século 20. Bauru é uma cidade do interior paulista.
+1. "Tentei subir até o novo comunista que veio de fora":
+   - A menção a "novo comunista que veio de fora" pode ser uma referência a Mao Tsé-Tung, o líder comunista chinês.
+   - Isso pode estar relacionado ao Monumento a Mao Tsé-Tung, localizado no campus da USP.
 
-2. "foda": Essa palavra é gíria e significa algo muito bom, impressionante.
+2. "mas cansei bem no começo":
+   - Essa parte da pista pode estar se referindo ao fato de que o Monumento a Mao Tsé-Tung fica no topo de uma escadaria.
+   - Portanto, a pessoa que estava tentando subir até o monumento "cansou bem no começo", ou seja, no início da subida da escadaria.
 
-Então, a pista parece estar se referindo a algo relacionado à Companhia Agrícola de Bauru que é considerado muito bom ou impressionante.
+Então, a resolução dessa pista provavelmente leva ao:
 
-Analisando o contexto do jogo da caça ao tesouro da Escola Politécnica da USP, podemos fazer as seguintes associações:
+Macro: Monumento a Mao Tsé-Tung
+Micro: Escadaria do Monumento a Mao Tsé-Tung
 
-Macro: Talvez algo relacionado à Engenharia Agrícola ou Agronomia, já que a Companhia Agrícola de Bauru está envolvida.
+Nesse local, deve estar a próxima pista para a caça ao tesouro.
 
-Micro: Pode ser algum elemento ou local dentro da USP que tenha relação com a Companhia Agrícola de Bauru ou com a agricultura/agronomia e que seja considerado muito bom ou impressionante.
-
-Algumas possibilidades de Macro e Micro:
-
-Macro: Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ) - campus da USP em Piracicaba, que tem forte ligação com a agricultura.
-
-Micro: Algum laboratório, equipamento ou instalação notável da ESALQ que seja considerado "foda".
-
-Portanto, minha sugestão de resolução dessa pista seria procurar algo relacionado à ESALQ ou à agricultura na USP que seja considerado muito bom ou impressionante.
-
-Você concorda com essa linha de raciocínio? Precisa de mais alguma informação para tentar resolver essa pista?
+Você concorda com essa análise? Tem alguma outra interpretação ou informação adicional que possa ser relevante?
 
 
 ============ USER ============
@@ -53,69 +48,35 @@ Vamos aprofundar nosso raciocínio. Baseado no que falamos anteriormente, vamos 
 - pela história do local ou instituto, abrangendo sua criação, construção e consolidação, ou pela contribuição ou participação de um personagem na elaboração ou construção da localidade (ex.: governador que inaugurou algo, professor que criou algo…)
 - pelo Mascote do Centro Acadêmico ou Atlética do Curso
 - por referência a lugares notáveis da Cidade Universitária (ex.: Praça do Mickey, Praça do Bidê, Stonehenge…)
-Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Sob a cruz de São Jorge, o gigante walkie-talkie cospia fogo como um dragão | Explicação: Cruz de São Jorge é a bandeira da Inglaterra, existe um prédio na Inglaterra chamado Walkie Talkie que derreteu um carro. Ele é espelhado como o da Geo. | Macro: GEO | Micro: Prédio Espelhado
-||Pista: Vivia grudado ao muro próximo de Socrab, sentia que faltava um pedaço de si. Foi quando recebeu uma mensagem do seu consultor da fazenda: 4991902224892289434 | Explicação: Socrab ao contrário > barcos
- Vivia > bio > barcos da Bio
- Como Socrab está ao contrário, indica que o número também está > 4349822984222091994, que são um cpf e uma data de nascimento > 434.982.28-42 22/09/1994
- Consultor da fazenda > consultar cpf no site da receita federal, junto com a data de nascimento > Chapa
- Grudado ao muro próximo dos barcos da Bio, falta um pedaço de si > aqueles cartazes de "Chapa" pro DCE, que por acaso está rasgado e faltando um pedaço | Macro: Bio | Micro: Cartaz "Chapa" no prédio ao lado da adm
-||Pista: 30,48cm de paus. | Explicação: 30,48cm = 12 polegadas --> TV 12. Pau --> Floresta --> Florestan fernandes | Macro: FFLCH | Micro: Florestan
-||Pista: Nesse carnaval venha aqui curtir um bloco mas deixe seu machado na entrada. | Explicação: Referência a jovem ferida com golpes de machado num bloco da rua cipotânea, MG
- cipotânea é a rua da FOFITO | Macro: Rua cipotânea | Micro: Começo da rua, próximo a placa
-||Pista: Vladimir é lembrado junto a Ana Rosa. | Explicação: Vladimir e Ana Rosa são pessoas da comunidade USP cujos nomes estão sendo homenageados no Memorial. | Macro: Praça do relógio | Micro: Memorial da DitaduraA pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: A linha do bom pastor deveria ter mudado pra cá, pois é onde ficam hoje os seus moradores depois do 800. | Explicação: Rua Bom Pastor 800 é onde ficava a casa de Adma e Basílio Jafet. Hoje os prédios com os nomes dos dois ficam frente a frente, onde tem um orelhão. | Macro: IF | Micro: Orelhão Basílio Jafet
+||Pista: Da filha que nasceu junto com a mãe e que deu a luz a Arquimedes temos caracterizado um exemplo literal de um culto à língua de joaquim. | Explicação: A FFLCH foi criada junto com a usp e dela saiu o IME(arquimedes)
+ "deu a luz" faz referência a iluminação
+ "Caracterizado um Exemplo Literário de um Culto a Língua de joaquim" = centro de estudos das Literaturas e Culturas de Língua Portuguesa
+ https://www.fflch.usp.br/historia | Macro: FFLCH | Micro: Algo que remete a luz no Centro de Estudos das Literaturas e Culturas de Língua Portuguesa
+||Pista: Chamei o mais velho familiar de Besnard pro jantar sem Julieta. | Explicação: Pro jantar sem Julieta > Pro jantar - J > PROANTAR > IO
+ 
+
+ Besnard > Barco da expedição do IOUSP no PROANTAR
+ 
+
+ Mais velho familiar > barco mais antigo > Barco na frente do IO | Macro: IO | Micro: Barco
+||Pista: Sob a cruz de São Jorge, o gigante walkie-talkie cospia fogo como um dragão | Explicação: Cruz de São Jorge é a bandeira da Inglaterra, existe um prédio na Inglaterra chamado Walkie Talkie que derreteu um carro. Ele é espelhado como o da Geo. | Macro: GEO | Micro: Prédio Espelhado
+||Pista: Misteriosamente como chegou, também se foi. Talvez por água abaixo. | Explicação: Meio óbvia. Mistério como foi contruído o original e o da USP sumiu de repente. Água abaixo para olhar no cano da primeira escada entre patamares | Macro: Stonehenge | Micro: EscadaA pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
 
 
-Entendi, vamos aprofundar a análise dessa pista seguindo o método de resolução que você detalhou:
 
-Referências diretas a localidades físicas da Cidade Universitária:
-
-1. "CA Bauru": CA provavelmente se refere a Companhia Agrícola de Bauru, uma empresa histórica do interior de São Paulo. Bauru é uma cidade do interior paulista.
-
-2. "foda": Essa palavra é gíria e significa algo muito bom, impressionante.
-
-Então, a pista parece estar se referindo a algo relacionado à Companhia Agrícola de Bauru que é considerado muito bom ou impressionante dentro da Cidade Universitária da USP.
-
-Analisando as possibilidades:
-
-Macro: Algo relacionado à Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ) - campus da USP em Piracicaba, que tem forte ligação com a agricultura e a Companhia Agrícola de Bauru.
-
-Micro: Algum laboratório, equipamento, instalação ou obra notável da ESALQ que seja considerado "foda" pelos participantes da caça ao tesouro.
-
-Então, minha sugestão de resolução dessa pista seria procurar algo relacionado à ESALQ ou à agricultura na USP que seja considerado muito bom ou impressionante pelos estudantes.
-
-Algumas possibilidades de Macro e Micro:
-
-Macro: ESALQ
-Micro: Algum laboratório, espaço ou equipamento da ESALQ que seja destaque
-
-Você concorda com essa linha de raciocínio? Precisa de mais alguma informação para tentar resolver essa pista?
 
 
 ============ USER ============
 
 
-Sintetize as hipóteses levantadas até aqui, e  escreva um vetor (python list) de JSONs com chaves 'macro', 'explicação' (resumida) e 'micro' (quando houver)
+
 
 
 ========== ASSISTANT ==========
 
 
-Baseado no raciocínio desenvolvido, aqui estão as hipóteses sintetizadas em um vetor de dicionários (JSONs) com as chaves 'macro', 'explicação' e 'micro':
-
-hipoteses = [
-    {
-        'macro': 'ESALQ (Escola Superior de Agricultura "Luiz de Queiroz")',
-        'explicacao': 'A pista se refere a algo relacionado à Companhia Agrícola de Bauru, que é considerado muito bom ou impressionante. A ESALQ, campus da USP em Piracicaba, tem forte ligação com a agricultura, então é uma possível referência.',
-        'micro': 'Algum laboratório, espaço ou equipamento da ESALQ que seja destaque'
-    }
-]
-
-Essa é a hipótese principal, baseada na análise de que a pista "CA Bauru foda" está se referindo a algo da Cidade Universitária da USP que tenha relação com a Companhia Agrícola de Bauru e seja considerado muito bom ou impressionante.
-
-O 'macro' seria a ESALQ, por sua ligação com a agricultura. E o 'micro' seria algum elemento específico dentro da ESALQ que se destaque.
-
-Você concorda com essa síntese ou vê alguma outra hipótese que deveria ser considerada?

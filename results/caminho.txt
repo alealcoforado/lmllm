@@ -14,7 +14,7 @@ Abaixo estarão algumas pistas e o exemplo de resolução da pista, junto com o 
 ||Pista: casoEnsolarado | Explicação: A pista está escrita em camelCase, Ensolarado leva a FAU. Camelo é sinonimo para bicicleta em vários estados do Brasil. | Macro: FAU | Micro: Bicicletário
 ||Pista: Zero a esquerda e 1308 donas? Menos... com um zero a esquerda só cinquenta bastam | Explicação: 01308-050 CEP - Rua Dona Adma Jafet - > Auditório na Física | Macro: IF | Micro: Auditório Adma Jafet
 A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
@@ -22,22 +22,21 @@ A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na w
 
 Vamos analisar essa pista passo a passo:
 
-1. "CA Bauru" - CA provavelmente se refere a Companhia Agrícola, que é uma empresa de Bauru. Então essa parte da pista está se referindo a algo relacionado a Bauru.
+1. "Tentei subir até o novo comunista que veio de fora":
+   - O "novo comunista que veio de fora" pode ser uma referência a Mao Tsé-Tung, o líder comunista chinês.
+   - Isso pode estar relacionado ao Monumento a Mao Tsé-Tung, localizado no campus da USP.
 
-2. "foda" - Essa palavra geralmente é usada como gíria, significando algo muito bom ou impressionante.
+2. "mas cansei bem no começo":
+   - Essa parte da pista pode estar se referindo ao fato de que o Monumento a Mao Tsé-Tung fica no topo de uma escadaria, e subir essa escadaria pode ser cansativo.
 
-Então, juntando as duas partes, a pista parece estar se referindo a algo impressionante ou muito bom relacionado a Bauru.
+Portanto, a explicação da pista seria:
 
-Fazendo uma busca rápida, encontramos que a Escola Politécnica da USP tem um campus avançado em Bauru, chamado de Poli Bauru. E uma das coisas mais conhecidas e impressionantes desse campus é o CA Bauru, que é o Centro Acadêmico dos estudantes de Engenharia da Poli Bauru.
+Macro: Monumento a Mao Tsé-Tung
+Micro: Topo da escadaria do Monumento a Mao Tsé-Tung
 
-Portanto, acredito que a resolução dessa pista seja:
+Então, a próxima pista provavelmente estará localizada no topo da escadaria do Monumento a Mao Tsé-Tung.
 
-Macro: Poli Bauru
-Micro: Centro Acadêmico (CA) Bauru
-
-O papel com a próxima pista provavelmente estará escondido em algum local relacionado ao CA Bauru, dentro do campus da Poli Bauru.
-
-Você concorda com essa análise? Precisa de mais alguma informação?
+Você concorda com essa interpretação? Tem alguma dúvida ou sugestão?
 
 
 ============ USER ============
@@ -45,10 +44,7 @@ Você concorda com essa análise? Precisa de mais alguma informação?
 
 Vamos aprofundar nosso raciocínio. Baseado no que falamos anteriormente, vamos investigar o método de resolução abaixo:Caminhos ou Trajetória
 - Quando a pista descreve um caminho "descendo do circular 3, olhando a direita…"
-Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: - É aqui que passa o riozinho?- Se pá, hmm... não! Do outro lado! | Explicação: Rio Pequeno (Riozinho) é uma linha de ônibus que passa pela USP.
- "Se pá, hmm" é cacofonia de CEPAM, mas a linha de ônibus no ponto do CEPAM vai pro sentido contrário, então tem que pegar o ônibus do outro lado da avenida, no ponto da biblioteca da química. | Macro: CEPAM | Micro: Ponto de ônibus (outro lado da avenida)
-||Pista: O Butantã está aqui | Explicação: No Google Maps, a palavra "Butantã" cai exatamente na rotatória. | Macro: ROTATÓRIA JORGE AMERICANO | Micro: Poste na rotatória
-||Pista: Depois de fazer um canal láaaaaaa no fundo, me deparei com um pessoal ocupado. | Explicação: Canal - odonto, pessoal ocupado - terapia ocupacional, láaaaaaaaaaaa no fundo - nos fundos do estacionamento da odonto. | Macro: Odonto - Fofito | Micro: Escada entre elas
+Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Porra, dividiram o Chicão no meio! Pelo menos as duas partes ainda conseguem se encontrar... | Explicação: Chico - Rua Francisco dos Santos. Dividiram - muro (tem parte da rua dentro da USP e fora da USP). Partes se encontram pelo portão | Macro: Rua Francisco dos Santos | Micro: Portão de Pedestres
 ||Pista: Pense no faixa preta praticando Scuba Diving.
  Uma vez nele, procure pelo famoso gramado 
  dos empacotadores.
@@ -62,70 +58,27 @@ Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista
  Seguindo o caminho indicado, chega-se à "Nursery School Street".
  Nursery school é a tradução em inglês para as creches da USP. 
  Basta olhar as duas. Está na Creche Oeste. | Macro: CRECHE OESTE | Micro: Portão
-||Pista: Porra, dividiram o Chicão no meio! Pelo menos as duas partes ainda conseguem se encontrar... | Explicação: Chico - Rua Francisco dos Santos. Dividiram - muro (tem parte da rua dentro da USP e fora da USP). Partes se encontram pelo portão | Macro: Rua Francisco dos Santos | Micro: Portão de PedestresA pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+||Pista: O Butantã está aqui | Explicação: No Google Maps, a palavra "Butantã" cai exatamente na rotatória. | Macro: ROTATÓRIA JORGE AMERICANO | Micro: Poste na rotatória
+||Pista: Joga seu número na roda entre um e dois. | Explicação: Entre os portões 1 e 2 do CEPE
+ jogar leva ao cepe
+ número é de telefone | Macro: CEPE | Micro: Orelhão Telefônica no portão 1
+||Pista: - É aqui que passa o riozinho?- Se pá, hmm... não! Do outro lado! | Explicação: Rio Pequeno (Riozinho) é uma linha de ônibus que passa pela USP.
+ "Se pá, hmm" é cacofonia de CEPAM, mas a linha de ônibus no ponto do CEPAM vai pro sentido contrário, então tem que pegar o ônibus do outro lado da avenida, no ponto da biblioteca da química. | Macro: CEPAM | Micro: Ponto de ônibus (outro lado da avenida)A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
 
 
-Entendi, você está me dando mais contexto sobre o método de resolução das pistas, que envolve muitas vezes a descrição de caminhos ou trajetórias. Vamos analisar a pista atual com esse novo conhecimento:
 
-||Pista: CA Bauru foda
-
-Analisando essa pista:
-
-1. "CA Bauru" - Já havíamos concluído que isso se refere ao Centro Acadêmico (CA) da Poli Bauru.
-
-2. "foda" - Essa palavra indica que algo relacionado ao CA Bauru é muito impressionante ou bom.
-
-Então, a pista parece estar se referindo a algo muito impressionante ou bom relacionado ao Centro Acadêmico da Poli Bauru.
-
-Considerando o método de resolução de pistas por caminhos/trajetórias, podemos pensar que essa pista pode estar indicando um caminho ou trajetória até o local onde está escondida a próxima pista.
-
-Algumas possibilidades:
-
-Macro: Poli Bauru
-Micro: Entrada/Portão principal do CA Bauru
-
-Macro: Poli Bauru 
-Micro: Algum local específico dentro do CA Bauru (auditório, sala da diretoria, etc)
-
-Macro: Alguma rua/avenida que leva até a Poli Bauru
-Micro: Entrada/portão principal da Poli Bauru
-
-O que você acha? Você consegue pensar em alguma outra possibilidade baseada nesse método de resolução por caminhos/trajetórias? Precisa de mais alguma informação?
 
 
 ============ USER ============
 
 
-Sintetize as hipóteses levantadas até aqui, e  escreva um vetor (python list) de JSONs com chaves 'macro', 'explicação' (resumida) e 'micro' (quando houver)
+
 
 
 ========== ASSISTANT ==========
 
 
-Certo, vamos sintetizar as hipóteses levantadas até aqui em um vetor de JSONs:
-
-[
-  {
-    "macro": "Poli Bauru",
-    "explicacao": "A pista se refere ao Centro Acadêmico (CA) da Poli Bauru, que é algo muito impressionante ou bom relacionado a esse campus da USP.",
-    "micro": "Entrada/Portão principal do CA Bauru"
-  },
-  {
-    "macro": "Poli Bauru",
-    "explicacao": "A pista se refere ao Centro Acadêmico (CA) da Poli Bauru, que é algo muito impressionante ou bom relacionado a esse campus da USP.",
-    "micro": "Algum local específico dentro do CA Bauru (auditório, sala da diretoria, etc)"
-  },
-  {
-    "macro": "Alguma rua/avenida que leva até a Poli Bauru",
-    "explicacao": "A pista pode estar indicando um caminho ou trajetória até a Poli Bauru, onde a próxima pista estará escondida.",
-    "micro": "Entrada/portão principal da Poli Bauru"
-  }
-]
-
-Essas são as principais hipóteses que levantamos com base na pista "CA Bauru foda" e no método de resolução de pistas por caminhos/trajetórias. A explicação resume o raciocínio para cada hipótese, e o "micro" indica o local específico dentro do "macro" onde a próxima pista provavelmente estará escondida.
-
-Você concorda com essa síntese? Precisa de alguma alteração ou adição?

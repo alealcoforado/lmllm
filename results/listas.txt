@@ -14,7 +14,7 @@ Abaixo estarão algumas pistas e o exemplo de resolução da pista, junto com o 
 ||Pista: casoEnsolarado | Explicação: A pista está escrita em camelCase, Ensolarado leva a FAU. Camelo é sinonimo para bicicleta em vários estados do Brasil. | Macro: FAU | Micro: Bicicletário
 ||Pista: Zero a esquerda e 1308 donas? Menos... com um zero a esquerda só cinquenta bastam | Explicação: 01308-050 CEP - Rua Dona Adma Jafet - > Auditório na Física | Macro: IF | Micro: Auditório Adma Jafet
 A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
@@ -22,33 +22,23 @@ A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na w
 
 Vamos analisar essa pista passo a passo:
 
-1. "CA Bauru" - CA provavelmente se refere a Companhia Agrícola, que é uma empresa de Bauru. Então essa parte da pista está indicando algo relacionado a Bauru.
+1. "Tentei subir até o novo comunista que veio de fora":
+   - Isso provavelmente se refere a algum prédio ou local na USP relacionado a um "novo comunista que veio de fora".
+   - Uma possível interpretação é que isso se refere ao Prédio da Engenharia Elétrica (PEE), que fica no campus da USP.
+   - O "novo comunista que veio de fora" pode ser uma referência a Mao Tsé-Tung, líder comunista chinês, que influenciou muito os movimentos comunistas no mundo.
 
-2. "foda" - Essa palavra é gíria e significa algo muito bom, excelente. Então essa parte da pista está qualificando algo de Bauru como algo muito bom.
+2. "mas cansei bem no começo":
+   - Essa parte da pista pode estar se referindo ao local específico onde a próxima pista será encontrada, dentro do Prédio da Engenharia Elétrica (PEE).
+   - Uma possível interpretação é que a pista esteja escondida logo na entrada do prédio, ou em algum local de fácil acesso, onde a pessoa "cansou bem no começo" da busca.
 
-Portanto, a interpretação geral da pista é que algo relacionado a Bauru é considerado muito bom/excelente.
+Portanto, minha interpretação dessa pista é:
 
-Agora, vamos tentar relacionar essa pista a algum local ou objeto dentro da USP:
+Macro: Prédio da Engenharia Elétrica (PEE)
+Micro: Entrada do prédio ou algum local de fácil acesso logo na entrada
 
-Pesquisando, encontramos que a USP possui um campus em Bauru, chamado de Campus de Bauru. Então, a pista provavelmente está se referindo a algo nesse campus.
+O papel com a próxima pista provavelmente estará escondido em algum ponto de fácil acesso no saguão de entrada do Prédio da Engenharia Elétrica (PEE) da USP.
 
-O "foda" pode estar se referindo a algum prédio, laboratório ou instalação muito boa/importante nesse campus.
-
-Então, o Macro seria o Campus de Bauru da USP.
-
-E o Micro, provavelmente, seria algum prédio, laboratório ou instalação específica desse campus que seja considerada excelente.
-
-Algumas possibilidades de Micro:
-- Algum laboratório ou centro de pesquisa de destaque
-- Algum prédio ou instalação arquitetônica notável
-- Algum evento ou atividade de grande relevância realizada nesse campus
-
-Portanto, a resolução dessa pista seria:
-
-Macro: Campus de Bauru da USP
-Micro: Algum prédio, laboratório ou instalação específica desse campus que seja considerada excelente
-
-Você concorda com essa análise? Precisa de mais alguma informação?
+Você concorda com essa interpretação? Caso tenha alguma outra sugestão, fique à vontade para compartilhar.
 
 
 ============ USER ============
@@ -58,49 +48,60 @@ Vamos aprofundar nosso raciocínio. Baseado no que falamos anteriormente, vamos 
 - Listas de Pokemon, Episódio de One Piece (se tem um número aleatório na pista, procurar pelo Pokemon desse número)
 - Número do Curso no Manual da Fuvest
 - Listas de Ponto de Ônibus
-Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Se poli=19, y=41. Estude o X1 | Explicação: 19 é o número do Pokemon Rattata, que é um rato, mascote da Poli. 41 é o Zubat, um morcego, mascote da FAU. "Estude o" é cacofonia para Estúdio. X1 para remeter a uma pixação no estúdio 2 com essas letras. | Macro: FAU | Micro: Estúdio 2
-||Pista: Moro no maior vizinho da Europa, no número 9, décima casa. | Explicação: Moro no maior vizinho da Europa, no número 9, décima casa.
- 
-
- Maior vizinho da Europa (lua Europa) > Jupiter > Jupiterweb
- Instituto de numero 9 no Jupiterweb > Farma
- Décima casa > Bloco 10 | Macro: Farmácia | Micro: Bloco 10
-||Pista: Começou com D. Fernando, estava com Paulo, e agora a vaga foi para outro Fernando, mas o que tornou a turma toda unida foi o último ano de Pedro M. | Explicação: Os nomes fazem referencia a ministros da Fazenda, o primeiro, o ultimo e o atual. Pedro Malan foi o ministro de 1995 até 2002. | Macro: FEA | Micro: Placa da turma 2002
-||Pista: Zero a esquerda e 1308 donas? Menos... com um zero a esquerda só cinquenta bastam | Explicação: 01308-050 CEP - Rua Dona Adma Jafet - > Auditório na Física | Macro: IF | Micro: Auditório Adma Jafet
-||Pista: Corajosos piratas navegaram por mares desconhecidos | Explicação: Corajosos piratas são os próprios CAs, navegaram remete a web, indo pra página /maresdesconhecidos no site do integra leva pra playlist "melhores músicas de Rock" com 10 músicas de Cigarro de generos diferentes. Rock leva pra Geo e Cigerro pro micro, bituqueira/cinzeiro | Macro: Geo | Micro: CinzeiroA pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Começou com D. Fernando, estava com Paulo, e agora a vaga foi para outro Fernando, mas o que tornou a turma toda unida foi o último ano de Pedro M. | Explicação: Os nomes fazem referencia a ministros da Fazenda, o primeiro, o ultimo e o atual. Pedro Malan foi o ministro de 1995 até 2002. | Macro: FEA | Micro: Placa da turma 2002
+||Pista: E já dizia o Engenheiro Civil:
+ - Lacra o 13!!! | Explicação: "13" remete a PT e, portanto, IPT. 
+ Uma das entradas do IPT possui o 
+ nome do prédio: Adriano Marchini, 
+ que era Eng. Civil. | Macro: IPT | Micro: Entrada antiga
+||Pista: Vivia grudado ao muro próximo de Socrab, sentia que faltava um pedaço de si. Foi quando recebeu uma mensagem do seu consultor da fazenda: 4991902224892289434 | Explicação: Socrab ao contrário > barcos
+ Vivia > bio > barcos da Bio
+ Como Socrab está ao contrário, indica que o número também está > 4349822984222091994, que são um cpf e uma data de nascimento > 434.982.28-42 22/09/1994
+ Consultor da fazenda > consultar cpf no site da receita federal, junto com a data de nascimento > Chapa
+ Grudado ao muro próximo dos barcos da Bio, falta um pedaço de si > aqueles cartazes de "Chapa" pro DCE, que por acaso está rasgado e faltando um pedaço | Macro: Bio | Micro: Cartaz "Chapa" no prédio ao lado da adm
+||Pista: - É aqui que passa o riozinho?- Se pá, hmm... não! Do outro lado! | Explicação: Rio Pequeno (Riozinho) é uma linha de ônibus que passa pela USP.
+ "Se pá, hmm" é cacofonia de CEPAM, mas a linha de ônibus no ponto do CEPAM vai pro sentido contrário, então tem que pegar o ônibus do outro lado da avenida, no ponto da biblioteca da química. | Macro: CEPAM | Micro: Ponto de ônibus (outro lado da avenida)
+||Pista: Se poli=19, y=41. Estude o X1 | Explicação: 19 é o número do Pokemon Rattata, que é um rato, mascote da Poli. 41 é o Zubat, um morcego, mascote da FAU. "Estude o" é cacofonia para Estúdio. X1 para remeter a uma pixação no estúdio 2 com essas letras. | Macro: FAU | Micro: Estúdio 2A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
 
 
-Entendi, vamos aplicar esse método de resolução baseado em listas, catálogos, clusters ou elencações indexadas para a pista "CA Bauru foda".
+Entendi, vamos analisar essa pista com mais profundidade, considerando o método de resolução que você mencionou:
 
-Analisando a pista:
+1. Busca em listas, catálogos, clusters ou elencações indexadas:
+   - Não parece haver uma referência direta a alguma lista ou catálogo nesta pista.
 
-1. "CA Bauru" - Isso provavelmente se refere ao Centro Acadêmico (CA) do campus da USP em Bauru.
+2. Números na pista:
+   - Não há nenhum número explícito na pista.
 
-2. "foda" - Como mencionado anteriormente, essa palavra é gíria e significa algo muito bom, excelente.
+3. Nomes próprios:
+   - A única referência a um nome próprio é "o novo comunista que veio de fora".
+   - Isso provavelmente se refere a alguma figura histórica ou política relacionada ao comunismo.
+   - Uma possibilidade é que seja uma referência a Mao Tsé-Tung, o líder comunista chinês.
 
-Então, a pista está se referindo a algo do CA de Bauru que é considerado excelente.
+4. Siglas ou abreviações:
+   - Não há siglas ou abreviações evidentes na pista.
 
-Vamos procurar por listas, catálogos ou elencações que possam nos dar pistas sobre o que seria esse "algo excelente" do CA de Bauru.
+Analisando a pista com mais detalhes:
 
-Pesquisando, encontramos que o campus da USP em Bauru possui diversos cursos de graduação, como Engenharia, Arquitetura, Odontologia, entre outros.
+- "Tentei subir até o novo comunista que veio de fora":
+  - Isso indica que a próxima pista está localizada em algum prédio ou local da USP relacionado a essa figura comunista.
+  - Considerando a menção a "subir", pode ser que o local esteja em um andar mais alto de algum prédio.
 
-Cada curso possui um Centro Acadêmico (CA) que representa os estudantes daquele curso.
+- "mas cansei bem no começo":
+  - Essa parte da pista sugere que o local onde a próxima pista está escondida é de fácil acesso, logo na entrada ou em um local visível.
+  - A pessoa "cansou bem no começo", ou seja, não precisou fazer muito esforço para encontrar o local.
 
-Então, a pista provavelmente está se referindo a algum CA específico do campus de Bauru que é considerado excelente.
+Portanto, minha interpretação é:
 
-Macro: Campus da USP em Bauru
-Micro: Centro Acadêmico (CA) de um curso específico do campus de Bauru que seja considerado excelente
+Macro: Prédio relacionado a figuras comunistas, possivelmente o Prédio da Engenharia Elétrica (PEE), que tem uma conexão com Mao Tsé-Tung.
+Micro: Entrada do prédio ou algum local de fácil acesso logo na entrada.
 
-Algumas possibilidades de Micro:
-- CA de Engenharia
-- CA de Arquitetura
-- CA de Odontologia
+A próxima pista provavelmente estará escondida em um local de fácil acesso, como a entrada ou saguão do Prédio da Engenharia Elétrica (PEE) da USP.
 
-Você concorda com essa análise? Precisa de mais alguma informação?
+Você concorda com essa interpretação? Tem alguma outra sugestão ou observação?
 
 
 ============ USER ============
@@ -114,37 +115,37 @@ Sintetize as hipóteses levantadas até aqui, e  escreva um vetor (python list) 
 
 Certo, vamos sintetizar as hipóteses levantadas até aqui em um vetor de JSONs:
 
-[
-  {
-    "macro": "Campus de Bauru da USP",
-    "explicacao": "A pista 'CA Bauru foda' provavelmente se refere a algo relacionado ao Centro Acadêmico (CA) de um curso específico do campus da USP em Bauru, que é considerado excelente.",
-    "micro": "Centro Acadêmico (CA) de um curso específico do campus de Bauru que seja considerado excelente (ex: Engenharia, Arquitetura, Odontologia)"
-  },
-  {
-    "macro": "FAU",
-    "explicacao": "A pista 'Se poli=19, y=41. Estude o X1' faz referência a elementos da cultura pop (Pokemon) e remete a algo relacionado à FAU, como um estúdio específico.",
-    "micro": "Estúdio 2"
-  },
-  {
-    "macro": "Farmácia",
-    "explicacao": "A pista 'Moro no maior vizinho da Europa, no número 9, décima casa' faz referência a informações indexadas, como o número do curso na Fuvest e a localização de um prédio da Farmácia.",
-    "micro": "Bloco 10"
-  },
-  {
-    "macro": "FEA",
-    "explicacao": "A pista 'Começou com D. Fernando, estava com Paulo, e agora a vaga foi para outro Fernando, mas o que tornou a turma toda unida foi o último ano de Pedro M.' faz referência a ministros da Fazenda, remetendo à FEA.",
-    "micro": "Placa da turma 2002"
-  },
-  {
-    "macro": "IF",
-    "explicacao": "A pista 'Zero a esquerda e 1308 donas? Menos... com um zero a esquerda só cinquenta bastam' faz referência a um endereço que leva ao Auditório Adma Jafet no Instituto de Física (IF).",
-    "micro": "Auditório Adma Jafet"
-  },
-  {
-    "macro": "Geo",
-    "explicacao": "A pista 'Corajosos piratas navegaram por mares desconhecidos' faz referência a elementos da cultura pop (CAs e músicas) que remetem ao Departamento de Geografia.",
-    "micro": "Cinzeiro"
-  }
+hipoteses = [
+    {
+        "macro": "Prédio da Engenharia Elétrica (PEE)",
+        "explicacao": "A pista se refere a um 'novo comunista que veio de fora', provavelmente uma referência a Mao Tsé-Tung, líder comunista chinês. O PEE possui conexão com figuras comunistas.",
+        "micro": "Entrada do prédio ou local de fácil acesso"
+    },
+    {
+        "macro": "FEA",
+        "explicacao": "Os nomes mencionados na pista fazem referência a ministros da Fazenda, como Pedro Malan.",
+        "micro": "Placa da turma de 2002"
+    },
+    {
+        "macro": "IPT",
+        "explicacao": "A pista menciona 'Lacra o 13!!!' que remete ao PT, e o nome do prédio 'Adriano Marchini' que era engenheiro civil.",
+        "micro": "Entrada antiga"
+    },
+    {
+        "macro": "Bio",
+        "explicacao": "A pista faz referência a 'Socrab' (barcos), CPF e data de nascimento, levando a um cartaz de 'Chapa' para o DCE.",
+        "micro": "Cartaz 'Chapa' no prédio ao lado da adm"
+    },
+    {
+        "macro": "CEPAM",
+        "explicacao": "A pista menciona o 'riozinho' que é uma linha de ônibus da USP, e a cacofonia 'Se pá, hmm' que remete ao CEPAM.",
+        "micro": "Ponto de ônibus (outro lado da avenida)"
+    },
+    {
+        "macro": "FAU",
+        "explicacao": "A pista faz referência a números de Pokémons (Rattata e Zubat) que são mascotes da Poli e FAU, respectivamente.",
+        "micro": "Estúdio 2"
+    }
 ]
 
-Essa é uma síntese das hipóteses levantadas até o momento, organizadas em um vetor de JSONs com as chaves 'macro', 'explicacao' e 'micro'. Cada JSON representa uma pista e sua resolução.
+Essa é uma representação em Python (lista de dicionários) das hipóteses levantadas até o momento, com as chaves 'macro', 'explicacao' e 'micro' (quando houver). Você pode utilizar esse formato para organizar as informações coletadas durante a resolução da pista.

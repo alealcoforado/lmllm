@@ -14,7 +14,7 @@ Abaixo estarão algumas pistas e o exemplo de resolução da pista, junto com o 
 ||Pista: casoEnsolarado | Explicação: A pista está escrita em camelCase, Ensolarado leva a FAU. Camelo é sinonimo para bicicleta em vários estados do Brasil. | Macro: FAU | Micro: Bicicletário
 ||Pista: Zero a esquerda e 1308 donas? Menos... com um zero a esquerda só cinquenta bastam | Explicação: 01308-050 CEP - Rua Dona Adma Jafet - > Auditório na Física | Macro: IF | Micro: Auditório Adma Jafet
 A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
@@ -22,25 +22,23 @@ A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na w
 
 Vamos analisar essa pista passo a passo:
 
-1. "CA Bauru": CA provavelmente se refere a Companhia Agrícola de Bauru, uma empresa que atuava na região de Bauru, interior de São Paulo.
+1. "Tentei subir até o novo comunista que veio de fora": 
+   - Isso pode ser uma referência a Mao Tsé-Tung, líder comunista da China, que veio de fora (da China) para o Brasil.
+   - "Subir" pode ser uma referência a algum prédio ou local na USP relacionado a Mao Tsé-Tung ou ao comunismo.
 
-2. "foda": Essa palavra é gíria e significa algo muito bom, impressionante.
+2. "mas cansei bem no começo":
+   - Isso pode indicar que o local onde a próxima pista está escondida fica no início/começo de algum caminho ou prédio.
 
-Portanto, a pista parece estar se referindo a algo relacionado à Companhia Agrícola de Bauru que é considerado muito bom ou impressionante.
+Portanto, a explicação da pista pode ser:
 
-Analisando o contexto do jogo da caça ao tesouro da Escola Politécnica da USP, podemos fazer as seguintes associações:
+Macro: Algum local na USP relacionado a Mao Tsé-Tung ou ao comunismo, possivelmente no início de um prédio ou caminho.
+Micro: O local específico onde a próxima pista está escondida, provavelmente no começo desse prédio ou caminho.
 
-Macro: Provavelmente algo relacionado à Escola Politécnica ou à USP que tenha ligação com a Companhia Agrícola de Bauru.
+Algumas sugestões de locais que podem se encaixar:
+- Prédio da Filosofia, Letras e Ciências Humanas (FFLCH), pois pode ter alguma referência a Mao Tsé-Tung.
+- Entrada de algum prédio ou caminho na USP.
 
-Micro: O local específico dentro do macro onde devemos procurar a próxima pista, possivelmente algo que seja considerado "foda" (muito bom) nesse contexto.
-
-Algumas possíveis resoluções:
-
-- A Escola Politécnica possui um laboratório ou projeto de pesquisa relacionado à agricultura que tenha ligação com a Companhia Agrícola de Bauru.
-- Existe alguma obra de arte, escultura ou monumento na USP que faça referência à Companhia Agrícola de Bauru e seja considerada impressionante.
-- Pode haver algum evento ou atividade realizada pela Escola Politécnica que tenha ligação com a Companhia Agrícola de Bauru e seja considerada muito boa.
-
-Portanto, a sugestão de Macro seria algum local da Escola Politécnica ou da USP relacionado à Companhia Agrícola de Bauru, e o Micro seria o local específico dentro desse Macro onde a próxima pista estaria escondida.
+O que você acha dessa análise? Precisa de mais alguma informação para tentar chegar ao Macro e Micro corretos?
 
 
 ============ USER ============
@@ -55,40 +53,38 @@ Vamos aprofundar nosso raciocínio. Baseado no que falamos anteriormente, vamos 
 - Fachadas de Instituto
 - Poste de Luz
 - Lixeira
-Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Porra, dividiram o Chicão no meio! Pelo menos as duas partes ainda conseguem se encontrar... | Explicação: Chico - Rua Francisco dos Santos. Dividiram - muro (tem parte da rua dentro da USP e fora da USP). Partes se encontram pelo portão | Macro: Rua Francisco dos Santos | Micro: Portão de Pedestres
-||Pista: Quem não cola não sai da escola | Explicação: a pista tem um código nela que copia na area de transferencia de quem ve no site a frase "a não ser que você atue bem", levando pra escola de artes dramaticas. Sobre saída, deixa no micro placa de rua sem saída | Macro: ECA | Micro: Placa de rua sem saída no teatro laboratorio
-||Pista: Para ganhar a Pole, você vai ter que parar de andar com os parentes do Aiub | Explicação: Pole -> P1, parentes do Monark -> bicicleta. Para de andar -> paraciclos | Macro: P1 | Micro: Paraciclos
-||Pista: Se quiser contar uma outra história do mensalão ou da lava-jato é melhor procurar na biblioteca | Explicação: são livros de um cara com msm sobrenome do Dante | Macro: psico | Micro: biblioteca
-||Pista: Porque o Abra não pode dar uma colher de chá? Porque ele não tem uma! Mas logo ali pode pegar emprestado. | Explicação: Abra - Pokemon Psiquico, Psico. Pegar a colher emprestado em algum lugar que vende comida - Trailer da Psico. | Macro: Psico | Micro: Trailer de ComidaA pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Mario 3 iluminou a placa e ganhou a moeda de ouro | Explicação: einstein ganhou o nobel pelo efeito fotoelétrico. a pixação é uma paródia da ilustração de capa do jogo super mario bros 3 | Macro: IF | Micro: grafite de einstein no corredor atrás do cj. abraão de moraes
+||Pista: Cenourinha, o grupo A te aguarda. | Explicação: Cenourinha é o nome que o Louco chama o cebolinha, portanto se referindo a psico. Grupo A se refere ao recolhedor de livros, na saída da biblioteca. | Macro: Psico | Micro: Recolhedor de livros da artmed, do grupo A
+||Pista: Depois de enfrentar essa zebra toda, Haddad tomou muito cuidado para não despencar. Infelizmente, veio de lá de cima. | Explicação: Zebra é uma referência direta a uma faixa de pedestres. Haddad foi prefeito de São Paulo, fazendo uma referência à prefeitura do Campus. Despencar leva ao local da pista, um barranco íngreme no local. | Macro: Prefeitura | Micro: Barranco em frente
+||Pista: Era uma casa muito engraçada,
+ Mas que agora tá reformada. | Explicação: A casinha tava toda destruída antes e agora tá bonitinha reformada. É assim direto, pista bosta. | Macro: Casa do Capeta perto do Portão do IPT | Micro: 
+||Pista: Misteriosamente como chegou, também se foi. Talvez por água abaixo. | Explicação: Meio óbvia. Mistério como foi contruído o original e o da USP sumiu de repente. Água abaixo para olhar no cano da primeira escada entre patamares | Macro: Stonehenge | Micro: EscadaA pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
 
 
-Analisando a pista "CA Bauru foda" e seguindo o padrão de resolução que você mencionou, podemos chegar à seguinte solução:
+Analisando a pista com o contexto de referências visuais na USP, podemos chegar ao seguinte:
 
-Macro: 
-A referência a "CA Bauru" provavelmente está relacionada a algum elemento visual da Escola Politécnica da USP (Poli) que tenha ligação com a Companhia Agrícola de Bauru. Algumas possibilidades:
-
-- Alguma placa, mural ou instalação na Poli que faça menção à Companhia Agrícola de Bauru
-- Algum laboratório, projeto ou pesquisa da Poli relacionado à agricultura ou à Companhia Agrícola de Bauru
+Macro:
+- A referência ao "novo comunista que veio de fora" pode ser uma alusão a alguma estátua ou obra de arte relacionada a líderes comunistas, como Mao Tsé-Tung.
+- Alguns locais na USP que podem ter esse tipo de referência visual seriam o Museu de Arte Contemporânea (MAC) ou algum prédio da Faculdade de Filosofia, Letras e Ciências Humanas (FFLCH).
 
 Micro:
-A parte "foda" da pista indica que o local específico onde devemos procurar a próxima pista é algo que seja considerado muito bom, impressionante ou de destaque dentro desse Macro relacionado à Companhia Agrícola de Bauru. Algumas possibilidades:
+- A parte "mas cansei bem no começo" indica que o local específico onde a próxima pista está escondida fica no início/entrada desse prédio ou local relacionado ao comunismo.
+- Algumas possibilidades seriam a entrada do prédio, um mural, uma estátua ou placa na fachada, ou algo similar logo na entrada do local.
 
-- Uma escultura, obra de arte ou instalação visual que seja considerada "foda" (muito boa) nesse contexto
-- Um equipamento, ferramenta ou estrutura que seja utilizada nos projetos/pesquisas relacionados à Companhia Agrícola de Bauru e seja considerada de destaque
+Então, o Macro poderia ser:
+- MAC (Museu de Arte Contemporânea) 
+- Prédio da FFLCH (Faculdade de Filosofia, Letras e Ciências Humanas)
 
-Então, o Macro seria algum local da Poli relacionado à Companhia Agrícola de Bauru, e o Micro seria um elemento visual específico dentro desse Macro que seja considerado "foda" (muito bom).
+E o Micro poderia ser:
+- Entrada do prédio
+- Mural ou estátua na fachada
+- Placa ou objeto logo na entrada
 
-Algumas perguntas que poderiam ajudar a refinar a solução:
-
-- Existe algum laboratório, projeto ou pesquisa da Poli relacionado à agricultura ou à Companhia Agrícola de Bauru?
-- Há alguma placa, mural ou instalação visual na Poli que faça menção à Companhia Agrícola de Bauru?
-- Existem obras de arte, esculturas ou estruturas na Poli que sejam consideradas de destaque ou "foda" pelos alunos?
-
-Com essas informações adicionais, poderíamos chegar a uma solução mais precisa para o Macro e o Micro desta pista.
+O que você acha dessa análise? Consegue ver alguma outra possibilidade com base nesse método de resolução por referências visuais?
 
 
 ============ USER ============
@@ -100,37 +96,19 @@ Sintetize as hipóteses levantadas até aqui, e  escreva um vetor (python list) 
 ========== ASSISTANT ==========
 
 
-Baseado nas análises e hipóteses levantadas, podemos sintetizar as seguintes soluções em um vetor de dicionários (JSONs) em Python:
+Baseado na análise realizada, aqui estão as hipóteses sintetizadas em um vetor de JSONs:
 
-soluções = [
+hipoteses = [
     {
-        'macro': 'Algum local da Escola Politécnica (Poli) relacionado à Companhia Agrícola de Bauru',
-        'explicação': 'A pista "CA Bauru foda" provavelmente se refere a algum elemento visual da Poli que tenha ligação com a Companhia Agrícola de Bauru, como uma placa, mural, laboratório ou projeto de pesquisa.',
-        'micro': 'Algum equipamento, ferramenta ou estrutura dentro do macro que seja considerada "foda" (muito boa) pelos alunos'
+        "macro": "MAC (Museu de Arte Contemporânea)",
+        "explicacao": "Referência a líderes comunistas, como Mao Tsé-Tung, que podem ter alguma obra de arte ou estátua no MAC.",
+        "micro": "Entrada do prédio, mural ou estátua na fachada, placa ou objeto logo na entrada"
     },
     {
-        'macro': 'Rua Francisco dos Santos',
-        'explicação': 'A pista faz referência à Rua Francisco dos Santos, que é dividida entre a USP e a área externa, com os portões de pedestres sendo o local onde as duas partes se encontram.',
-        'micro': 'Portão de pedestres'
-    },
-    {
-        'macro': 'ECA (Escola de Comunicações e Artes)',
-        'explicação': 'A pista contém um código que leva à frase "a não ser que você atue bem", remetendo à Escola de Artes Dramáticas da ECA. A saída da escola é representada pela placa de rua sem saída no teatro laboratório.',
-        'micro': 'Placa de rua sem saída no teatro laboratório'
-    },
-    {
-        'macro': 'P1 (Prédio 1 da Poli)',
-        'explicação': 'A pista faz referência à "Pole", que é uma gíria para P1. Os "parentes do Aiub" (Monark) são bicicletas, então o local onde se deve parar de andar são os paraciclos.',
-        'micro': 'Paraciclos'
-    },
-    {
-        'macro': 'Prédio de Psicologia',
-        'explicação': 'A pista faz referência a livros sobre o mensalão e Lava Jato, com o mesmo sobrenome do Dante, levando ao prédio de Psicologia.',
-        'micro': 'Biblioteca'
-    },
-    {
-        'macro': 'Prédio de Psicologia',
-        'explicação': 'A pista faz referência ao Pokémon Abra, que é do tipo Psíquico, e a "pegar emprestado" uma colher, levando ao trailer de comida no prédio de Psicologia.',
-        'micro': 'Trailer de Comida'
+        "macro": "Prédio da FFLCH (Faculdade de Filosofia, Letras e Ciências Humanas)",
+        "explicacao": "Referência a líderes comunistas, como Mao Tsé-Tung, que podem ter alguma referência no prédio da FFLCH.",
+        "micro": "Entrada do prédio, mural ou estátua na fachada, placa ou objeto logo na entrada"
     }
 ]
+
+Essa estrutura de vetor de dicionários (JSONs) permite que tenhamos múltiplas hipóteses, cada uma com seu Macro, Explicação e Micro correspondentes. Dessa forma, podemos explorar diferentes possibilidades com base na análise da pista.

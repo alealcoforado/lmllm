@@ -14,7 +14,7 @@ Abaixo estarão algumas pistas e o exemplo de resolução da pista, junto com o 
 ||Pista: casoEnsolarado | Explicação: A pista está escrita em camelCase, Ensolarado leva a FAU. Camelo é sinonimo para bicicleta em vários estados do Brasil. | Macro: FAU | Micro: Bicicletário
 ||Pista: Zero a esquerda e 1308 donas? Menos... com um zero a esquerda só cinquenta bastam | Explicação: 01308-050 CEP - Rua Dona Adma Jafet - > Auditório na Física | Macro: IF | Micro: Auditório Adma Jafet
 A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
@@ -22,19 +22,24 @@ A pista atual está abaixo. Raciocine passo-a-passo, buscando informações na w
 
 Vamos analisar essa pista passo a passo:
 
-1. "CA Bauru": CA provavelmente se refere a Companhia Agrícola de Bauru, uma empresa que atuava na região de Bauru, interior de São Paulo.
+1. "Tentei subir até o novo comunista que veio de fora":
+   - A referência a "novo comunista que veio de fora" pode estar se referindo a Mao Tsé-Tung, o líder comunista chinês.
+   - Isso pode estar relacionado ao Instituto de Relações Internacionais (IRI) da USP, que possui estudos sobre a China e o comunismo.
 
-2. "foda": Essa palavra é uma gíria que significa algo muito bom, excelente.
+2. "mas cansei bem no começo":
+   - Essa parte da pista pode estar se referindo a uma subida, como subir escadas ou um prédio.
+   - Portanto, o "começo" pode ser a entrada ou o térreo de algum prédio da USP.
 
-Então, a pista parece estar se referindo a algo relacionado à Companhia Agrícola de Bauru, que é considerado "foda", ou seja, algo muito bom.
+Então, analisando a pista como um todo:
 
-Fazendo uma busca rápida, encontramos que a Companhia Agrícola de Bauru tinha uma fazenda experimental na região de Bauru, onde realizava pesquisas agrícolas.
+Macro: Instituto de Relações Internacionais (IRI)
+Micro: Entrada/térreo de algum prédio do IRI
 
-Portanto, acredito que o "macro" seja a Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ), que fica em Piracicaba, mas possui uma fazenda experimental em Bauru.
+A pista parece estar se referindo a uma subida, possivelmente de escadas ou de um prédio do IRI, relacionada de alguma forma a Mao Tsé-Tung ou ao comunismo chinês.
 
-E o "micro" provavelmente será algum local específico dentro dessa fazenda experimental em Bauru, talvez uma placa, um monumento ou algo que faça referência à Companhia Agrícola de Bauru e sua importância para a pesquisa agrícola.
+Portanto, a próxima pista provavelmente estará localizada na entrada/térreo de algum prédio do Instituto de Relações Internacionais (IRI) da USP.
 
-O que você acha? Essa interpretação faz sentido? Precisa de alguma outra informação para chegar a uma resolução mais completa?
+Você concorda com essa análise? Tem alguma outra sugestão ou dúvida?
 
 
 ============ USER ============
@@ -47,34 +52,81 @@ Vamos aprofundar nosso raciocínio. Baseado no que falamos anteriormente, vamos 
 - Celebridades
 - Jogos (de tabuleiro ou online)
 - Premiações (como Grammy, Oscar, etc)
-Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Entre usina e arte é possível gravar Coco | Explicação: Usina remete a caldeiras, nos levando à casa das caldeiras da USP. Arte remete a um museu de arte, no caso o MAC. O filme Coco nos leva ao dia dos mortos, fazendo referência a estátuas que parecem lápides entre os dois institutos. | Macro: Crusp | Micro: "cemitério" no Crusp ao lado da Praça dos Passáros
-||Pista: - Eu não quero aqui, prefiro uma poltrona
- - Vida, você pede tanta coisa... | Explicação: Poltrona remete a banco. Slogan da Caixa Econômica Federal "A vida pede mais que um banco" | Macro: Bancos | Micro: Caixa - banco
-||Pista: Albert Einstein me falou que a saída é de um em um | Explicação: Albert Einstein - IF -> Me falou que a saída - Placa de Saída -> de um em um - Passar um veiculo por vez | Macro: IF | Micro: Placa "Saída Passar Apenas um Veiculo por Vez"
-||Pista: Misteriosamente como chegou, também se foi. Talvez por água abaixo. | Explicação: Meio óbvia. Mistério como foi contruído o original e o da USP sumiu de repente. Água abaixo para olhar no cano da primeira escada entre patamares | Macro: Stonehenge | Micro: Escada
-||Pista: Com você eu obtenho o Exilir da Imortalidade! | Explicação: O Elixir da Imortalidade (também 
- conhecido como Elixir da Longa Vida) 
- seria obtido com a pedra filosofal, 
- objeto de desejo por parte dos Alquimistas. 
- Na frente da entrada do IQ, tem 
- uma pedra quadrada gigante cheia de 
- desenhos. | Macro: QUÍMICA | Micro: Pedra da entrada
- do prédioA pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
-||Pista: CA Bauru foda
+Abaixo, seguem alguns exemplos que usam este mesmo método de resolução||Pista: Olha só, esse menino foi o assunto do grupo de oração por meses! Mas quem diria, era só acreditar no Santos. | Explicação: MC Livinho ou Oliver Decesary Santos foi violinista no começo de sua carreira em uma igreja evangélica e afirma ser, até hoje, adepto da religião. "Olha só, mas quem diria/ Você não botava fé" são os primeiros versos de sua música "Tenebrosa". | Macro: Música | Micro: 
+||Pista: - Alpha Crucis, meu PC deu pau.
+ - E agora, Alpha Delphini, como vamos jogar CS?
+ - Ah! Eu tenho uma idéia... | Explicação: Alpha Crucis e Alpha Delphini são duas estrelas, 
+ o que por si remete ao IAG.
+ A pista remete a estrelas querendo utilizar
+ computador.
+ Dentro do IAG, existe o Laboratório 
+ de Astroinformática, no qual um dos
+ computadores se chama Alphacrucis. | Macro: IAG | Micro: Laboratório de 
+ Astroinformática
+||Pista: JJBA_7_28.mp3 - 5 69 115 291 332 435 633 747 826 1010 | Explicação: JJBA - Jojos Bizarre Adventure, o 7 indica a Parte, o 28indica o capitulo. O nome deste capitulo é "Scary Monsters, Part 1". Como queremos um 'mp3' a pista indica a música Scary Monsters, de David Bowie. Pegando os caracteres da letra representadas pelos números chegamos em H I D R A U L I C A | Macro: POLI | Micro: Hidraulica
+||Pista: Bela Emilia usava um sapatinho de judia quando estava envolta pelo carpinteiro. | Explicação: Bela emilia e Sapatinho de judia sao plantas trepadeiras; ao buscar o carpinteiro, a busca dá em uma musica de um cantor Alessandro Vilas Boas.
+ Usando o primeiro nome do cantor, e a referencia "envolta" conseguimos chegar a Alessandro Volta, prédio do IF. As trepadeiras se encontram envoltas por dois prédios Alessandro Volta. | Macro: IF | Micro: Trepadeiras entre os dois blocos dos predios Alessandro Volta
+||Pista: Sob a Terra espero caminhar com o líder do estado dos amantes de William. | Explicação: Amantes de William > Romeu e Julieta
+ Estado dos amantes > RJ
+ Lider do RJ > reitor carioca, Luciano Gualberto
+ Sob a Terra > embaixo da Geo
+ Espero caminhar > Semáforo de pedestres | Macro: Geo | Micro: Semáforo de pedestres sob a GEOA pista atual está abaixo. Raciocine passo-a-passo, buscando informações na web se julgar necessário, e vamos tentar gerar uma explicação que remeta a um Macro e um Micro onde deveremos procurar o papel com a próxima pista. Lembre-se que é incomum que haja redundância nos trechos da pista. Ou seja, se uma parte da pista remete ao Macro, provavelmente essa mesma parte não remete também ao Micro. Da mesma forma se uma parte já remete ao Macro, a outra parte provavelmente remete ao Micro ou a uma info auxiliar que confirme o Macro. Se precisar, pode me fazer perguntas para que eu explique algumas siglas ou qualquer outra coisa que achar necessário.
+||Pista: Tentei subir até o novo comunista que veio de fora, mas cansei bem no começo
 
 
 ========== ASSISTANT ==========
 
 
+Entendi, vamos analisar essa pista usando o método de resolução baseado em cultura pop e conhecimento geral.
 
+Analisando a pista:
+
+1. "Tentei subir até o novo comunista que veio de fora":
+   - A referência ao "novo comunista que veio de fora" pode estar se remetendo a Mao Tsé-Tung, o líder comunista chinês.
+   - Isso pode estar relacionado ao Instituto de Relações Internacionais (IRI) da USP, que possui estudos sobre a China e o comunismo.
+
+2. "mas cansei bem no começo":
+   - Essa parte da pista pode estar se referindo a uma subida, como subir escadas ou um prédio.
+   - Portanto, o "começo" pode ser a entrada ou o térreo de algum prédio da USP.
+
+Então, analisando a pista como um todo:
+
+Macro: Instituto de Relações Internacionais (IRI)
+Micro: Entrada/térreo de algum prédio do IRI
+
+A pista parece estar se referindo a uma subida, possivelmente de escadas ou de um prédio do IRI, relacionada de alguma forma a Mao Tsé-Tung ou ao comunismo chinês.
+
+Portanto, a próxima pista provavelmente estará localizada na entrada/térreo de algum prédio do Instituto de Relações Internacionais (IRI) da USP.
+
+Você concorda com essa análise? Tem alguma outra sugestão ou dúvida?
 
 
 ============ USER ============
 
 
-
+Sintetize as hipóteses levantadas até aqui, e  escreva um vetor (python list) de JSONs com chaves 'macro', 'explicação' (resumida) e 'micro' (quando houver)
 
 
 ========== ASSISTANT ==========
 
 
+Baseado nas análises feitas até aqui, podemos sintetizar as hipóteses da seguinte forma:
+
+Hipóteses:
+
+1. A pista se refere a Mao Tsé-Tung, o líder comunista chinês, que pode estar relacionado ao Instituto de Relações Internacionais (IRI) da USP.
+2. A menção a "subir" e "cansar no começo" pode estar se referindo a uma subida de escadas ou entrada de um prédio do IRI.
+
+Vetor de JSONs:
+
+[
+    {
+        "macro": "Instituto de Relações Internacionais (IRI)",
+        "explicação": "A pista se refere a Mao Tsé-Tung, o líder comunista chinês, que pode estar relacionado ao IRI da USP.",
+        "micro": "Entrada/térreo de algum prédio do IRI"
+    }
+]
+
+Essa é a síntese das hipóteses levantadas até o momento. O vetor de JSONs contém a informação do macro (Instituto de Relações Internacionais), a explicação resumida e o micro (entrada/térreo de algum prédio do IRI), onde provavelmente a próxima pista será encontrada.
+
+Você concorda com essa síntese? Tem alguma sugestão ou dúvida adicional?
